@@ -135,7 +135,7 @@ permalink: /team/
 
 <p> Rachel is a student of physical oceanography.  Her current focus of research is the Gulf of the Farallones, in the larger context of the California Current System.</p>
 <p> A confluence of interests has brought her to the study of physical oceanography.  Her background is in physical geography and cartography (Bachelor of Science, UC Berkeley).  As a long-time open water rower on San Francisco Bay she has an intimate understanding of ocean water in motion.  And as an animal care volunteer at The Marine Mammal Center in Sausalito, she is witness to the changing patterns in the animals brought to them in need of care, indications of change in the ocean.</p>
-<p> Understanding the movements of water and of energy in the oceans is key to understanding the patterns of life and of change.  The Pacific Ocean is the largest ocean basin on earth, and we are fortunate to live and work on its eastern boundary.  She hopes, through her research, to help us better understand our ocean and our world.</p>
+<p> Understanding the movements of water and of energy in the oceans is key to understanding the patterns of life and of change.  The Pacific Ocean is the largest ocean basin on earth, and we are fortunate to live and work on its eastern boundary. She hopes, through her research, to help better understand the impacts of anthropogenic change on our ocean and on our world.</p>
 
 </div></div></div></div>
 
