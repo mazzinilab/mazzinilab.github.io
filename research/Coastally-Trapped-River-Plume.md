@@ -43,7 +43,7 @@ permalink: /research/Coastally-Trapped-River-Plume/
 
 <div class="container">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_7457.jpg" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_7457.JPG" width="450px" height="auto" />
 <figcaption> R/V Savannah and the meteorological buoys used in the project
 </figcaption>
 </figure>
@@ -53,12 +53,12 @@ permalink: /research/Coastally-Trapped-River-Plume/
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6650.jpg" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6650.JPG" width="450px" height="auto" />
 <figcaption> Dr. Bob Chant deploying the Wirewalker
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6377.jpg" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6377.JPG" width="450px" height="auto" />
 <figcaption> Moorings and buoys deployment
 </figcaption>
 </figure>

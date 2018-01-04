@@ -14,7 +14,7 @@ permalink: /research/california-undercurrent/
 
 **Richard Dugdale, Piero Mazzini; Cassia Pianca; Frances Wilkerson**
 
-This work is being developed in collaboration with the Wilkerson/Dugdale Lab (from EOS Center). The California Undercurrent (CUC) is long known as the source of nutrients for the upwelling systems off the West Coast of USA, yet, little is know about the variability of nutrients within the CUC. The goal of this project is to understand the time and spatial variability of hydrographic properties, nutrients (nitrate and silicate) and dissolved oxygen, and especially how these properties may responde to interannual oceanic variability, such as ENSO and PDO.
+This work is being developed in collaboration with the Wilkerson/Dugdale Lab (from EOS Center). The California Undercurrent (CUC) is long known as the source of nutrients for the upwelling systems off the West Coast of USA, yet, little is know about the variability of nutrients within the CUC. The goal of this project is to understand the time and spatial variability of hydrographic properties, nutrients and dissolved oxygen, and especially how these properties may responde to interannual oceanic variability, such as ENSO and PDO.
 
 </div>
 

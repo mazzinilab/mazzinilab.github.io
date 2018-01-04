@@ -11,10 +11,10 @@ date: 2017-10-22
 The students from my Coastal Processes class went on a field trip to the San Francisco Bay on board of the R/V Questuary. We measured currents, temperature, salinity, turbidity, dissolved oxygen and chlorophyll in this urbanized estuary. The photos from this trip can be found [here]({{ site.url }}{{ site.baseurl }}/photos/coastal_processes/).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/coastal_processes/IMG_0001.jpg" width="800px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/coastal_processes/IMG_0001.JPG" width="800px" height="auto" />
 <figcaption> R/V Questuary
 </figcaption>
 </figure>
 
-	
+
 <div>

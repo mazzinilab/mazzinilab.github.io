@@ -18,7 +18,7 @@ date: 2017-08-22
 <div class="container">
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Piero_SaltyDog.jpg" width="600px" height="400px" />
-<figcaption> R/V Salty Dog 
+<figcaption> R/V Salty Dog
 </figcaption>
 </figure>
 <figure>
@@ -27,16 +27,13 @@ date: 2017-08-22
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_3800 2.jpg" width="500px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_3800 2.JPG" width="500px" height="auto" />
 <figcaption> CTD cast under the Golden Gate Bridge, San Francisco
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_0216.jpg" width="600px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_0216.JPG" width="600px" height="auto" />
 <figcaption> EOS Center Pier
 </figcaption>
 </figure>
 </div>
-
-
-
