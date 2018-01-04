@@ -1,0 +1,12 @@
+
+<div class="well">
+<h4><b>News</b></h4>
+
+
+{% for post in site.posts limit:20 %}
+<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html"> Read All News</a></h4>
+
+</div>
