@@ -61,8 +61,8 @@ permalink: /
 <div id = 'text' style='position:relative;'>
 
 <div style="text-align:justify" markdown="1">
-<p> The Coastal Oceanography Laboratory (COLAB) is part of the Estuary & Ocean Science Center (EOS Center), which is San Francisco State University (SFSU) marine and estuarine research facility. We are situated in the picturesque town of Tiburon, located just north of San Francisco, California.</p> 
-<p> COLAB's mission is to advance our understanding of how the coastal ocean works. We study the circulation and dynamics of the coastal ocean and estuaries, with special interest to questions that can benefit society and aid in the proper management of our oceans and coastal regions. Some topics of interest, include:</p> 
+<p> The Coastal Oceanography Laboratory (COLAB) is part of the Estuary & Ocean Science Center (EOS Center), which is San Francisco State University (SFSU) marine and estuarine research facility. We are situated in the picturesque town of Tiburon, located just north of San Francisco, California.</p>
+<p> COLAB's mission is to advance our understanding of how the coastal ocean works. We study the circulation and dynamics of the coastal ocean and estuaries, with special interest to questions that can benefit society and aid in the proper management of our oceans and coastal regions. Some topics of interest, include:</p>
 
 * Upwelling/downwelling;
 * Impact of river runoff in the coastal ocean;
@@ -73,9 +73,9 @@ permalink: /
 * Ocean observing technologies;
 * Numerical Modeling of coastal regions.
 
-<p> To understand the high complexity of the ocean, we use a combination of in situ observations from underwater gliders, moorings, shipboard data, lagrangean drifters, satellite remote sensing (sea surface temperature, ocean color, winds, altimetry), High-Frequency land-based radars (measures surface currents), and numerical modeling.</p> 
-<p> Locally, our work focuses in the Gulf of the Farallones and in the San Francisco Bay estuary, but we have ongoing collaborations in both East and West coast of the US and South America. Our work also contributes to the missions of the [San Francisco Bay National Estuarine Research Reserve (NERR)](http://www.sfbaynerr.org/), the [Greater Farallones National Marine Sanctuary (GFNMS)](https://farallones.noaa.gov/) and the [Cordell Bank National Marine Sanctuary (CBNMS)](https://cordellbank.noaa.gov/).</p> 
-<p> **We are looking for passionate new Graduate/Undergraduate students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**</p> 
+<p> To understand the high complexity of the ocean, we use a combination of in situ observations from underwater gliders, moorings, shipboard data, lagrangean drifters, satellite remote sensing (sea surface temperature, ocean color, winds, altimetry), High-Frequency land-based radars (measures surface currents), and numerical modeling.</p>
+<p> Locally, our work focuses in the Gulf of the Farallones and in the San Francisco Bay estuary, but we have ongoing collaborations in both East and West coast of the US and South America. Our work also contributes to the missions of the [San Francisco Bay National Estuarine Research Reserve (NERR)](http://www.sfbaynerr.org/), the [Greater Farallones National Marine Sanctuary (GFNMS)](https://farallones.noaa.gov/) and the [Cordell Bank National Marine Sanctuary (CBNMS)](https://cordellbank.noaa.gov/).</p>
+<p> **We are looking for passionate new Graduate/Undergraduate students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**</p>
 
 </div>
 </div>
