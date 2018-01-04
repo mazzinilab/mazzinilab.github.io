@@ -40,7 +40,9 @@ Bachelor Thesis: <em>"Wave refraction and littoral drift in Caravelas region - B
 </div>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+
+<br><br><br><br>
 
 <div class="container-fluid">
 <div class="row">
