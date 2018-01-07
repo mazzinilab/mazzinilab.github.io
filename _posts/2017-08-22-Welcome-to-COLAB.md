@@ -24,12 +24,12 @@ date: 2017-08-22
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_3800 2.jpg" class="img-responsive" width="500px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_3800 2.JPG" class="img-responsive" width="500px" height="auto" />
 <figcaption> CTD cast under the Golden Gate Bridge, San Francisco
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_0216.jpg" class="img-responsive" width="600px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_0216.JPG" class="img-responsive" width="600px" height="auto" />
 <figcaption> EOS Center Pier
 </figcaption>
 </figure>

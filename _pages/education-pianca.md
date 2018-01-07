@@ -46,7 +46,7 @@ Bachelor Thesis: <em>"Wave refraction and littoral drift in Caravelas region - B
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8503.jpg" class="img-responsive" width="500px" alt="Cassia Jamaica Bay"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8503.JPG" class="img-responsive" width="500px" alt="Cassia Jamaica Bay"/>
 <figcaption> Mooring deployment at Jamaica Bay - New York
 </figcaption>
 </figure>

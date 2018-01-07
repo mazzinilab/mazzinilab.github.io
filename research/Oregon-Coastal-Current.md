@@ -23,12 +23,12 @@ permalink: /research/Oregon-Coastal-Current/
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/glider.jpg" width="100%" class="img-responsive" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/glider.JPG" width="100%" class="img-responsive" />
 <figcaption>Underwater Glider
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/piero_glider2.jpg" width="100%" class="img-responsive"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/piero_glider2.JPG" width="100%" class="img-responsive"/>
 <figcaption>Piero Mazzini and Chris Ordonez recovering a glider at Newport, Oregon.
 </figcaption>
 </figure>

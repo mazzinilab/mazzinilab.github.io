@@ -17,7 +17,7 @@ permalink: /education-mazzini/
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/glider_piero.jpg" class="img-responsive" width="100%" alt="Piero Glider"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/glider_piero.JPG" class="img-responsive" width="100%" alt="Piero Glider"/>
 <figcaption> Deploying underwater gliders off the Oregon coast.
 </figcaption>
 </figure>
@@ -44,7 +44,7 @@ Dissertation: [<em> “The effect of river discharge and wind forcing on the Ore
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8559.jpg" class="img-responsive" width="500px" alt="hudson"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8559.JPG" class="img-responsive" width="500px" alt="hudson"/>
 <figcaption> Oceanographic survey at Hudson River, New York
 </figcaption>
 </figure>

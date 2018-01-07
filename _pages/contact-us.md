@@ -40,7 +40,7 @@ Tiburon, CA 94920 </p>
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_above.jpg" class="img-responsive" width="490px" height="auto" alt="RTC"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_above.JPG" class="img-responsive" width="490px" height="auto" alt="RTC"/>
 <figcaption> Romberg Tiburon Campus
 </figcaption>
 </figure>

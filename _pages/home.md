@@ -25,28 +25,28 @@ permalink: /
 <!-- Items -->
 <div class="carousel-inner" role="listbox" markdown="0">
 <div class="item active">
-<img class="first-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/piero_rinko.jpg" class="img-responsive"  alt="Slide 1"/>
+<img class="first-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/piero_rinko.JPG" class="img-responsive"  alt="Slide 1"/>
 </div>
 <div class="item">
 <img class="second-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/david_boat.jpg" class="img-responsive" alt="Slide 2" />
 </div>
 <div class="item">
-<img class="third-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/piero_amanda.jpg" class="img-responsive" alt="Slide 3" />
+<img class="third-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/piero_amanda.JPG" class="img-responsive" alt="Slide 3" />
 </div>
 <div class="item">
 <img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rosette_students3.jpg" class="img-responsive" alt="Slide 4" />
 </div>
 <div class="item">
-<img class="fifth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rosette_students.jpg" class="img-responsive" alt="Slide 5" />
+<img class="fifth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rosette_students.JPG" class="img-responsive" alt="Slide 5" />
 </div>
 <div class="item">
-<img class="sixth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/boat_golden.jpg" class="img-responsive" alt="Slide 6" />
+<img class="sixth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/boat_golden.JPG" class="img-responsive" alt="Slide 6" />
 </div>
 <div class="item">
 <img class="seventh-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rtc_pier.jpg" class="img-responsive" alt="Slide 7" />
 </div>
 <div class="item">
-<img class="eigth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/SF_GG.jpg" class="img-responsive" alt="Slide 8" />
+<img class="eigth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/SF_GG.JPG" class="img-responsive" alt="Slide 8" />
 </div>
 </div>
 <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
