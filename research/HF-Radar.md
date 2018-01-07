@@ -14,27 +14,25 @@ permalink: /research/HF-Radar/
 
 **Cassia Pianca; Piero Mazzini; John Largier; Toby Garfield**
 
-<p> San Francisco Bay (SFB) is the largest estuary along the West Coast of the United States, through which the majority of California runoff drains to the ocean, and surrounded by a major metropolitan area comprised of the cities of San Francisco, Oakland, San Jose and more. </p> 
-<p> The outer estuary is a 3-way junction between the northern bay-delta system, the low-inflow south bay, and the ocean. This is known as Central Bay. Circulation and stratification here is a major factor in the exchange between SFB and the ocean, influencing not only intrusions of seawater but also outflow of low-salinity water over the shelf that impacts ecosystems in the Greater Farallones National Marine Sanctuary. </p> 
-<p> Monitoring of near-surface currents in SFB began in 2006, funded by a State program – the Coastal Ocean Currents Monitoring Program (COCMP) – and has been continued through support from NOAA through the national [Integrated Ocean Observing System (IOOS)](https://ioos.noaa.gov/) and the [Central and Northern California Ocean Observing System (CeNCOOS)](http://www.cencoos.org/). Several high-frequency (HF) radar stations have been set up in SFB, with long-term data from 5 stations around Central Bay. </p> 
-<p> These stations operate at 42 MHz providing currents every 30 minutes with a spatial resolution of 500 m that fully resolves the spatio-temporal pattern of the tidal inflow jet and its interaction with the complex topography of Central Bay. These HF-radar data cover a region of approximately 10 km by 12 km. This decade-long, high-resolution measurements in this region allow us an unprecedented opportunity to investigate near-surface circulation over time scales ranging from tidal to interannual, including the effects of changes in runoff, ocean conditions, and local wind forcing.</p> 
+<p> San Francisco Bay (SFB) is the largest estuary along the West Coast of the United States, through which the majority of California runoff drains to the ocean, and surrounded by a major metropolitan area comprised of the cities of San Francisco, Oakland, San Jose and more. </p>
+<p> The outer estuary is a 3-way junction between the northern bay-delta system, the low-inflow south bay, and the ocean. This is known as Central Bay. Circulation and stratification here is a major factor in the exchange between SFB and the ocean, influencing not only intrusions of seawater but also outflow of low-salinity water over the shelf that impacts ecosystems in the Greater Farallones National Marine Sanctuary. </p>
+<p> Monitoring of near-surface currents in SFB began in 2006, funded by a State program – the Coastal Ocean Currents Monitoring Program (COCMP) – and has been continued through support from NOAA through the national [Integrated Ocean Observing System (IOOS)](https://ioos.noaa.gov/) and the [Central and Northern California Ocean Observing System (CeNCOOS)](http://www.cencoos.org/). Several high-frequency (HF) radar stations have been set up in SFB, with long-term data from 5 stations around Central Bay. </p>
+<p> These stations operate at 42 MHz providing currents every 30 minutes with a spatial resolution of 500 m that fully resolves the spatio-temporal pattern of the tidal inflow jet and its interaction with the complex topography of Central Bay. These HF-radar data cover a region of approximately 10 km by 12 km. This decade-long, high-resolution measurements in this region allow us an unprecedented opportunity to investigate near-surface circulation over time scales ranging from tidal to interannual, including the effects of changes in runoff, ocean conditions, and local wind forcing.</p>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<video width="1000" controls>
+<div>
+<video class="embed-responsive-item" width="100%" controls>
   <source src="{{ site.url }}{{ site.baseurl }}/movies/HFradar_SFBay.mp4" type="video/mp4">
   <source src="{{ site.url }}{{ site.baseurl }}/movies/HFradar_SFBay.webm" type="video/webm">
 </video>
 Animation of (left) surface currents and (right) time series of sea level, temperature and salinity obtained at the EOS pier. (For full resolution use Firefox or Safari browsers).
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<div>
 <figure class="figure">
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/radar_3.jpg" width="90%" class="img-responsive center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/radar_3.jpg" width="800px" class="img-responsive">
 <figcaption class="figure-caption; center-block">
 <p>HF Radar antenna at EOS Center - SFSU Romberg Tiburon Campus</p>
 </figcaption>
 </figure>
-
-
 </div>

@@ -29,36 +29,32 @@ permalink: /research/Coastally-Trapped-River-Plume/
 
 <h2> <b> High-resolution numerical model output from Nest 2 domain (see figure below) can be found [HERE](https://photos.app.goo.gl/OYDM5e7QBhAulLrg1). </b></h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<div class="container">
+<div class="container-fluid">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/model_domain.jpeg" width="100%" height="auto"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/model_domain.jpeg" class="img-responsive" width="100%" height="auto"/>
 <figcaption> Map of model domain and mooring locations.
 </figcaption>
 </figure>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<div class="container">
+<div class="container-fluid">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_7457.JPG" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_7457.jpg" class="img-responsive" width="450px" height="auto" />
 <figcaption> R/V Savannah and the meteorological buoys used in the project
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_7304.jpg" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_7304.jpg" class="img-responsive" width="450px" height="auto" />
 <figcaption> Dr. Malcolm Scully attaching oceanographic sensor to the Wirewalker
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6650.JPG" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6650.jpg" class="img-responsive" width="450px" height="auto" />
 <figcaption> Dr. Bob Chant deploying the Wirewalker
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6377.JPG" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_6377.jpg" class="img-responsive" width="450px" height="auto" />
 <figcaption> Moorings and buoys deployment
 </figcaption>
 </figure>

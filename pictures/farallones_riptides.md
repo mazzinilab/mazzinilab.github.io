@@ -56,12 +56,12 @@ permalink: /photos/farallones_riptides/
 <div class="col-sm-6">
 <div class="container-fluid">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/farallones_RIPTIDES/image1.JPG" width="600px" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/farallones_RIPTIDES/image1.jpg" class="img-responsive" width="100%" />
 <figcaption> Humpback Whale Breach (Photo by Bianca Bahman)
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/farallones_RIPTIDES/IMG_9705.JPG" width="600px" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/farallones_RIPTIDES/IMG_9705.jpg" class="img-responsive" width="100%" />
 <figcaption> Bloody waters, probably from a seal attacked by a shark (Photo by Bianca Bahman)
 </figcaption>
 </figure>

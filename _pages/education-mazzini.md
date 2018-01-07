@@ -15,14 +15,12 @@ permalink: /education-mazzini/
 <div class="container-fluid">
 <div class="row">
 
-<div class="col-sm-6 box">
-<div class="container">
+<div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/glider_piero.JPG" width="490px" height="auto" alt="Piero Glider"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/glider_piero.jpg" class="img-responsive" width="100%" alt="Piero Glider"/>
 <figcaption> Deploying underwater gliders off the Oregon coast.
 </figcaption>
 </figure>
-</div>
 </div>
 
 <div class="col-sm-6">
@@ -35,30 +33,29 @@ Dissertation: [<em> “The effect of river discharge and wind forcing on the Ore
 * 2007-2009: M.S. in Physical Oceanography, University of São Paulo, Brazil.
 
 * 2001-2006: B.S. (Honors) in Oceanography, University of Vale do Itajai, Brazil.
-
 </div>
 </div>
 
-&nbsp;
-
-<br><br><br><br>
+</div>
+</div>
 
 <div class="container-fluid">
 <div class="row">
 
 <div class="col-sm-6">
-<div class="container">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8559.JPG" width="490px" height="auto" alt="Cassia Jamaica Bay"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8559.jpg" class="img-responsive" width="500px" alt="hudson"/>
 <figcaption> Oceanographic survey at Hudson River, New York
 </figcaption>
 </figure>
+</div>
+
+<div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/caravelas_deploy.jpg" width="490px" height="auto" alt="Caravelas" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/caravelas_deploy.jpg" class="img-responsive" width="500px" alt="Caravelas" />
 <figcaption> Deploying a CTD sensor in the Caravelas estuary, Brazil.
 </figcaption>
 </figure>
-</div>
 </div>
 
 </div>

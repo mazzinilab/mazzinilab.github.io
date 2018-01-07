@@ -23,9 +23,9 @@ Tiburon, CA 94920 </p>
 </div>
 </div>
 
-<div class="col-sm-5">
+<div class="col-sm-8">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_front.jpg" width="640px" height="400px" alt="EOS" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_front.jpg" class="img-responsive" width="500px" height="auto" alt="EOS" />
 <figcaption> EOS Center - Main Building
 </figcaption>
 </figure>
@@ -40,7 +40,7 @@ Tiburon, CA 94920 </p>
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_above.JPG" width="490px" height="auto" alt="Cassia Jamaica Bay"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_above.jpg" class="img-responsive" width="490px" height="auto" alt="RTC"/>
 <figcaption> Romberg Tiburon Campus
 </figcaption>
 </figure>
@@ -48,7 +48,7 @@ Tiburon, CA 94920 </p>
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/questuary.png" width="490px" height="auto" alt="Massa" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/questuary.png" class="img-responsive" width="490px" height="auto" alt="questuary" />
 <figcaption> R/V Questuary
 </figcaption>
 </figure>

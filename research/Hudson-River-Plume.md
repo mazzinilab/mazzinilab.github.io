@@ -21,34 +21,26 @@ Based on those observations we developed a simple 2D model which relates the tim
 <p>Estimates of an entrainment coefficient from this model are consistent with previous estimates from the near field of a river outflow. A scaling of the plume width is obtained by assuming that vertical shears are controlled by both thermal wind and a critical Richardson number. This scaling yields plume widths that are consistent with previous laboratory studies.</p>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <figure class="figure">
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/fig1_revision2.jpg" width="100%" class="img-responsive center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/fig1_revision2.jpg" width="100%" class="img-responsive">
 <figcaption class="figure-caption; center-block">
 <p> (left) Study area overlayed by a satellite image from MODIS/Terra from 9 April 2005, showing the 555 nm wavelength remote sensing reflectance, an effective tracer of turbidity and colored dissolved organic matter in the water column, hence indicative of river plumes. The Hudson river plume is apparent along the New Jersey coast by regions of warm colors. A dashed line separates the near-field (bulge) and far-field (coastal current) regions of the plume (right) Zoom in the region indicated by box on left plot, with surface salinity and velocity vectors along the ship track from 10 April 2005.</p>
 </figcaption>
 </figure>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <figure class="figure">
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/fig4.jpg" width="100%" class="img-responsive center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/fig4.jpg" width="100%" class="img-responsive">
 <figcaption class="figure-caption; center-block">
 <p> Acoustic backscatter from the four beams at the C mooring during 14 April 2006 frontal passage. Four plots show (clockwise from top left) offshore directed beam, onshore directed beam, down-shelf directed beam, and up-shelf directed beam.</p>
 </figcaption>
 </figure>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <figure class="figure">
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/fig6.jpg" width="100%" class="img-responsive center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/fig6.jpg" width="100%" class="img-responsive">
 <figcaption class="figure-caption; center-block">
 <p>(top) Acoustic backscatter (color) and along-shelf velocity (profiles) during frontal passage through mooring C, on 14 April 2006. X axis is distance based on frontal speed (0.34 $$m s^{-1}$$). Velocity profiles are relative to earth with the thin gray lines zero and are spaced 0.25 $$m s^{-1}$$ apart. (bottom) Up-shelf transport (red) and down-shelf transport (blue) in $$m^2s^{-1}$$ .</p>
 </figcaption>
 </figure>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div style="text-align:justify; clear:left">
 **Publication:**

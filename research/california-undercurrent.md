@@ -18,11 +18,11 @@ This work is being developed in collaboration with the Wilkerson/Dugdale Lab (fr
 
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<div>
 <figure class="figure">
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sst_CUC_v1.jpg" width="50%" class="img-responsive center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/sst_CUC_v1.jpg" width="500px" class="img-responsive">
 <figcaption class="figure-caption; center-block">
 <p> Sea Surface Temperature (SST) with a scheme of the California Undercurrent (CUC).</p>
 </figcaption>
 </figure>
+</div>

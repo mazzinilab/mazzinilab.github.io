@@ -18,13 +18,11 @@ permalink: /research/continental-shelf-brazil/
 <p>We focus on the roles of winds, tides, river discharge, and how the meso- and large-scale circulation of the adjacent deep ocean affects the currents and water masses over the shelf. The observational component consists of high-resolution surveys of hydrographic properties and deployment of moored Acoustic Doppler Current Profilers (ADCPs), supplemented by satellite remote sensing data and numerical models.</p>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<div>
 <figure class="figure">
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/map_recife.jpg" width="90%" class="img-responsive center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/map_recife.jpg" width="500px" class="img-responsive center-block">
 <figcaption class="figure-caption; center-block">
 <p> Study area showing the location of the moorings and the surveys of hydrographic properties </p>
 </figcaption>
 </figure>
-
-
+</div>

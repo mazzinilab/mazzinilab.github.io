@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "COLAB at RTC-SFSU."
+excerpt: "COLAB at EOS-SFSU."
 sitemap: false
 permalink: /allnews.html
 ---

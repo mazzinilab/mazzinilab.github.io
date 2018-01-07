@@ -20,8 +20,8 @@ permalink: /team/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3 box">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Piero.jpg" style="float: left" width="250" alt="Piero"/>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Piero.jpg" class="img-responsive" width="100%" alt="Piero"/>
 </div>
 <div class="col-sm-9" >
 
@@ -46,8 +46,8 @@ permalink: /team/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3 box">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Cassia.jpg" style="float: left" width="250" alt="Cassia"/>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Cassia.jpg" class="img-responsive" width="100%" alt="Cassia"/>
 </div>
 <div class="col-sm-9">
 ## Dr. Cassia Pianca
@@ -68,8 +68,8 @@ permalink: /team/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3 box">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" style="float: left" width="250" alt="Alyssa"/>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="100%" alt="Alyssa"/>
 </div>
 
 <div class="col-sm-9">
@@ -85,8 +85,8 @@ permalink: /team/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3 box">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/amanda.jpg" style="float: left" width="250" alt="Amanda"/>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/amanda.jpg" class="img-responsive" width="100%" alt="Amanda"/>
 </div>
 
 <div class="col-sm-9">
@@ -101,8 +101,8 @@ permalink: /team/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3 box">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" style="float: left" width="250" alt="Deon"/>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="100%" alt="Deon"/>
 </div>
 
 <div class="col-sm-9">
@@ -122,8 +122,8 @@ permalink: /team/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3 box">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" style="float: left" width="250" alt="Rachel"/>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="100%" alt="Rachel"/>
 </div>
 
 <div class="col-sm-9">
@@ -147,8 +147,8 @@ permalink: /team/
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3 box">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" style="float: left" width="250" alt="Misty"/>
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" class="img-responsive" width="100%" alt="Misty"/>
 </div>
 
 <div class="col-sm-9">

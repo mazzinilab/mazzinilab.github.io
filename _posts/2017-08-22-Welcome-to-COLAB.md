@@ -12,27 +12,24 @@ date: 2017-08-22
 
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<div class="container">
+<div class="container-fluid">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Piero_SaltyDog.jpg" width="600px" height="400px" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/Piero_SaltyDog.jpg" class="img-responsive" width="600px" height="auto" />
 <figcaption> R/V Salty Dog
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/radar_1.jpg" width="450px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/radar_1.jpg" class="img-responsive" width="450px" height="auto" />
 <figcaption> HF Radar antenna at EOS Center
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_3800 2.JPG" width="500px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_3800 2.jpg" class="img-responsive" width="500px" height="auto" />
 <figcaption> CTD cast under the Golden Gate Bridge, San Francisco
 </figcaption>
 </figure>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_0216.JPG" width="600px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/newspic/IMG_0216.jpg" class="img-responsive" width="600px" height="auto" />
 <figcaption> EOS Center Pier
 </figcaption>
 </figure>

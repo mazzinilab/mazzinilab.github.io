@@ -13,14 +13,12 @@ permalink: /education-pianca/
 <div class="container-fluid">
 <div class="row">
 
-<div class="col-sm-6 box">
-<div class="container">
+<div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/cassia_JB.jpg" width="490px" height="auto" alt="Cassia Jamaica Bay"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/cassia_JB.jpg" class="img-responsive" width="100%" alt="Jamaica Bay"/>
 <figcaption> Mooring deployment at Jamaica Bay - New York
 </figcaption>
 </figure>
-</div>
 </div>
 
 <div class="col-sm-6">
@@ -36,30 +34,30 @@ Master Thesis: <em>"Sand-spit dynamics associated with the Caravelas river mouth
 
 * 2003-2007: B.S. in Oceanography, University of of São Paulo. <br>
 Bachelor Thesis: <em>"Wave refraction and littoral drift in Caravelas region - Bahia, Brazil".</em>
+</div>
+</div>
 
 </div>
 </div>
 
-&nbsp;
-
-<br><br><br><br>
 
 <div class="container-fluid">
 <div class="row">
 
 <div class="col-sm-6">
-<div class="container">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8503.JPG" width="490px" height="auto" alt="Cassia Jamaica Bay"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_8503.jpg" class="img-responsive" width="500px" alt="Cassia Jamaica Bay"/>
 <figcaption> Mooring deployment at Jamaica Bay - New York
 </figcaption>
 </figure>
+</div>
+
+<div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/argus_massa.jpg" width="490px" height="auto" alt="Massa" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/argus_massa.jpg" class="img-responsive" width="500px" alt="Massa" />
 <figcaption> Massaguacu Beach, Brazil - Video Remote Sensing Image from the Argus System
 </figcaption>
 </figure>
-</div>
 </div>
 
 </div>
