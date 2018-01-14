@@ -3,7 +3,7 @@
 <h4><b>News</b></h4>
 
 
-{% for post in site.posts limit:20 %}
+{% for post in site.posts limit:12 %}
 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}
 
