@@ -62,7 +62,7 @@ permalink: /
 
 <div id="homeid" class="col-sm-12">
 <div style="text-align:justify" markdown="1">
-<p> The Coastal Oceanography Laboratory (COLAB) is part of the Estuary & Ocean Science Center (EOS Center), which is San Francisco State University (SFSU) marine and estuarine research facility. We are situated in the picturesque town of Tiburon, located just north of San Francisco, California.</p>
+<p> The Coastal Oceanography Laboratory (COLAB) is part of the Estuary & Ocean Science Center ([EOS Center](http://eoscenter.sfsu.edu/)), which is San Francisco State University (SFSU) marine and estuarine research facility. We are situated in the picturesque town of Tiburon, located just north of San Francisco, California.</p>
 <p> COLAB's mission is to advance our understanding of how the coastal ocean works. We study the circulation and dynamics of the coastal ocean and estuaries, with special interest to questions that can benefit society and aid in the proper management of our oceans and coastal regions. Some topics of interest, include:</p>
 
 * Upwelling/downwelling;
