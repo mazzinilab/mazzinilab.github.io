@@ -59,7 +59,10 @@ permalink: /team/
 
 <p> Dr. Pianca is a coastal oceanographer and her research focuses on coastal and estuarine processes, such as: sediment transport and morphodynamics, beach processes, bedforms evolution, measurements of waves and currents, and application of remote sensing. Currently, she is studying high-resolution surface currents in San Francisco Bay estuary using HF radars. Additional information on Dr. Pianca: [education]({{ site.url }}{{ site.baseurl }}/education-pianca) and [publications]({{ site.url }}{{ site.baseurl }}/publications). </p>
 <p> Hobbies: training Misty, hiking, camping, traveling, running. </p>
-</div></div></div></div>
+</div>
+</div>
+</div>
+</div>
 
 <div style="text-align:left" markdown="1">
 <h2 style="background-color:#330033; color:#ffcc33"> Undergraduate Researchers:</h2>
@@ -78,8 +81,10 @@ permalink: /team/
 <i class="glyphicon glyphicon-envelope"></i> <azimmer@mail.sfsu.edu>
 
 <p> Alyssa is an undergraduate student at San Francisco State University and she is interested in studying impact of San Francisco Bay in the Gulf of the Farallones using High-Frequency Radar technology. </p>
-
-</div></div></div></div>
+</div>
+</div>
+</div>
+</div>
 
 
 <div style="text-align:justify" markdown="1">
@@ -95,7 +100,10 @@ permalink: /team/
 <i class="glyphicon glyphicon-envelope"></i> <alyoung@mail.sfsu.edu> <br />
 
 <p> Amanda is an undergraduate student at San Francisco State University pursuing a Bachelor of Science in Earth Sciences with an emphasis in Ocean, Weather, and Climate. She is interested in studying upwelling in the Gulf of the Farallones.</p>
-</div></div></div></div>
+</div>
+</div>
+</div>
+</div>
 
 
 <div style="text-align:justify" markdown="1">
@@ -112,7 +120,31 @@ permalink: /team/
 
 <p> Deon is currently in the Earth Sciences / Oceanography program. He is an undergraduate student at San Francisco State University and he is interested in studying oceanography of the Gulf of the Farallones and San Francisco Bay. Outside of science and technology he writes short films and shoots nature photography. Having participated in NIH funded programs and science conferences, he knows how to communicate and deliver information as well as use programming languages to create figures.</p>
 <p> Practicing various forms of art through science, music, poetry and culture is what he does in his free time. Having grown up in San Francisco gave him his inter-cultural social skills. Having him around will raise team morale and create ways to improve on the protocols, as well as create new protocols where needed.</p>
-</div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="100%" alt="Alyssa"/>
+</div>
+
+<br>
+<br>
+
+<div class="col-sm-9">
+## 	Rami Darraj
+
+<i class="glyphicon glyphicon-envelope"></i> <rdarraj@mail.sfsu.edu>
+
+<p> Rami is an undergraduate student at San Francisco State University. </p>
+</div>
+</div>
+</div>
+</div>
 
 
 <div style="text-align:left" markdown="1">
