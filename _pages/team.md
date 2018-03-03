@@ -165,7 +165,7 @@ permalink: /team/
 
 <i class="glyphicon glyphicon-envelope"></i> <rdarraj@mail.sfsu.edu>
 
-<p> Rami is an undergraduate student at San Francisco State University. He is interested in studying the impact of extreme events, such as, storms, in the San Francisco bay. </p>
+<p> Rami is an undergraduate student at San Francisco State University. He is interested in studying the impact of storms in the San Francisco bay. </p>
 </div>
 </div>
 </div>

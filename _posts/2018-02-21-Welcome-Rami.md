@@ -10,7 +10,7 @@ date: 2018-02-21
 
 Welcome Rami to the COLAB !
 
-<p> **Rami** is an undergraduate student and he is interested in studying the impact of extreme events, such as, storms, in the San Francisco bay. </p>
+<p> **Rami** is an undergraduate student and he is interested in studying the impact of storms in the San Francisco bay. </p>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="400px" height="auto" />
