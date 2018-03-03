@@ -55,7 +55,6 @@ permalink: /team/
 #### Marine Scientist
 
 <i class="glyphicon glyphicon-envelope"></i> <catitapianca@sfsu.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
-<span class="glyphicon glyphicon-phone-alt"></span> +1 (415) 338-3721
 
 <p> Dr. Pianca is a coastal oceanographer and her research focuses on coastal and estuarine processes, such as: sediment transport and morphodynamics, beach processes, bedforms evolution, measurements of waves and currents, and application of remote sensing. Currently, she is studying high-resolution surface currents in San Francisco Bay estuary using HF radars. Additional information on Dr. Pianca: [education]({{ site.url }}{{ site.baseurl }}/education-pianca) and [publications]({{ site.url }}{{ site.baseurl }}/publications). </p>
 <p> Hobbies: training Misty, hiking, camping, traveling, running. </p>
@@ -65,7 +64,33 @@ permalink: /team/
 </div>
 
 <div style="text-align:left" markdown="1">
-<h2 style="background-color:#330033; color:#ffcc33"> Undergraduate Researchers:</h2>
+<h2 style="background-color:#330033; color:#ffcc33"> Master Students:</h2>
+</div>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/bianca_2.jpg" class="img-responsive" width="100%" alt="Bianca"/>
+</div>
+
+<div class="col-sm-9">
+## Bianca Bahman
+
+<i class="glyphicon glyphicon-envelope"></i> <bahman@mail.sfsu.edu>
+
+<p> Bianca is a Master of Science candidate in marine sciences with a Bachelors of Science in Physics.  Her interests are in biomechanics and ecological physiology of pelagic predators, and how oceanographic processes influence the distribution, behavior, life history and ecosystem roles on marine and estuarine species. </p>
+
+<p> Currently, her research focuses on the northeastern pacific white shark migration and dive pattern behaviors.  She uses a variety of research techniques, including biologging (electronic tags) and modeling to understand how these top level predators use the open ocean. </p>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div style="text-align:left" markdown="1">
+<h2 style="background-color:#330033; color:#ffcc33"> Undergraduate Students:</h2>
 </div>
 
 <div style="text-align:justify" markdown="1">
@@ -140,7 +165,7 @@ permalink: /team/
 
 <i class="glyphicon glyphicon-envelope"></i> <rdarraj@mail.sfsu.edu>
 
-<p> Rami is an undergraduate student at San Francisco State University. </p>
+<p> Rami is an undergraduate student at San Francisco State University. He is interested in studying the impact of extreme events, such as, storms, in the San Francisco bay. </p>
 </div>
 </div>
 </div>
