@@ -88,6 +88,30 @@ permalink: /team/
 </div>
 </div>
 
+<br>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/george.jpg" class="img-responsive" width="100%" alt="George"/>
+</div>
+
+<div class="col-sm-9">
+## George Czeck
+
+<i class="glyphicon glyphicon-envelope"></i> <gczeck@mail.sfsu.edu>
+
+<p>George is a Master of Science candidate in the NSF sponsored <a href='https://riptides.sfsu.edu/'>RIPTIDES</a> program (Estuary & Ocean Science Center, SFSU), and has a Bachelor of Science degree in Marine Vertebrate Biology from the School of Marine & Atmospheric Sciences (Stony Brook University, NY). He is interested in coastal and estuarine dynamics, behavioral ecology and bioacoustics.</p>
+
+<p>Many aquatic organisms use sound to navigate and locate each other, suitable habitats or prey, or to avoid predation and other risks. George's current research focuses on exploring the temporal variation in San Francisco Bay's acoustic signal (or soundscape). Using the EOS Center's pier hydrophone and data from the Bay Ocean Buoy, he is investigating the effects of environmental variables (salinity, temperature, pH, and currents) on the local biotic soundscape.</p>
+
+<p>George volunteers for the Bay Shore Studies program (SFSU) providing 3rd to 6th-grade students opportunities to engage in scientific exploration and learn about intertidal ecology (Richardson Bay Audubon Center & Sanctuary, Tiburon, CA).</p>
+
+</div>
+</div>
+</div>
+</div>
 
 <div style="text-align:left" markdown="1">
 <h2 style="background-color:#330033; color:#ffcc33"> Undergraduate Students:</h2>
@@ -150,15 +174,14 @@ permalink: /team/
 </div>
 </div>
 
+<br>
+
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="100%" alt="Alyssa"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="100%" alt="Rami"/>
 </div>
-
-<br>
-<br>
 
 <div class="col-sm-9">
 ## 	Rami Darraj
