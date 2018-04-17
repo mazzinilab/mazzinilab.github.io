@@ -14,7 +14,7 @@ permalink: /publications/
 
 ##### <b> 2018 <b>
 
-Lemos, A.T., R.D.G Ghisolfi, and P.L.F. Mazzini. Annual phytoplankton blooming using satellite-derived chlorophyll-a data around the Vitória-Trindade Chain, Southeastern Brazil. 2018. Accepted for publication on <i> Deep-Sea Research Part I </i>.
+A.T. Lemos, R.D.R. Ghisolfi, P.L.F. Mazzini, Annual phytoplankton blooming using satellite-derived chlorophyll-a data around the Vitória-Trindade Chain, Southeastern Brazil. 2018. <i> Deep Sea Research Part I: Oceanographic Research Papers </i>. [[Deep Sea]](https://www.sciencedirect.com/science/article/pii/S0967063717303084)
 
 ##### <b> 2017 <b>
 
