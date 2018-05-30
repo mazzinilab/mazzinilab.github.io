@@ -32,7 +32,7 @@ Dissertation: <em>“Space-time variability of coastal morphology: Results from 
 * 2008-2009: M.S. in Oceanography, University of São Paulo. <br>
 Master Thesis: <em>"Sand-spit dynamics associated with the Caravelas river mouth - Bahia, Brazil".</em>
 
-* 2003-2007: B.S. in Oceanography, University of of São Paulo. <br>
+* 2003-2007: B.S. (Honors) in Oceanography, University of of São Paulo. <br>
 Bachelor Thesis: <em>"Wave refraction and littoral drift in Caravelas region - Bahia, Brazil".</em>
 </div>
 </div>
