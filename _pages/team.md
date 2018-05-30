@@ -113,9 +113,7 @@ permalink: /team/
 </div>
 </div>
 
-<div style="text-align:left" markdown="1">
-<h2 style="background-color:#330033; color:#ffcc33"> Undergraduate Students:</h2>
-</div>
+<br>
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
@@ -129,31 +127,34 @@ permalink: /team/
 
 <i class="glyphicon glyphicon-envelope"></i> <azimmer@mail.sfsu.edu>
 
-<p> Alyssa is an undergraduate student at San Francisco State University and she is interested in studying impact of San Francisco Bay in the Gulf of the Farallones using High-Frequency Radar technology. </p>
+<p> Alyssa is a new Master of Science candidate in the NSF sponsored RIPTIDES program (Estuary & Ocean Science Center, SFSU), starting in the Fall 2018. </p>
 </div>
 </div>
 </div>
 </div>
-
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/amanda.jpg" class="img-responsive" width="100%" alt="Amanda"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="100%" alt="Nick"/>
 </div>
 
 <div class="col-sm-9">
-## Amanda Young
+## Nicholas Carver
 
-<i class="glyphicon glyphicon-envelope"></i> <alyoung@mail.sfsu.edu> <br />
+<i class="glyphicon glyphicon-envelope"></i> <ncarver@mail.sfsu.edu> <br />
 
-<p> Amanda is an undergraduate student at San Francisco State University pursuing a Bachelor of Science in Earth Sciences with an emphasis in Ocean, Weather, and Climate. She is interested in studying upwelling in the Gulf of the Farallones.</p>
+<p> Nicholas is a new Master of Science candidate in the NSF sponsored RIPTIDES program (Estuary & Ocean Science Center, SFSU), starting in the Fall 2018. </p>
 </div>
 </div>
 </div>
 </div>
 
+
+<div style="text-align:left" markdown="1">
+<h2 style="background-color:#330033; color:#ffcc33">  Undergraduate Students:</h2>
+</div>
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
@@ -189,6 +190,26 @@ permalink: /team/
 <i class="glyphicon glyphicon-envelope"></i> <rdarraj@mail.sfsu.edu>
 
 <p> Rami is an undergraduate student at San Francisco State University. He is interested in studying the impact of storms in the San Francisco bay. </p>
+</div>
+</div>
+</div>
+</div>
+
+<br>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/behlie.jpg" class="img-responsive" width="100%" alt="Behlie"/>
+</div>
+
+<div class="col-sm-9">
+## 	Behlie Langel
+
+<i class="glyphicon glyphicon-envelope"></i> <blangel@mail.sfsu.edu>
+
+<p> Behlie Langel is an undergraduate at San Francisco State University and is pursuing a Bachelor of Science in Earth Sciences with an emphasis in Ocean, Weather, and Climate. She is interested in studying how currents and waves distribute pollutants across coastal environments. </p>
 </div>
 </div>
 </div>
@@ -241,3 +262,43 @@ permalink: /team/
 <p> Misty is a natural born oceanographer, interested in wave dynamics and the swash zone, benthic marine fauna such as crabs and sea roaches, and marine birds, especially seagulls.</p>
 <p> Hobbies: fetching, chasing everything that moves, sleeping, eating, peanut butter, cheese, hot dog, and peanut butter.</p>
 </div></div></div></div>
+
+<div style="text-align:left" markdown="1">
+<h2 style="background-color:#330033; color:#ffcc33">  Past Students:</h2>
+</div>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="100%" alt="Alyssa"/>
+</div>
+
+<div class="col-sm-9">
+## Alyssa Zimmer
+
+<i class="glyphicon glyphicon-envelope"></i> <azimmer@mail.sfsu.edu>
+
+<p> Alyssa was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. She studied how the San Francisco Bay currents affect recreational swimmers and search and rescue operations using High-Frequency Radar technology. </p>
+</div>
+</div>
+</div>
+</div>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/amanda.jpg" class="img-responsive" width="100%" alt="Amanda"/>
+</div>
+
+<div class="col-sm-9">
+## Amanda Young
+
+<i class="glyphicon glyphicon-envelope"></i> <alyoung@mail.sfsu.edu> <br />
+
+<p> Amanda was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. She studied the Ekman Pumping driven upwelling in the Gulf of the Farallones.</p>
+</div>
+</div>
+</div>
+</div>
