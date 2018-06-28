@@ -137,7 +137,7 @@ permalink: /team/
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="100%" alt="Nick"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="100%" alt="Nick"/>
 </div>
 
 <div class="col-sm-9">
@@ -145,7 +145,8 @@ permalink: /team/
 
 <i class="glyphicon glyphicon-envelope"></i> <ncarver@mail.sfsu.edu> <br />
 
-<p> Nicholas is a new Master of Science candidate in the NSF sponsored RIPTIDES program (Estuary & Ocean Science Center, SFSU), starting in the Fall 2018. </p>
+<p> Nicholas is a new Master of Science candidate in the NSF sponsored RIPTIDES program (Estuary & Ocean Science Center, SFSU), starting in Fall 2018. He received a Bachelor of Science with an emphasis on Ocean, Weather and Climate in Spring 2018. In the Fall, he will focus his studies on ocean currents off the California Coast, specifically the physical response of currents to changes in air/sea interaction. </p>
+<p> He is a native of Madera, CA. He enlisted in the United States Coast Guard in 2000 and was afforded the opportunity to visit many areas of the world. He is an avid surfer, fisherman, and proud Father. </p>
 </div>
 </div>
 </div>
