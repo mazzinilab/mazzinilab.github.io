@@ -14,6 +14,8 @@ permalink: /publications/
 
 ##### <b> 2018 <b>
 
+Fisher, A., Nidzieko, N., Scully, M., Chant, R., Hunter, E., and P.L.F. Mazzini. Turbulent mixing in a far-field plume during the transition to upwelling conditions: microstructure observations from an AUV. <i> Geophysical Research Letters </i>. <b> Accepted in 27-Aug-2018 </b>
+
 A.T. Lemos, R.D.R. Ghisolfi, P.L.F. Mazzini, Annual phytoplankton blooming using satellite-derived chlorophyll-a data around the Vitória-Trindade Chain, Southeastern Brazil. 2018. <i> Deep Sea Research Part I: Oceanographic Research Papers </i>. [[Deep Sea]](https://www.sciencedirect.com/science/article/pii/S0967063717303084)
 
 ##### <b> 2017 <b>
