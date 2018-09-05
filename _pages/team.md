@@ -52,7 +52,7 @@ permalink: /team/
 <div class="col-sm-9">
 ## Dr. Cassia Pianca
 
-#### Marine Scientist
+#### Marine Scientist (Coastal Oceanographer)
 
 <i class="glyphicon glyphicon-envelope"></i> <catitapianca@sfsu.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
 
