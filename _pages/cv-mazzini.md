@@ -8,6 +8,9 @@ permalink: /cv-mazzini/
 
 <br>
 
+<i> Last Updated: October 7, 2018 </i>
+
+<br>
 
 <div class='embed-responsive' style='padding-bottom:150%'>
 <object data="{{ site.url }}{{ site.baseurl }}/cv-mazzini/cv_piero.pdf" type="application/pdf" width="100%" height="100%">
