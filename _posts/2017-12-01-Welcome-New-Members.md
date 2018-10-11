@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome Alyssa, Amanda, Deon and Rachel"
+title: "Welcome Alyssa, Amanda and Rachel"
 date: 2017-12-01
 ---
 
@@ -8,9 +8,7 @@ date: 2017-12-01
 
 <div style="text-align:justify" markdown="1">
 
-Welcome Alyssa, Amanda, Deon & Rachel to the COLAB !
-
-<p> **Deon** is an undergraduate student and he is interested in studying oceanography of the Gulf of the Farallones and San Francisco Bay. </p>
+Welcome Alyssa, Amanda & Rachel to the COLAB !
 
 <p> **Alyssa** is an undergraduate student and she is interested in studying impact of San Francisco Bay in the Gulf of the Farallones using High-Frequency Radar technology. </p>
 

@@ -157,25 +157,6 @@ permalink: /team/
 <h2 style="background-color:#330033; color:#ffcc33">  Undergraduate Students:</h2>
 </div>
 
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="100%" alt="Deon"/>
-</div>
-
-<div class="col-sm-9">
-## Deon Saunders
-
-<i class="glyphicon glyphicon-envelope"></i> <adsaunde@sfsu.edu> <br />
-
-<p> Deon is currently in the Earth Sciences / Oceanography program. He is an undergraduate student at San Francisco State University and he is interested in studying oceanography of the Gulf of the Farallones and San Francisco Bay. Outside of science and technology he writes short films and shoots nature photography. Having participated in NIH funded programs and science conferences, he knows how to communicate and deliver information as well as use programming languages to create figures.</p>
-<p> Practicing various forms of art through science, music, poetry and culture is what he does in his free time. Having grown up in San Francisco gave him his inter-cultural social skills. Having him around will raise team morale and create ways to improve on the protocols, as well as create new protocols where needed.</p>
-</div>
-</div>
-</div>
-</div>
-
 <br>
 
 <div style="text-align:justify" markdown="1">
