@@ -14,6 +14,8 @@ permalink: /publications/
 
 ##### <b> 2018 <b>
 
+Lemos, A.T., A. Osadchiev, P.L.F. Mazzini, C.A.F. Schettini., and R.D.G Ghisolfi. Spreading and accumulation of river-borne sediments in the coastal ocean after the environmental disaster at the Doce River in Brazil. <i> Submitted to Continental Shelf Research in October, 16th 2018 </i>.
+
 Fisher, A., Nidzieko, N., Scully, M., Chant, R., Hunter, E., and P.L.F. Mazzini. Turbulent mixing in a far-field plume during the transition to upwelling conditions: microstructure observations from an AUV. <i> Geophysical Research Letters </i>. [[Geophysical Research Letters]](https://doi.org/10.1029/2018GL078543)
 
 A.T. Lemos, R.D.R. Ghisolfi, P.L.F. Mazzini, Annual phytoplankton blooming using satellite-derived chlorophyll-a data around the Vitória-Trindade Chain, Southeastern Brazil. 2018. <i> Deep Sea Research Part I: Oceanographic Research Papers </i>. [[Deep Sea]](https://www.sciencedirect.com/science/article/pii/S0967063717303084)
