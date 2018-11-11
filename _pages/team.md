@@ -33,8 +33,20 @@ permalink: /team/
 <span class="glyphicon glyphicon-phone-alt"></span> +1 (415) 338-3706
 
 <p>Dr. Mazzini started as an Assistant Professor at the Estuary & Ocean Science Center, San Francisco State University, in 2017. He is a coastal physical oceanographer, and his research focuses on understanding how the coastal ocean responds to winds, waves, tides, freshwater input from rivers, and the exchange processes among estuaries, continental shelf, and the deep ocean. His interests go beyond the realms of physical oceanography, and include also the role that ocean currents play on the transport and fate of sediments, oxygen, nutrients, larvae, pH, dispersion of pollutants, and how they impact water quality and the health of marine ecosystem. Understanding how the ocean behaves is key for the proper management of our coasts, especially in a climate change scenario.</p>
-<p>The ocean is a complex chaotic system, with three-dimensional properties that vary in time, in intricate and beautiful ways. In his research, Dr. Mazzini uses a combination of different technologies and tools to study the coastal ocean, such as underwater gliders, moorings, shipboard data, satellite remote sensing (sea surface temperature, ocean color, winds, altimetry), High-Frequency land-based radars (measures surface currents), and numerical simulations using the Regional Ocean Modeling System (ROMS). Additional information on Dr. Mazzini: [education]({{ site.url }}{{ site.baseurl }}/education-mazzini), [current CV]({{ site.url }}{{ site.baseurl }}/cv-mazzini), [publications]({{ site.url }}{{ site.baseurl }}/publications),  and [teaching]({{ site.url }}{{ site.baseurl }}/teaching). </p>
+<p>The ocean is a complex chaotic system, with three-dimensional properties that vary in time, in intricate and beautiful ways. In his research, Dr. Mazzini uses a combination of different technologies and tools to study the coastal ocean, such as underwater gliders, moorings, shipboard data, satellite remote sensing (sea surface temperature, ocean color, winds, altimetry), High-Frequency land-based radars (measures surface currents), and numerical simulations using the Regional Ocean Modeling System (ROMS).</p>
+
+Additional information on Dr. Mazzini:
+
+* [Current CV (PDF)]({{ site.url }}{{ site.baseurl }}/cv-mazzini)
+
+* [Education]({{ site.url }}{{ site.baseurl }}/education-mazzini)
+
+* [Publications]({{ site.url }}{{ site.baseurl }}/publications)
+
+* [Teaching]({{ site.url }}{{ site.baseurl }}/teaching)
+
 <p> Hobbies: surfing, camping, hiking, rock climbing, brewing, traveling, cooking. </p>
+
 </div>
 </div>
 </div>
@@ -56,8 +68,16 @@ permalink: /team/
 
 <i class="glyphicon glyphicon-envelope"></i> <catitapianca@sfsu.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
 
-<p> Dr. Pianca is a coastal oceanographer and her research focuses on coastal and estuarine processes, such as: sediment transport and morphodynamics, beach processes, bedforms evolution, measurements of waves and currents, and application of remote sensing. Currently, she is studying high-resolution surface currents in San Francisco Bay estuary using HF radars. Additional information on Dr. Pianca: [education]({{ site.url }}{{ site.baseurl }}/education-pianca) and [publications]({{ site.url }}{{ site.baseurl }}/publications). </p>
+<p> Dr. Pianca is a coastal oceanographer and her research focuses on coastal and estuarine processes, such as: sediment transport and morphodynamics, beach processes, bedforms evolution, measurements of waves and currents, and application of remote sensing. Currently, she is studying high-resolution surface currents in San Francisco Bay estuary using HF radars. </p>
+
+Additional information on Dr. Pianca:
+
+* [Education]({{ site.url }}{{ site.baseurl }}/education-pianca)
+
+* [Publications]({{ site.url }}{{ site.baseurl }}/publications)
+
 <p> Hobbies: training Misty, hiking, camping, traveling, running. </p>
+
 </div>
 </div>
 </div>

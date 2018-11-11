@@ -15,7 +15,7 @@ permalink: /teaching/
 <div style="text-align:center" markdown="1">
 <!-- <h2 style="background-color:#330033; color:#ffcc33">Spring Semester</h2> -->
 <h2 style="color:#1345ce">SPRING SEMESTER</h2>
-	
+
 </div>
 
 ### ERTH 795 - Oceanographic Processes in the California Current System (graduate)
@@ -73,6 +73,21 @@ The course include an oceanographic cruise on board the R/V Questuary, where stu
 
 **Learning outcomes:** <br>
 Students will gain understanding about physical oceanographic processes observed in the coastal ocean, how they relate and influence other aspects of the ocean (e.g. biology, geology, chemistry), and how they may be linked to large-scale oceanic and atmospheric patterns and climate. They also learn basics about collecting, analyzing and interpreting oceanographic data.
+
+**Units:** 3
+
+<hr>
+
+### ERTH 400 - Earth Systems I (undergraduate)
+
+**Description:** <br>
+Exploring the components of Earth's systems: atmosphere, hydrosphere, lithosphere, biosphere, and anthroposphere, with focus on the physical and biogeochemical processes through which the components interact.
+
+**Learning outcomes:** <br>
+At the end of the course students will be able to:
+*	Solve quantitative problems about conservation of mass, energy, and momentum and use those concepts to explain processes within the Earth systems, including using the principles of buoyancy to explain vertical motion in the different Earth systems (ocean, atmosphere, and solid earth)
+*	Identify and evaluate Earth systems feedbacks (positive, negative) and how systems respond to perturbations and forcing (stability and equilibrium)
+*	Create, interpret, and present results of conceptual and computational models of Earth systems, and demonstrate understanding of the models strengths and limitations.
 
 **Units:** 3
 
