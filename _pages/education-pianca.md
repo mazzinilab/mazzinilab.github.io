@@ -26,7 +26,7 @@ permalink: /education-pianca/
 * 2015-2017: Marine Scientist at Rutgers The State University of New Jersey, USA. Supervisor: Dr. Robert J. Chant. <br>
 Project: <em>“The Jamaica Bay Observing system: Process studies and Groundwork for Long-Term Ecosystem Studies and Resilience at Jamaica Bay, New York, USA”.</em>
 
-* 2010-2014: Ph.D. in Oceanography from University of São Paulo and collaboration with Oregon State University. Advisors: Dr. Eduardo Siegle and Dr. Rob Holman. <br>
+* 2010-2014: Ph.D. in Oceanography from University of São Paulo and collaboration with Oregon State University, USA. Advisors: Dr. Rob Holman and Dr. Eduardo Siegle. <br>
 Dissertation: <em>“Space-time variability of coastal morphology: Results from video remote sensing”.</em>
 
 * 2008-2009: M.S. in Oceanography, University of São Paulo. <br>
