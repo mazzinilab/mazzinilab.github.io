@@ -8,7 +8,7 @@ permalink: /cv-mazzini/
 
 <br>
 
-<i> Last Updated: November 09, 2018 </i>
+<i> Last Updated: January 29, 2019 </i>
 
 <br>
 

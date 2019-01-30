@@ -76,8 +76,6 @@ Additional information on Dr. Pianca:
 
 * [Publications]({{ site.url }}{{ site.baseurl }}/publications)
 
-<p> Hobbies: training Misty, hiking, camping, traveling, running. </p>
-
 </div>
 </div>
 </div>
@@ -183,26 +181,6 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="100%" alt="Rami"/>
-</div>
-
-<div class="col-sm-9">
-## 	Rami Darraj
-
-<i class="glyphicon glyphicon-envelope"></i> <rdarraj@mail.sfsu.edu>
-
-<p> Rami is an undergraduate student at San Francisco State University. He is interested in studying the impact of storms in the San Francisco bay. </p>
-</div>
-</div>
-</div>
-</div>
-
-<br>
-
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/behlie.jpg" class="img-responsive" width="100%" alt="Behlie"/>
 </div>
 
@@ -300,6 +278,24 @@ Additional information on Dr. Pianca:
 <i class="glyphicon glyphicon-envelope"></i> <alyoung@mail.sfsu.edu> <br />
 
 <p> Amanda was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. She studied the Ekman Pumping driven upwelling in the Gulf of the Farallones.</p>
+</div>
+</div>
+</div>
+</div>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="100%" alt="Rami"/>
+</div>
+
+<div class="col-sm-9">
+## 	Rami Darraj
+
+<i class="glyphicon glyphicon-envelope"></i> <rdarraj@mail.sfsu.edu>
+
+<p> Rami was an undergraduate student at San Francisco State University. He studied the impact of storms in the San Francisco bay. </p>
 </div>
 </div>
 </div>
