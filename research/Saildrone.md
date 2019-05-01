@@ -13,10 +13,10 @@ permalink: /research/Saildrone/
 ### <b> Using Saildrone autonomous in situ data for satellite validation and research into upper ocean physics and ecology </b>
 
 <p> <b> Lead Investigators: Chelle Gentemann, Peter Minnett, Peter Cornillon. </b> </p>
-<p> <b> Co-Investigators: </b> Santha Akella, Ivona Cetinic, Yi Chao, Mike Chin,  Kathleen Dohan, Jeff Dorman, Melanie Fewings,  Xavier Flores-Vidal, Baylor Fox-Kemper, Bryan Franz, Marisol Garcia-Reyes, Jose Gomez Valdes, Elliott Hazen,  Jacob Hoyer, John Largier, <b>Piero Mazzini</b>, <b>Cassia Pianca</b>, Joel Scott, William Sydeman, Jorge Vazquez, Fabrice Veron, Jeremy Werdell, Lisan Yu, Katherine Zaba. </p>
+
 <p> <b> Granted by: Saildrone, Inc. and The Schmidt Family Foundation. </b> </p>
 
-### <b> Sub-Project: The influence of river runoff in the coastal ocean: a study from Saildrone observations </b>
+### <b> Subproject: "River Plume Fronts: San Francisco Bay Plume" </b>
 
 **Piero Mazzini and Cassia Pianca**
 
