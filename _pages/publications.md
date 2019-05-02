@@ -12,44 +12,38 @@ permalink: /publications/
 
 <div style="text-align:justify" markdown="1">
 
-##### <b> 2018 <b>
+#### <b> PEER-REVIEWED PUBLICATIONS <b>
 
-Fisher, A., Nidzieko, N., Scully, M., Chant, R., Hunter, E., and P.L.F. Mazzini. Turbulent mixing in a far-field plume during the transition to upwelling conditions: microstructure observations from an AUV. <i> Geophysical Research Letters </i>. [[Geophysical Research Letters]](https://doi.org/10.1029/2018GL078543)
+  R. Chant, D. Ralston, N. Ganju, <b>C. Pianca</b>, A. Simonson and R. Cartwright ("submitted"). Sediment budget estimates for a highly impacted embayment with extensive wetland loss.  Submitted to <i>Estuaries and Coasts</i>.
 
-A.T. Lemos, R.D.R. Ghisolfi, P.L.F. Mazzini, Annual phytoplankton blooming using satellite-derived chlorophyll-a data around the Vitória-Trindade Chain, Southeastern Brazil. 2018. <i> Deep Sea Research Part I: Oceanographic Research Papers </i>. [[Deep Sea]](https://www.sciencedirect.com/science/article/pii/S0967063717303084)
+  Fisher, A., Nidzieko, N., Scully, M., Chant, R., Hunter, E., and <b> P.L.F. Mazzini </b> (2018). Turbulent mixing in a far-field plume during the transition to upwelling conditions: microstructure observations from an AUV. <i> Geophysical Research Letters </i>. [[Geophysical Research Letters]](https://doi.org/10.1029/2018GL078543)
 
-##### <b> 2017 <b>
+  A.T. Lemos, R.D.R. Ghisolfi, <b>P.L.F. Mazzini</b>, Annual phytoplankton blooming using satellite-derived chlorophyll-a data around the Vitória-Trindade Chain, Southeastern Brazil (2018). <i> Deep Sea Research Part I: Oceanographic Research Papers </i>. [[Deep Sea]](https://www.sciencedirect.com/science/article/pii/S0967063717303084)
 
-C.A.F. Schettini, E.C. Domingues, E.C. Truccolo, J.C. Oliveira Filho, P.L.F. Mazzini. Seasonal variability of water masses and currents at the eastern Brazilian continental shelf (7.5–9∘ S). 2017. <i> Regional Studies in Marine Science </i>, Volume 16, 131-144. [[Regional Studies in Marine Science]](https://doi.org/10.1016/j.rsma.2017.08.012)
+  C.A.F. Schettini, E.C. Domingues, E.C. Truccolo, J.C. Oliveira Filho, <b>P.L.F. Mazzini</b> (2017). Seasonal variability of water masses and currents at the eastern Brazilian continental shelf (7.5–9∘ S). 2017. <i> Regional Studies in Marine Science </i>, Volume 16, 131-144. [[Regional Studies in Marine Science]](https://doi.org/10.1016/j.rsma.2017.08.012)
 
-##### <b> 2016 <b>
+  <b>Mazzini, P.L.F.</b> and Chant, R.J. Two-dimensional circulation and mixing in the far field of a surface-advected river plume (2016). <i> Journal of Geophysical Research: Oceans</i>, 121, 3757-3776. [[JGR]](http://onlinelibrary.wiley.com/doi/10.1002/2015JC011059/abstract)
 
-Mazzini, P.L.F. and Chant, R.J. Two-dimensional circulation and mixing in the far field of a surface-advected river plume. 2016. <i> Journal of Geophysical Research: Oceans</i>, 121, 3757-3776. [[JGR]](http://onlinelibrary.wiley.com/doi/10.1002/2015JC011059/abstract)
+  <b>Mazzini, P.L.F.</b>, C. M. Risien, J. A. Barth, S. Pierce, A. Erofeev, E. Dever, M. Kosro, M. Levine, R. K. Shearman, M. Vardaro (2015). Anomalous near-surface low-salinity pulses off the central Oregon coast. <i> Nature Scientific Reports </i>, 5, 17145. [[Nature]](https://www.nature.com/articles/srep17145)
 
-##### <b> 2015 <b>
+  <b>Pianca, C.</b>, R. Holman and E. Siegle. Shoreline variability from days to decades: results of long-term video imaging (2015). <i> Journal of Geophysical Research Oceans </i>, 120, 2159-2178. [[JGR]](http://onlinelibrary.wiley.com/doi/10.1002/2014JC010329/abstract)
 
-Mazzini, P.L.F., C. M. Risien, J. A. Barth, S. Pierce, A. Erofeev, E. Dever, M. Kosro, M. Levine, R. K. Shearman, M. Vardaro. Anomalous near-surface low-salinity pulses off the central Oregon coast. 2015. <i> Nature Scientific Reports </i>, 5, 17145. [[Nature]](https://www.nature.com/articles/srep17145)
+  <b>Mazzini, P.L.F.</b>, J.A. Barth, R.K. Shearman, and A. Erofeev. Buoyancy-driven coastal currents off Oregon during fall and winter (2014). <i> Journal of Physical Oceanography </i>, 44, 28542876. [[JPO]](https://doi.org/10.1175/JPO-D-14-0012.1)
 
-Pianca, C., R. Holman and E. Siegle. Shoreline variability from days to decades: results of long-term video imaging. 2015. <i> Journal of Geophysical Research Oceans </i>, 120, 2159-2178. [[JGR]](http://onlinelibrary.wiley.com/doi/10.1002/2014JC010329/abstract)
+  <b>Pianca, C.</b>, R. Holman and E. Siegle. Mobility of meso-scale morphology on a microtidal ebb delta measured using remote sensing (2014). <i> Marine Geology </i>, vol. 357, p. 334—343. [[Marine Geology]](http://dx.doi.org/10.1016/j.margeo.2014.09.045)
 
-##### <b> 2014 <b>
+<b>Mazzini, P.L.F.</b>, and J. A. Barth. A comparison of mechanisms generating vertical transport in the Brazilian coastal upwelling regions (2013). <i> Journal of Geophysical Research: Oceans </i>, 118, 59775993. [[JGR]](http://onlinelibrary.wiley.com/doi/10.1002/2013JC008924/abstract)
 
-Mazzini, P.L.F., J.A. Barth, R.K. Shearman, and A. Erofeev. Buoyancy-driven coastal currents off Oregon during fall and winter. 2014. <i> Journal of Physical Oceanography </i>, 44, 28542876. [[JPO]](https://doi.org/10.1175/JPO-D-14-0012.1)
+<b>Pianca, C.</b>, <b>P.L.F. Mazzini</b>, and E. Siegle.  Brazilian offshore wave climate based on NWW3 reanalysis (2010). <i> Brazilian Journal of Oceanography </i>, vol.58, n.1, pp. 53-70. [[Brazilian Journal of Oceanography]](http://dx.doi.org/10.1590/S1679-87592010000100006)
 
-Pianca, C., R. Holman and E. Siegle. Mobility of meso-scale morphology on a microtidal ebb delta measured using remote sensing. 2014. <i> Marine Geology </i>, vol. 357, p. 334—343. [[Marine Geology]](http://dx.doi.org/10.1016/j.margeo.2014.09.045)
+Mahiques, M.M., Burone, L., Lavenere-Wanderley, A.A.O., Capellari, B., Rogacheski, C.E., <b> Pianca, C. </b>, Samaritano, L.A., Cordero, L.M., Cussioli, M.C., Figueira, R.C.L. Anthropogenic influences in a lagoonal environment: A multiproxy approach at the Valo Grande mouth, Cananéia- Iguape system (SE Brazil) (2009). <i> Brazilian Journal of Oceanography </i>, v. 57, p. 325-337. [[Brazilian Journal of Oceanography]](http://dx.doi.org/10.1590/S1679-87592009000400007)
 
-##### <b> 2013 <b>
+<b> Mazzini, P.L.F. </b> and C.A.F. Schettini. Avaliação de metodologias de interpolação espacial aplicadas a dados hidrográficos costeiros quase-sinóticos (2009). <i>Brazilian Journal of Aquatic Science and Technology </i>, v. 13, p. 53-64. [[BJAST]](http://dx.doi.org/10.14210/bjast.v13n1.p53-64)
 
-Mazzini, P.L.F., and J. A. Barth. A comparison of mechanisms generating vertical transport in the Brazilian coastal upwelling regions. 2013. <i> Journal of Geophysical Research: Oceans </i>, 118, 59775993. [[JGR]](http://onlinelibrary.wiley.com/doi/10.1002/2013JC008924/abstract)
+#### <b> NON-REFEREED PUBLICATIONS <b>
 
-##### <b> 2010 <b>
+<b> Mazzini, P.L.F. </b> (2014): [<em> “The effect of river discharge and wind forcing on the Oregon coastal ocean during fall and winter” </em>](http://hdl.handle.net/1957/52595). Ph.D. Dissertation, Physical Oceanography, Oregon State University, USA.
 
-Pianca, C., P.L.F. Mazzini, and E. Siegle.  Brazilian offshore wave climate based on NWW3 reanalysis.  2010. <i> Brazilian Journal of Oceanography </i>, vol.58, n.1, pp. 53-70. [[Brazilian Journal of Oceanography]](http://dx.doi.org/10.1590/S1679-87592010000100006)
-
-##### <b> 2009 <b>
-
-Mahiques, M.M., Burone, L., Lavenere-Wanderley, A.A.O., Capellari, B., Rogacheski, C.E., Pianca, C., Samaritano, L.A., Cordero, L.M., Cussioli, M.C., Figueira, R.C.L. Anthropogenic influences in a lagoonal environment: A multiproxy approach at the Valo Grande mouth, Cananéia- Iguape system (SE Brazil). 2009. <i> Brazilian Journal of Oceanography </i>, v. 57, p. 325-337. [[Brazilian Journal of Oceanography]](http://dx.doi.org/10.1590/S1679-87592009000400007)
-
-Mazzini, P.L.F. and C.A.F. Schettini. Avaliação de metodologias de interpolação espacial aplicadas a dados hidrográficos costeiros quase-sinóticos. 2009. <i>Brazilian Journal of Aquatic Science and Technology </i>, v. 13, p. 53-64. [[BJAST]](http://dx.doi.org/10.14210/bjast.v13n1.p53-64)
+<b> Pianca, C. </b> (2014): “Space-time variability of coastal morphology: Results from video remote sensing”. Ph.D. Dissertation, Oceanography, University of São Paulo and collaboration with Oregon State University, USA.
 
 </div>
