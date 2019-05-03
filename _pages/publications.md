@@ -14,6 +14,8 @@ permalink: /publications/
 
 #### <b> PEER-REVIEWED PUBLICATIONS <b>
 
+  <b>Mazzini, P.L.F.</b> , Chant, R.J., Scully, M.E.,Wilkin, J.,Hunter, E.J., and N.J. Nidzieko ("submitted"). The impact of wind-forcing on the thermal wind shear of a river plume. Submitted to <i>Journal of Geophysical Research: Oceans</i>.
+
   R. Chant, D. Ralston, N. Ganju, <b>C. Pianca</b>, A. Simonson and R. Cartwright ("submitted"). Sediment budget estimates for a highly impacted embayment with extensive wetland loss.  Submitted to <i>Estuaries and Coasts</i>.
 
   Fisher, A., Nidzieko, N., Scully, M., Chant, R., Hunter, E., and <b> P.L.F. Mazzini </b> (2018). Turbulent mixing in a far-field plume during the transition to upwelling conditions: microstructure observations from an AUV. <i> Geophysical Research Letters </i>. [[Geophysical Research Letters]](https://doi.org/10.1029/2018GL078543)
