@@ -10,6 +10,8 @@ permalink: /education-pianca/
 
 # Education
 
+* For my full CV, please email me at <catitapianca@sfsu.edu>
+
 <div class="container-fluid">
 <div class="row">
 

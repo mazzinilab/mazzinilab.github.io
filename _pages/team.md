@@ -37,7 +37,7 @@ permalink: /team/
 
 Additional information on Dr. Mazzini:
 
-* [Current CV (PDF)]({{ site.url }}{{ site.baseurl }}/cv-mazzini)
+* For my full CV, please email me at <pmazzini@sfsu.edu>
 
 * [Education]({{ site.url }}{{ site.baseurl }}/education-mazzini)
 
@@ -71,6 +71,8 @@ Additional information on Dr. Mazzini:
 <p> Dr. Pianca is a coastal oceanographer and her research focuses on coastal and estuarine processes, such as: sediment transport and morphodynamics, measurements of waves and currents, and application of remote sensing. Currently, she is studying high-resolution surface currents in San Francisco Bay estuary using HF radars ([research page]({{ site.url }}{{ site.baseurl }}/research/HF-Radar/)), and she is also involved on the project: The influence of river runoff in the coastal ocean: a study from Saildrone observations ([research page]({{ site.url }}{{ site.baseurl }}/research/Saildrone/)). </p>
 
 Additional information on Dr. Pianca:
+
+* For my full CV, please email me at <catitapianca@sfsu.edu> 
 
 * [Education]({{ site.url }}{{ site.baseurl }}/education-pianca)
 

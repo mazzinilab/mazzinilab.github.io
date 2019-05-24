@@ -14,6 +14,8 @@ permalink: /publications/
 
 #### <b> PEER-REVIEWED PUBLICATIONS <b>
 
+  Gentemann, C.L., <b>Mazzini, P.L.F.</b>, <b>C. Pianca</b>, Scott, J.P., Akella, S., Minnett, P.J., Cornillon, P., Fox-Kempler, B., Cetini\'c, I., Mike Chin, T.M., Gomez-Valdes, J., Vazquez-Cuervo, J., Tsontos, V., Jenkins, R., De Halleux, S.,  Peacock, D., Mattias, T., and N. Cohen. Saildrone: adaptively sampling the marine environment. <i> To be submitted to Bulletin of the American Meteorological Society (BAMS) - proposal for submission accepted, deadline for submission: 25/July/2019 </i>.
+
   <b>Mazzini, P.L.F.</b> , Chant, R.J., Scully, M.E.,Wilkin, J.,Hunter, E.J., and N.J. Nidzieko ("submitted"). The impact of wind-forcing on the thermal wind shear of a river plume. Submitted to <i>Journal of Geophysical Research: Oceans</i>.
 
   R. Chant, D. Ralston, N. Ganju, <b>C. Pianca</b>, A. Simonson and R. Cartwright ("submitted"). Sediment budget estimates for a highly impacted embayment with extensive wetland loss.  Submitted to <i>Estuaries and Coasts</i>.

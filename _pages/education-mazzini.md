@@ -10,7 +10,7 @@ permalink: /education-mazzini/
 
 # Education
 
-[**CURRICULUM VITAE**]({{ site.url }}{{ site.baseurl }}/cv-mazzini)
+* For my full CV, please email me at <pmazzini@sfsu.edu>
 
 <div class="container-fluid">
 <div class="row">
