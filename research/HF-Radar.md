@@ -12,7 +12,7 @@ permalink: /research/HF-Radar/
 
 ### <b> Space and time variability of surface currents in Central San Francisco Bay: observations from long-term HF radar measurements </b>
 
-**Cassia Pianca and Piero Mazzini**
+**Cassia Pianca, Piero Mazzini, John Largier and Toby Garfield**
 
 <p> San Francisco Bay (SFB) is the largest estuary along the West Coast of the United States, through which the majority of California runoff drains to the ocean, and surrounded by a major metropolitan area comprised of the cities of San Francisco, Oakland, San Jose and more. </p>
 <p> The outer estuary is a 3-way junction between the northern bay-delta system, the low-inflow south bay, and the ocean. This is known as Central Bay. Circulation and stratification here is a major factor in the exchange between SFB and the ocean, influencing not only intrusions of seawater but also outflow of low-salinity water over the shelf that impacts ecosystems in the Greater Farallones National Marine Sanctuary. </p>
