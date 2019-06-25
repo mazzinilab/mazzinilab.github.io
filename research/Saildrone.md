@@ -18,7 +18,7 @@ permalink: /research/Saildrone/
 
 Publication:
 
-Gentemann, C.L., Scott, J.P., <b>Mazzini, P.L.F.</b>, <b>C. Pianca</b>, Akella, S., Minnett, P.J., Cornillon, P., Fox-Kempler, B., Cetini\'c, I., Mike Chin, T.M., Gomez-Valdes, J., Vazquez-Cuervo, J., Tsontos, V., Jenkins, R., De Halleux, S.,  Peacock, D., Mattias, T., Cohen N. and Yu L. Saildrone: adaptively sampling the marine environment. <i> To be submitted to Bulletin of the American Meteorological Society (BAMS) - proposal for submission accepted, deadline for submission: 25/July/2019 </i>.
+Gentemann, C.L., J.P. Scott, <b>P.L.F. Mazzini</b>, <b>C. Pianca</b>, S. Akella, P.J. Minnett, P. Cornillon, B. Fox-Kemper, I. Cetinić, T.M. Chin, J. Gomez-Valdes, J. Vazquez-Cuervo, V. Tsontos, L. Yu, R. Jenkins, S. De Halleux, D. Peacock, N. Cohen ("submitted"). Saildrone: adaptively sampling the marine environment. Submitted to <i>Bulletin of the American Meteorological Society (BAMS)</i>.
 
 ### <b> Subproject: "River Plume Fronts: San Francisco Bay Plume" </b>
 
