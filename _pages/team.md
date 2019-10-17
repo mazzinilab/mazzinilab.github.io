@@ -68,11 +68,11 @@ Additional information on Dr. Mazzini:
 
 <i class="glyphicon glyphicon-envelope"></i> <catitapianca@sfsu.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
 
-<p> Dr. Pianca is a coastal oceanographer and her research focuses on coastal and estuarine processes, such as: sediment transport and morphodynamics, measurements of waves and currents, and application of remote sensing. Currently, she is studying high-resolution surface currents in San Francisco Bay estuary using HF radars ([research page]({{ site.url }}{{ site.baseurl }}/research/HF-Radar/)), and she is also involved on the project: The influence of river runoff in the coastal ocean: a study from Saildrone observations ([research page]({{ site.url }}{{ site.baseurl }}/research/Saildrone/)). </p>
+<p> Dr. Pianca is a coastal oceanographer and her research focuses on coastal and estuarine processes. Currently, she is studying high-resolution surface currents in San Francisco Bay estuary using HF radars ([research page]({{ site.url }}{{ site.baseurl }}/research/HF-Radar/)), and she is also involved on the project: The influence of river runoff in the coastal ocean: a study from Saildrone observations ([research page]({{ site.url }}{{ site.baseurl }}/research/Saildrone/)). </p>
 
 Additional information on Dr. Pianca:
 
-* For my full CV, please email me at <catitapianca@sfsu.edu> 
+* For my full CV, please email me at <catitapianca@sfsu.edu>
 
 * [Education]({{ site.url }}{{ site.baseurl }}/education-pianca)
 
@@ -91,55 +91,7 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/bianca_2.jpg" class="img-responsive" width="100%" alt="Bianca"/>
-</div>
-
-<div class="col-sm-9">
-## Bianca Bahman
-
-<i class="glyphicon glyphicon-envelope"></i> <bahman@mail.sfsu.edu>
-
-<p> Bianca is a Master of Science candidate in marine sciences with a Bachelors of Science in Physics.  Her interests are in biomechanics and ecological physiology of pelagic predators, and how oceanographic processes influence the distribution, behavior, life history and ecosystem roles on marine and estuarine species. </p>
-
-<p> Currently, her research focuses on the northeastern pacific white shark migration and dive pattern behaviors.  She uses a variety of research techniques, including biologging (electronic tags) and modeling to understand how these top level predators use the open ocean. </p>
-
-</div>
-</div>
-</div>
-</div>
-
-<br>
-
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/george.jpg" class="img-responsive" width="100%" alt="George"/>
-</div>
-
-<div class="col-sm-9">
-## George Czeck
-
-<i class="glyphicon glyphicon-envelope"></i> <gczeck@mail.sfsu.edu>
-
-<p>George is a Master of Science candidate in the NSF sponsored <a href='https://riptides.sfsu.edu/'>RIPTIDES</a> program (Estuary & Ocean Science Center, SFSU), and has a Bachelor of Science degree in Marine Vertebrate Biology from the School of Marine & Atmospheric Sciences (Stony Brook University, NY). He is interested in coastal and estuarine dynamics, behavioral ecology and bioacoustics.</p>
-
-<p>Many aquatic organisms use sound to navigate and locate each other, suitable habitats or prey, or to avoid predation and other risks. George's current research focuses on exploring the temporal variation in San Francisco Bay's acoustic signal (or soundscape). Using the EOS Center's pier hydrophone and data from the Bay Ocean Buoy, he is investigating the effects of environmental variables (salinity, temperature, pH, and currents) on the local biotic soundscape.</p>
-
-<p>George volunteers for the Bay Shore Studies program (SFSU) providing 3rd to 6th-grade students opportunities to engage in scientific exploration and learn about intertidal ecology (Richardson Bay Audubon Center & Sanctuary, Tiburon, CA).</p>
-
-</div>
-</div>
-</div>
-</div>
-
-<br>
-
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="100%" alt="Alyssa"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="70%" alt="Alyssa"/>
 </div>
 
 <div class="col-sm-9">
@@ -147,7 +99,10 @@ Additional information on Dr. Pianca:
 
 <i class="glyphicon glyphicon-envelope"></i> <azimmer@mail.sfsu.edu>
 
-<p> Alyssa is a new Master of Science candidate in the NSF sponsored RIPTIDES program (Estuary & Ocean Science Center, SFSU), starting in the Fall 2018. </p>
+<p>Alyssa is a Master of Science candidate in the NSF sponsored <a href='https://riptides.sfsu.edu/'>RIPTIDES</a> program (Estuary & Ocean Science Center, SFSU), and has a BA degree in Earth Sciences from San Francisco State University.</p>
+
+<p>MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i></p>
+
 </div>
 </div>
 </div>
@@ -157,24 +112,21 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="100%" alt="Nick"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/bianca_2.jpg" class="img-responsive" width="90%" alt="Bianca"/>
 </div>
 
 <div class="col-sm-9">
-## Nicholas Carver
+## Bianca Bahman
 
-<i class="glyphicon glyphicon-envelope"></i> <ncarver@mail.sfsu.edu> <br />
+<i class="glyphicon glyphicon-envelope"></i> <bahman@mail.sfsu.edu>
 
-<p> Nicholas is a new Master of Science candidate in the NSF sponsored RIPTIDES program (Estuary & Ocean Science Center, SFSU), starting in Fall 2018. He received a Bachelor of Science with an emphasis on Ocean, Weather and Climate in Spring 2018. In the Fall, he will focus his studies on ocean currents off the California Coast, specifically the physical response of currents to changes in air/sea interaction. </p>
-<p> He is a native of Madera, CA. He enlisted in the United States Coast Guard in 2000 and was afforded the opportunity to visit many areas of the world. He is an avid surfer, fisherman, and proud Father. </p>
+<p>Bianca is a Master of Science candidate in the NSF sponsored <a href='https://riptides.sfsu.edu/'>RIPTIDES</a> program (Estuary & Ocean Science Center, SFSU), and has a B.S. degree in Physics from San Francisco State University.</p>
+
+<p> MS Thesis: <i> Uncertainties in Upper Ocean Thermal Structure from Animal Tag Measurements. </i> </p>
+
 </div>
 </div>
 </div>
-</div>
-
-
-<div style="text-align:left" markdown="1">
-<h2 style="background-color:#330033; color:#ffcc33">  Undergraduate Students:</h2>
 </div>
 
 <br>
@@ -183,20 +135,53 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/behlie.jpg" class="img-responsive" width="100%" alt="Behlie"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/george.jpg" class="img-responsive" width="70%" alt="George"/>
 </div>
 
 <div class="col-sm-9">
-## 	Behlie Langel
+## George Czeck
 
-<i class="glyphicon glyphicon-envelope"></i> <blangel@mail.sfsu.edu>
+<i class="glyphicon glyphicon-envelope"></i> <gczeck@mail.sfsu.edu>
 
-<p> Behlie Langel is an undergraduate at San Francisco State University and is pursuing a Bachelor of Science in Earth Sciences with an emphasis in Ocean, Weather, and Climate. She is interested in studying how currents and waves distribute pollutants across coastal environments. </p>
+<p>George is a Master of Science candidate in the NSF sponsored <a href='https://riptides.sfsu.edu/'>RIPTIDES</a> program (Estuary & Ocean Science Center, SFSU), and has a B.S. degree in Marine Vertebrate Biology from the School of Marine & Atmospheric Sciences (Stony Brook University, NY).</p>
+
+<p>MS Thesis: <i> Impact of Oceanographic Processes on San Francisco Bay's Snapping Shrimp Behavior. </i></p>
+
 </div>
 </div>
 </div>
 </div>
 
+<br>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="80%" alt="Nick"/>
+</div>
+
+<div class="col-sm-9">
+## Nicholas Carver
+
+<i class="glyphicon glyphicon-envelope"></i> <ncarver@mail.sfsu.edu> <br />
+
+<p>Nicholas is a Master of Science candidate in the NSF sponsored <a href='https://riptides.sfsu.edu/'>RIPTIDES</a> program (Estuary & Ocean Science Center, SFSU), and has a B.S. degree in Earth Sciences from San Francisco State University.</p>
+
+<p>MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i></p>
+
+</div>
+</div>
+</div>
+</div>
+
+<!--
+<div style="text-align:left" markdown="1">
+<h2 style="background-color:#330033; color:#ffcc33">  Undergraduate Students:</h2>
+</div>
+-->
+
+<br>
 
 <div style="text-align:left" markdown="1">
 <h2 style="background-color:#330033; color:#ffcc33"> Other Current Lab Members:</h2>
@@ -206,7 +191,7 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="100%" alt="Rachel"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="80%" alt="Rachel"/>
 </div>
 
 <div class="col-sm-9">
@@ -216,9 +201,7 @@ Additional information on Dr. Pianca:
 
 #### Researcher
 
-<p> Rachel is a student of physical oceanography.  Her current focus of research is the Gulf of the Farallones, in the larger context of the California Current System.</p>
-<p> A confluence of interests has brought her to the study of physical oceanography.  Her background is in physical geography and cartography (Bachelor of Arts, UC Berkeley).  As a long-time open water rower on San Francisco Bay she has an intimate understanding of ocean water in motion.  And as an animal care volunteer at The Marine Mammal Center in Sausalito, she is witness to the changing patterns in the animals brought to them in need of care, indications of change in the ocean.</p>
-<p> Understanding the movements of water and of energy in the oceans is key to understanding the patterns of life and of change.  The Pacific Ocean is the largest ocean basin on earth, and we are fortunate to live and work on its eastern boundary. She hopes, through her research, to help better understand the impacts of anthropogenic change on our ocean and on our world.</p>
+<p> Rachel is a student of physical oceanography.  Her current focus of research is the Gulf of the Farallones, in the larger context of the California Current System. A confluence of interests has brought her to the study of physical oceanography. Her background is in physical geography and cartography (BA from University of California, Berkeley).</p>
 
 </div></div></div></div>
 
@@ -231,7 +214,7 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" class="img-responsive" width="100%" alt="Misty"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" class="img-responsive" width="90%" alt="Misty"/>
 </div>
 
 <div class="col-sm-9">
@@ -242,7 +225,7 @@ Additional information on Dr. Pianca:
 <i class="glyphicon glyphicon-envelope"></i> woof woof
 
 <p> Misty is a natural born oceanographer, interested in wave dynamics and the swash zone, benthic marine fauna such as crabs and sea roaches, and marine birds, especially seagulls.</p>
-<p> Hobbies: fetching, chasing everything that moves, sleeping, eating, peanut butter, cheese, hot dog, and peanut butter.</p>
+<p> Hobbies: fetching, chasing everything that moves, sleeping, eating, peanut butter, cheese, peanut butter and again peanut butter.</p>
 </div></div></div></div>
 
 <div style="text-align:left" markdown="1">
@@ -252,16 +235,12 @@ Additional information on Dr. Pianca:
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-2">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="100%" alt="Alyssa"/>
 </div>
-
-<div class="col-sm-9">
-## Alyssa Zimmer
-
-<i class="glyphicon glyphicon-envelope"></i> <azimmer@mail.sfsu.edu>
-
-<p> Alyssa was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. She studied how the San Francisco Bay currents affect recreational swimmers and search and rescue operations using High-Frequency Radar technology. </p>
+<div class="col-sm-10">
+- #### Alyssa Zimmer
+<p> Alyssa was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. BA Project: <i> Impact of San Francisco Bay Currents on Recreational Swimmers. </i> </p>
 </div>
 </div>
 </div>
@@ -270,16 +249,12 @@ Additional information on Dr. Pianca:
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-2">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/amanda.jpg" class="img-responsive" width="100%" alt="Amanda"/>
 </div>
-
-<div class="col-sm-9">
-## Amanda Young
-
-<i class="glyphicon glyphicon-envelope"></i> <alyoung@mail.sfsu.edu> <br />
-
-<p> Amanda was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. She studied the Ekman Pumping driven upwelling in the Gulf of the Farallones.</p>
+<div class="col-sm-10">
+- #### Amanda Young
+<p> Amanda was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. B.S. Project: <i> First Estimates of Ekman Pumping Driven Upwelling in the Gulf of the Farallones. </i> </p>
 </div>
 </div>
 </div>
@@ -288,16 +263,26 @@ Additional information on Dr. Pianca:
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-2">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="100%" alt="Rami"/>
 </div>
+<div class="col-sm-10">
+- #### 	Rami Darraj
+<p> Rami was an undergraduate student at San Francisco State University in the Department of Earth and Climate Sciences. B.S. Project: <i> Effects of Precipitation and River Discharge on Salinity in North San Francisco Bay. </i> </p>
+</div>
+</div>
+</div>
+</div>
 
-<div class="col-sm-9">
-## 	Rami Darraj
-
-<i class="glyphicon glyphicon-envelope"></i> <rdarraj@mail.sfsu.edu>
-
-<p> Rami was an undergraduate student at San Francisco State University. He studied the impact of storms in the San Francisco bay. </p>
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-2">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/behlie.jpg" class="img-responsive" width="100%" alt="Behlie"/>
+</div>
+<div class="col-sm-10">
+- #### 	Behlie Langel
+<p> Behlie Langel was an undergraduate at San Francisco State University in the Department of Earth and Climate Sciences. Honors Thesis: <i> Spatial Variability of Coastal Upwelling Along the Gulf of the Farallones. </i> </p>
 </div>
 </div>
 </div>

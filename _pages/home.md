@@ -75,7 +75,7 @@ permalink: /
 * Numerical Modeling of coastal regions.
 
 <p> To understand the high complexity of the ocean, we use a combination of in situ observations from underwater gliders, moorings, shipboard data, lagrangean drifters, satellite remote sensing (sea surface temperature, ocean color, winds, altimetry), High-Frequency land-based radars (measures surface currents), and numerical modeling.</p>
-<p> Locally, our work focuses in the Gulf of the Farallones and in the San Francisco Bay estuary, but we have ongoing collaborations in both East and West coast of the US and South America. Our work also contributes to the missions of the [San Francisco Bay National Estuarine Research Reserve (NERR)](http://www.sfbaynerr.org/), the [Greater Farallones National Marine Sanctuary (GFNMS)](https://farallones.noaa.gov/) and the [Cordell Bank National Marine Sanctuary (CBNMS)](https://cordellbank.noaa.gov/).</p>
+<p> Locally, our work focuses in the Gulf of the Farallones and in the San Francisco Bay estuary, but we have ongoing collaborations in both East and West coast of the US and South America. Our work also contributes to the missions of the [San Francisco Bay National Estuarine Research Reserve (NERR)](http://www.sfbaynerr.org/), the [Greater Farallones National Marine Sanctuary (GFNMS)](https://farallones.noaa.gov/), the [Cordell Bank National Marine Sanctuary (CBNMS)](https://cordellbank.noaa.gov/) and the [Central and Northern California Ocean Observing System (CeNCOOS) - IOOS NOAA](http://www.cencoos.org/).</p>
 <p> **We are looking for passionate new Graduate/Undergraduate students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**</p>
 
 <br>

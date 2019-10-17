@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome New Students"
+title: "Welcome Alyssa, Nicholas and Behlie"
 date: 2018-05-29
 ---
 
