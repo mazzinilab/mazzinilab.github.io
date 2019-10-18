@@ -14,7 +14,7 @@ permalink: /publications/
 
 #### <b> PEER-REVIEWED PUBLICATIONS <b>
 
-  <b>Mazzini, P.L.F.</b> , Chant, R.J., Scully, M.E.,Wilkin, J.,Hunter, E.J., and N.J. Nidzieko ("in revision"). The impact of wind-forcing on the thermal wind shear of a river plume. <i> In revision:</i> <i>Journal of Geophysical Research: Oceans</i>.
+  <b>Mazzini, P.L.F.</b> , Chant, R.J., Scully, M.E.,Wilkin, J.,Hunter, E.J., and N.J. Nidzieko (2019). The impact of wind-forcing on the thermal wind shear of a river plume. <i>Accepted for publication:</i> <i>Journal of Geophysical Research: Oceans</i>.
 
   Gentemann, C.L., J.P. Scott, <b>P.L.F. Mazzini</b>, <b>C. Pianca</b>, S. Akella, P.J. Minnett, P. Cornillon, B. Fox-Kemper, I. Cetinić, T.M. Chin, J. Gomez-Valdes, J. Vazquez-Cuervo, V. Tsontos, L. Yu, R. Jenkins, S. De Halleux, D. Peacock, N. Cohen ("in revision"). Saildrone: adaptively sampling the marine environment. <i> In revision:</i> <i>Bulletin of the American Meteorological Society (BAMS)</i>.
 
