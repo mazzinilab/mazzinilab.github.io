@@ -18,7 +18,7 @@ permalink: /publications/
 
   Ingman, K., Hines, E., <b>Mazzini, P.L.F.</b>, Rockwood, C., Nur, N., and J. Jahncke ("submitted"). Changes in seasonal abundance and timing of migration of baleen whales in Central California. Submitted to <i>PLOS One</i>.
 
-  Gentemann, C.L., J.P. Scott, <b>P.L.F. Mazzini</b>, <b>C. Pianca</b>, S. Akella, P.J. Minnett, P. Cornillon, B. Fox-Kemper, I. Cetinić, T.M. Chin, J. Gomez-Valdes, J. Vazquez-Cuervo, V. Tsontos, L. Yu, R. Jenkins, S. De Halleux, D. Peacock, N. Cohen. Saildrone: adaptively sampling the marine environment. <i>Accepted for publication (Jan 2020):</i> <i>Bulletin of the American Meteorological Society (BAMS)</i>.
+  Gentemann, C.L., J.P. Scott, <b>P.L.F. Mazzini</b>, <b>C. Pianca</b>, S. Akella, P.J. Minnett, P. Cornillon, B. Fox-Kemper, I. Cetinić, T.M. Chin, J. Gomez-Valdes, J. Vazquez-Cuervo, V. Tsontos, L. Yu, R. Jenkins, S. De Halleux, D. Peacock, N. Cohen. Saildrone: adaptively sampling the marine environment. (2020). <i>Bulletin of the American Meteorological Society </i>. [[BAMS]](https://journals.ametsoc.org/doi/10.1175/BAMS-D-19-0015.1)
 
   <b>Mazzini, P.L.F.</b> , Chant, R.J., Scully, M.E.,Wilkin, J.,Hunter, E.J., and N.J. Nidzieko (2019). The impact of wind-forcing on the thermal wind shear of a river plume. <i> Journal of Geophysical Research: Oceans</i>, 124. [[JGR]](https://doi.org/10.1029/2019JC015259)
 
