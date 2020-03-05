@@ -14,19 +14,19 @@ permalink: /contact-us/
 <div class="col-sm-4">
 <div style="text-align:justify" markdown="1">
 <p> Dr. Piero Mazzini <br>
-Estuary & Ocean Science Center <br>
-San Francisco State Romberg Tiburon Campus <br>
-3150 Paradise Dr, Bldg 36 <br>
-Tiburon, CA 94920 </p>
-<span class="glyphicon glyphicon-phone-alt"></span> +1 (415) 338-3706 <br>
-<i class="glyphicon glyphicon-envelope"></i> <pmazzini@sfsu.edu>
+Virginia Institute of Marine Science <br>
+Post Office Box 1346 <br>
+1370 Greate Road <br>
+Gloucester Point, VA 23062 </p>
+<span class="glyphicon glyphicon-phone-alt"></span> +1 (804) 684-7882 <br>
+<i class="glyphicon glyphicon-envelope"></i> <pmazzini@vims.edu>
 </div>
 </div>
 
 <div class="col-sm-8">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_front.jpg" class="img-responsive" width="500px" height="auto" alt="EOS" />
-<figcaption> EOS Center - Main Building
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/andrews_hall_Malmquist.jpg" class="img-responsive" width="400px" height="auto" alt="EOS" />
+<figcaption> Andrews Hall. <span class="copyright">&copy;</span> D. Malmquist.
 </figcaption>
 </figure>
 </div>
@@ -40,16 +40,16 @@ Tiburon, CA 94920 </p>
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/rtc_above.JPG" class="img-responsive" width="490px" height="auto" alt="RTC"/>
-<figcaption> Romberg Tiburon Campus
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/vims_aereal_2.jpg" class="img-responsive" width="800px" height="auto" alt="VIMS"/>
+<figcaption> VIMS Campus <span class="copyright">&copy;</span> VIMS
 </figcaption>
 </figure>
 </div>
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/questuary.png" class="img-responsive" width="490px" height="auto" alt="questuary" />
-<figcaption> R/V Questuary
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/C_Katella_VIMS.jpg" class="img-responsive" width="800px" height="auto" alt="virginia" />
+<figcaption> R/V Virginia <span class="copyright">&copy;</span> C. Katella
 </figcaption>
 </figure>
 </div>
@@ -60,13 +60,13 @@ Tiburon, CA 94920 </p>
 
 
 
-#### Directions to the Estuary & Ocean Science Center (EOS Center) (Romberg Tiburon Campus):
+#### Directions to the Virginia Institute of Marine Science (VIMS):
 
 <div id="map" style="width:100%;height:500px"></div>
 
 <script>
 function myMap() {
-  var myCenter = new google.maps.LatLng(37.8890,-122.4492);
+  var myCenter = new google.maps.LatLng(37.25,-76.50);
   var mapCanvas = document.getElementById("map");
   var mapOptions = {center: myCenter, zoom: 11};
   var map = new google.maps.Map(mapCanvas, mapOptions);
@@ -74,8 +74,9 @@ function myMap() {
   marker.setMap(map);
 
   var infowindow = new google.maps.InfoWindow({
-  content: "3150 Paradise Drive, Bldg 36 - Tiburon, California"
+  content: "1370 Greate Road - Gloucester Point, Virginia"
 });
+
 infowindow.open(map,marker);
 }
 </script>

@@ -10,23 +10,21 @@ permalink: /photos/
 # Photos
 
 <ul>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/coastal_processes/"> ERTH 434/834 - Coastal Processes Class, Field Trip at San Francisco Bay (October 2017) </a></h3></li>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/earth_sciences/"> ERTH 205 - Techniques in Earth Sciences Class, Field Trip (October and November 2017) </a></h3></li>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/farallones_riptides/"> Field Trip to Farallon Islands with RIPTIDES students (September 2017) </a></h3></li>
-	
-	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/EOS_Center/"> EOS Center - SF State Romberg Tiburon Campus (2017) </a></h3></li>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/Hudson_River_NY/"> Field Work at the  Hudson River Estuary, New York (May 2016) </a></h3></li>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/jamaica_bay/"> Field Work at Jamaica Bay, New York, USA (May 2015 to September 2016)  </a></h3></li>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/chesapeake/"> Field Work at Chesapeake Bay, Virginia/North Carolina, USA (Spring/Summer 2015) </a></h3></li>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/osu_glider/"> Glider Research Group - Oregon State University (2009-2014) </a></h3></li>
-	
+
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/photos/caravelas/"> Field Work at Caravelas Estuary, Bahia, Brazil (January 2008) </a></h3></li>
- 
+
 </ul>

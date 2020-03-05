@@ -7,11 +7,11 @@
 
 # Site settings
 title: Coastal Oceanography Lab
-email: pmazzini@sfsu.edu
+email: pmazzini@vims.edu
 description: > # this means to ignore newlines until "baseurl:"
- This is the website from our academic research group at Estuary & Ocean Science Center from San Francisco State University.
+ This is the website from our academic research group at Virginia Institute of Marine Science from William & Mary.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site 
+url: "" # the base hostname & protocol for your site
 
 include:
   - .htaccess

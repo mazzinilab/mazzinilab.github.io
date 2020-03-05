@@ -5,7 +5,7 @@ layout: default
 <br>
 
 <div id="homeid" class="col-sm-12">
-        <div style="text-align: center;">
+      <div style="text-align: center;">
 			<h1><b><p>Welcome to the Coastal Oceanography Lab</p></b></h1>
 		</div>
 
@@ -14,33 +14,41 @@ layout: default
 		<div class="container-fluid">
 		    <div class="row">
 
-		       <div class="col-sm-4" >
-		        <a href="http://eoscenter.sfsu.edu/">
-		        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EOS-int.jpg" style="width:70%; display: block; margin: auto" /></a>
+		       <div class="col-sm-6" >
+		        <a href="https://www.vims.edu/">
+		        <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vims_jpg_logo_0418.jpg" style="width:75%; display: block; margin: auto" /></a>
+            </div>
+
+            <div class="col-sm-6" >
+            <a href="https://www.wm.edu/">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wm_vertical_single_line_full_color.png" style="width:50%; display: block; margin: auto"/></a>
 		       </div>
 
-		       <div class="col-sm-4">
-		        <a href="http://www.sfsu.edu/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SFState_H_rgb.jpg" style="width:70%; display: block; margin: auto"/></a>
-		      </div>
-
-		      <div class="col-sm-4">
-		        <a href="http://tornado.sfsu.edu/" ><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ECS.jpg" style="width:70%; display: block; margin: auto"/></a>
-		     </div>
-
 		    </div>
-		</div>
+    </div>
 
-	{{ content }}
+
+
 </div>
 
-
+<div id="homeid" class="col-sm-12">
+    <div style="text-align: center;">
+{{ content }}
+</div>
+</div>
 
 <div class="container-fluid">
      <div class="row">
 
-     <div class="col-sm-12" >
+     <div class="col-sm-7" >
 	     {% include news.html %}
      </div>
 
+     <div class="col-sm-5">
+      <a class="twitter-timeline" data-width="400" data-height="800" data-dnt="true" data-link-color="#2B7BB9" href="https://twitter.com/VIMS_News?ref_src=twsrc%5Etfw">Tweets by VIMS_News</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
+
+    </div>
+</div>
+
 </div>

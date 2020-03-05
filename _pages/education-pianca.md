@@ -8,9 +8,9 @@ permalink: /education-pianca/
 
 <br>
 
-# Education
 
-* For my full CV, please email me at <catitapianca@sfsu.edu>
+
+* For my full CV, please email me at <cpianca@vims.edu>
 
 <div class="container-fluid">
 <div class="row">
@@ -25,8 +25,17 @@ permalink: /education-pianca/
 
 <div class="col-sm-6">
 <div style="text-align:justify" markdown="1">
+
+# Professional Experience
+
+* 2020-present: Researcher at Virginia Institute of Marine Science - William & Mary, USA
+
+* 2017-2020: Research Associate at Estuary & Ocean Science Center - San Francisco State University, USA.
+
 * 2015-2017: Marine Scientist at Rutgers The State University of New Jersey, USA. Supervisor: Dr. Robert J. Chant. <br>
 Project: <em>“The Jamaica Bay Observing system: Process studies and Groundwork for Long-Term Ecosystem Studies and Resilience at Jamaica Bay, New York, USA”.</em>
+
+# Education
 
 * 2010-2014: Ph.D. in Oceanography from University of São Paulo and collaboration with Oregon State University, USA. Advisors: Dr. Rob Holman and Dr. Eduardo Siegle. <br>
 Dissertation: <em>“Space-time variability of coastal morphology: Results from video remote sensing”.</em>

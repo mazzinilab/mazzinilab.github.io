@@ -1,0 +1,35 @@
+I"î<p><br /></p>
+
+<div style="text-align:justify">
+
+  <p>Welcome Alyssa, Amanda &amp; Rachel to the COLAB !</p>
+
+  <p> <strong>Alyssa</strong> is an undergraduate student and she is interested in studying impact of San Francisco Bay in the Gulf of the Farallones using High-Frequency Radar technology. </p>
+
+  <p> <strong>Amanda</strong> is an undergraduate student and she is interested in studying upwelling in the Gulf of the Farallones.</p>
+
+  <p> <strong>Rachel</strong> is a student of physical oceanography and her current focus of research is the Gulf of the Farallones, in the larger context of the California Current System.</p>
+
+  <figure>
+    <p><img src="http://192.168.0.30:4000/images/teampic/alyssa.jpg" class="img-responsive" width="400px" height="auto" /></p>
+    <figcaption>
+      <p>Alyssa</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <p><img src="http://192.168.0.30:4000/images/teampic/amanda.jpg" class="img-responsive" width="400px" height="auto" /></p>
+    <figcaption>
+      <p>Amanda</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <p><img src="http://192.168.0.30:4000/images/teampic/rachel.jpg" class="img-responsive" width="400px" height="auto" /></p>
+    <figcaption>
+      <p>Rachel</p>
+    </figcaption>
+  </figure>
+
+</div>
+:ET

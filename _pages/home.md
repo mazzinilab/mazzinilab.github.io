@@ -1,7 +1,7 @@
 ---
 title: "COLAB - Home"
 layout: homelay
-excerpt:  "COLAB at EOS-SFSU."
+excerpt:  "COLAB at VIMS."
 sitemap: false
 permalink: /
 ---
@@ -25,28 +25,28 @@ permalink: /
 <!-- Items -->
 <div class="carousel-inner" role="listbox" markdown="0">
 <div class="item active">
-<img class="first-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/piero_rinko.JPG" class="img-responsive"  alt="Slide 1"/>
+<img class="first-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/IMG_20200112_165549.jpg" class="img-responsive"  alt="Slide 1"/>
 </div>
 <div class="item">
-<img class="second-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/david_boat.jpg" class="img-responsive" alt="Slide 2" />
+<img class="second-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/IMG_20200109_094339.jpg" class="img-responsive" alt="Slide 2" />
 </div>
 <div class="item">
-<img class="third-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/piero_amanda.JPG" class="img-responsive" alt="Slide 3" />
+<img class="third-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/wren_building_Cassia.jpg" class="img-responsive" alt="Slide 3" />
 </div>
 <div class="item">
-<img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rosette_students3.jpg" class="img-responsive" alt="Slide 4" />
+<img class="fourth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/piero_rinko.JPG" class="img-responsive" alt="Slide 4" />
 </div>
 <div class="item">
-<img class="fifth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rosette_students.JPG" class="img-responsive" alt="Slide 5" />
+<img class="fifth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/cassia_JB.jpg" class="img-responsive" alt="Slide 5" />
 </div>
 <div class="item">
-<img class="sixth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/boat_golden.JPG" class="img-responsive" alt="Slide 6" />
+<img class="sixth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/glider1.jpg" class="img-responsive" alt="Slide 6" />
 </div>
 <div class="item">
-<img class="seventh-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rtc_pier.jpg" class="img-responsive" alt="Slide 7" />
+<img class="seventh-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/rosette_students.JPG" class="img-responsive" alt="Slide 7" />
 </div>
 <div class="item">
-<img class="eigth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/SF_GG.JPG" class="img-responsive" alt="Slide 8" />
+<img class="eigth-slide" src="{{ site.url }}{{ site.baseurl }}/images/slider_carousel/IMG_8503.JPG" class="img-responsive" alt="Slide 8" />
 </div>
 </div>
 <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -62,21 +62,12 @@ permalink: /
 
 <div id="homeid" class="col-sm-12">
 <div style="text-align:justify" markdown="1">
-<p> The Coastal Oceanography Laboratory (COLAB) is part of the Estuary & Ocean Science Center ([EOS Center](http://eoscenter.sfsu.edu/)), which is San Francisco State University (SFSU) marine and estuarine research facility. We are situated in the picturesque town of Tiburon, located just north of San Francisco, California.</p>
-<p> COLAB's mission is to advance our understanding of how the coastal ocean works. We study the circulation and dynamics of the coastal ocean and estuaries, with special interest to questions that can benefit society and aid in the proper management of our oceans and coastal regions. Some topics of interest, include:</p>
+<p> The Coastal Oceanography Laboratory (COLAB) is part of the [Virginia Institute of Marine Science (VIMS)](https://www.vims.edu/) at [William & Mary](https://www.wm.edu/). We are situated in the Chesapeake Bay at Gloucester Point, Virginia.</p>
+<p> COLAB's mission is to advance our understanding of how the coastal ocean works. We study the circulation and dynamics of the coastal ocean and estuaries, with special interest to questions that can benefit society and aid in the proper management of our oceans and coastal regions. </p>
 
-* Upwelling/downwelling;
-* Impact of river runoff in the coastal ocean;
-* Estuarine circulation;
-* Sediment transport in estuaries;
-* Biophysical interactions;
-* Effect of long term processes (ENSO, PDO, etc) in the coastal ocean;
-* Ocean observing technologies;
-* Numerical Modeling of coastal regions.
+<p> To understand the high complexity of the ocean, we use a combination of in situ observations from moorings, shipboard data, lagrangean drifters, satellite remote sensing, High-Frequency land-based radars, autonomous underwater vehicle and numerical modeling.</p>
 
-<p> To understand the high complexity of the ocean, we use a combination of in situ observations from underwater gliders, moorings, shipboard data, lagrangean drifters, satellite remote sensing (sea surface temperature, ocean color, winds, altimetry), High-Frequency land-based radars (measures surface currents), and numerical modeling.</p>
-<p> Locally, our work focuses in the Gulf of the Farallones and in the San Francisco Bay estuary, but we have ongoing collaborations in both East and West coast of the US and South America. Our work also contributes to the missions of the [San Francisco Bay National Estuarine Research Reserve (NERR)](http://www.sfbaynerr.org/), the [Greater Farallones National Marine Sanctuary (GFNMS)](https://farallones.noaa.gov/), the [Cordell Bank National Marine Sanctuary (CBNMS)](https://cordellbank.noaa.gov/) and the [Central and Northern California Ocean Observing System (CeNCOOS) - IOOS NOAA](http://www.cencoos.org/).</p>
-<p> **We are looking for passionate new Graduate/Undergraduate students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**</p>
+<p> **We are looking for passionate new Graduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**</p>
 
 <br>
 <br>

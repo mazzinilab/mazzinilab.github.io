@@ -8,9 +8,7 @@ permalink: /education-mazzini/
 
 <br>
 
-# Education
-
-* For my full CV, please email me at <pmazzini@sfsu.edu>
+* For my full CV, please email me at <pmazzini@vims.edu>
 
 <div class="container-fluid">
 <div class="row">
@@ -25,7 +23,16 @@ permalink: /education-mazzini/
 
 <div class="col-sm-6">
 <div style="text-align:justify" markdown="1">
+
+# Professional Experience
+
+* 2020-present: Assistant Professor at Virginia Institute of Marine Science - William & Mary, USA
+
+* 2017-2020: Assistant Professor at Estuary & Ocean Science Center - San Francisco State University, USA.
+
 * 2015-2017: Postdoctoral Research Associate at Rutgers University, USA. Supervisors: Dr. Robert J. Chant and Dr. John Wilkin. Research Project: <em>“Circulation and Mixing in a Coastally Trapped River Plume”</em>
+
+# Education
 
 * 2009-2014: Ph.D. in Physical Oceanography, Oregon State University, USA. Advisor: Dr. John A. Barth. <br>
 Dissertation: [<em> “The effect of river discharge and wind forcing on the Oregon coastal ocean during fall and winter” </em>](http://hdl.handle.net/1957/52595).

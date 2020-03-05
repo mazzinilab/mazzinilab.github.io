@@ -241,7 +241,7 @@ $dropdown-fallback-border:       #ccc !default;
 //** Divider color for between dropdown items.
 $dropdown-divider-bg:            $gray-lighter !default;
 
-//** Dropdown link text color. 
+//** Dropdown link text color.
 $dropdown-link-color:            #000000 !default; //**$gray-light
 //** Hover color for dropdown links.
 $dropdown-link-hover-color:      #0000ff !default; //**$gray-dark
@@ -366,12 +366,12 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #330033 !default; //#f8f8f8
-$navbar-default-border:            #330033 !default; //$input-border
+$navbar-default-bg:                #00467f !default; //#00467f #0089a4 #7399b1
+$navbar-default-border:            #00467f !default; //$input-border #7399b1
 
 // Navbar links
-$navbar-default-link-color:                #ffcc33 !default; //$gray-light
-$navbar-default-link-hover-color:          #ffcc33 !default; //$gray-dark
+$navbar-default-link-color:               #FFFFFF !default; //$gray-light #FAEBD7
+$navbar-default-link-hover-color:         #FFFFFF !default; //$gray-dark #FAEBD7
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;
@@ -379,8 +379,8 @@ $navbar-default-link-disabled-color:       $gray-lighter !default;
 $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label
-$navbar-default-brand-color:               #ffcc33 !default; //$navbar-default-link-hover-color
-$navbar-default-brand-hover-color:         #ffcc33 !default; //$navbar-default-link-hover-color
+$navbar-default-brand-color:               #FFFFFF !default; //$navbar-default-link-hover-color #FAEBD7
+$navbar-default-brand-hover-color:        #FFFFFF !default; //$navbar-default-link-hover-color #FAEBD7
 $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
@@ -703,19 +703,19 @@ $list-group-link-heading-color: #333 !default;
 //
 //##
 
-$panel-bg:                    #fff !default;
+$panel-bg:                    #00467f !default; //#fff
 $panel-body-padding:          15px !default;
 $panel-heading-padding:       10px 15px !default;
 $panel-footer-padding:        $panel-heading-padding !default;
 $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
-$panel-inner-border:          transparent !default;
-$panel-footer-bg:             #f5f5f5 !default;
+$panel-inner-border:          #00467f !default;
+$panel-footer-bg:             #00467f !default;
 
-$panel-default-text:          $gray-dark !default;
+$panel-default-text:          #ffffff !default; //$gray-dark
 $panel-default-border:        transparent !default;
-$panel-default-heading-bg:    #f5f5f5 !default;
+$panel-default-heading-bg:    #00467f !default; 	// #f5f5f5
 
 $panel-primary-text:          #fff !default;
 $panel-primary-border:        transparent !default;
