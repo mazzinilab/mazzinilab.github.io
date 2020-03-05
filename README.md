@@ -2,7 +2,7 @@
 
  https://mazzinilab.github.io/ 
  
- This is the website from our academic research group at Estuary & Ocean Science Center from San Francisco State University (Romberg Tiburon Campus).
+ This is the website from our academic research group at Virginia Institute of Marine Sciences | William & Mary.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 
