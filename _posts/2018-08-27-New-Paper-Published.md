@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published"
+title: "New Paper Published in the Geophysical Research Letters (GRL)"
 date: 2018-09-04
 ---
 

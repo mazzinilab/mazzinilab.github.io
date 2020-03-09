@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published"
+title: "New Paper Published in the Deep Sea Research Part I"
 date: 2018-04-15
 ---
 

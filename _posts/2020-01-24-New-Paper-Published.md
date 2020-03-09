@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper published"
+title: "New Paper published in the Bulletin of the American Meteorological Society (BAMS)"
 date: 2020-01-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Accepted"
+title: "New Paper Published in the Journal of Geophysical Research (JGR)"
 date: 2019-10-18
 ---
 

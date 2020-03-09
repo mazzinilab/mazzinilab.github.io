@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published"
+title: "New Paper Published in the Regional Studies in Marine Science"
 date: 2017-08-26
 ---
 
