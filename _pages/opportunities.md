@@ -22,7 +22,7 @@ permalink: /opportunities
 
 #### **PhD position at VIMS – Coastal Physical Oceanography**
 
-PhD opportunities in coastal physical oceanography are available to work with Dr. Piero Mazzini at William & Mary’s Virginia Institute of Marine Science (VIMS). The position will begin in Fall 2020 or Spring 2021.
+PhD opportunity in coastal physical oceanography is available to work with Dr. Piero Mazzini at William & Mary’s Virginia Institute of Marine Science (VIMS). The position will begin in Fall 2020 or Spring 2021.
 
 **Qualifications:** At the time of appointment, the successful candidate will hold an earned Master of Science (M.S.) or equivalent degree in Physical Oceanography, Meteorology, Physics, Environmental Engineering or a related scientific discipline. A broad knowledge of physical oceanography and/or fluid dynamics is required. Strong quantitative and programming skills in Python and/or MATLAB and research background with strong writing ability are also required. Preference will be given to those candidates with experience in oceanographic data analysis and ocean numerical modeling, especially with the Regional Ocean Modeling System (ROMS).
 
