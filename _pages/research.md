@@ -16,6 +16,7 @@ permalink: /research/
 	<br>
 	<h3 style="color:Tomato">Ongoing Research:</h3>
 
+	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/glider-point-arena/"> Closing observational gaps in the California Current System: the Point Arena Underwater Glider Line </a></h3></li>
   <li><h3> Impact of the San Francisco Bay Plume in the California north central coast. Funded by NOAA CA Sea Grant.</h3>  More info: <a href='https://caseagrant.ucsd.edu/project/impact-of-the-san-francisco-bay-plume-in-the-california-north-central-coast-0'> caseagrant.ucsd.edu/project/impact-of-the-san-francisco-bay-plume-in-the-california-north-central-coast-0 </a> </li>
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/HF-Radar/"> Surface currents in San Francisco Bay from HF Radar </a></h3></li>
 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/continental-shelf-brazil/"> Dynamics of the continental shelf in the Tropical region off Brazil </a></h3></li>
