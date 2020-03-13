@@ -65,7 +65,7 @@ Additional information on Dr. Mazzini:
 #### Researcher
 
 <i class="glyphicon glyphicon-envelope"></i> <cpianca@vims.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
-**Office**: Andrews Hall 202 <br>
+**Office**: Andrews Hall 206 <br>
 **Department**: Physical Sciences
 
 <p> Dr. Pianca is a coastal oceanographer and works on coastal and estuarine regions, conducting research on sediment transport and morphodynamics, measurements of waves and currents, and application of remote sensing, from video cameras to satellite ocean color. </p>
@@ -118,22 +118,6 @@ Additional information on Dr. Pianca:
 
 </div></div></div></div>
 
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/bianca_2.jpg" class="img-responsive" width="90%" alt="Bianca"/>
-</div>
-
-<div class="col-sm-9">
-### Bianca Bahman
-
-(finishing her M.Sc. at San Francisco State University). MS Thesis: <i> Uncertainties in Upper Ocean Thermal Structure from Animal Tag Measurements.</i>
-
-</div></div></div></div>
-
-
-
 <br>
 
 <div style="text-align:left" markdown="1">
@@ -168,7 +152,7 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="90%" alt="Bianca"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="90%" alt="rachel"/>
 </div>
 
 <div class="col-sm-9">

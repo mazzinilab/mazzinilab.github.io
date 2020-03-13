@@ -25,7 +25,7 @@ Gloucester Point, VA 23062 </p>
 
 <div class="col-sm-8">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/andrews_hall_Malmquist.jpg" class="img-responsive" width="400px" height="auto" alt="EOS" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/andrews_hall_Malmquist.jpg" class="img-responsive" width="400px" height="auto" alt="andrews" />
 <figcaption> Andrews Hall. <span class="copyright">&copy;</span> D. Malmquist.
 </figcaption>
 </figure>
@@ -48,7 +48,7 @@ Gloucester Point, VA 23062 </p>
 
 <div class="col-sm-6">
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/C_Katella_VIMS.jpg" class="img-responsive" width="800px" height="auto" alt="virginia" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/contapic/C_Katella_VIMS.jpg" class="img-responsive" width="800px" height="auto" alt="rv_virginia" />
 <figcaption> R/V Virginia <span class="copyright">&copy;</span> C. Katella
 </figcaption>
 </figure>
