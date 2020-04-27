@@ -15,7 +15,7 @@ permalink: /team/
 <!--<h4>**We are  looking for Postdocs to join the team** [(see opportunities)]({{ site.url }}{{ site.baseurl }}/opportunities) **!**</h4>-->
 
 <div style="text-align:left" markdown="1">
-<h2 style="background-color:#00467f; color:#FFFFFF"> PRINCIPAL INVESTIGATORS:</h2>
+<h2 style="background-color:#00467f; color:#FFFFFF"> PRINCIPAL INVESTIGATOR:</h2>
 </div>
 
 <div style="text-align:justify" markdown="1">
@@ -52,6 +52,10 @@ Additional information on Dr. Mazzini:
 </div>
 
 ---
+
+<div style="text-align:left" markdown="1">
+<h2 style="background-color:#00467f; color:#FFFFFF"> RESEARCH ASSOCIATE:</h2>
+</div>
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
@@ -146,7 +150,7 @@ Additional information on Dr. Pianca:
 <h2 style="background-color:#00467f; color:#FFFFFF">  PAST MEMBERS:</h2>
 </div>
 
-### Researcher Assistant
+### Research Assistant
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
