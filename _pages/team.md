@@ -33,7 +33,8 @@ permalink: /team/
 <i class="glyphicon glyphicon-envelope"></i> <pmazzini@vims.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/piero-mazzini-9a762535) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=YLs84F0AAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Piero_Mazzini)  <br>
 <span class="glyphicon glyphicon-phone-alt"></span> +1 (804) 684-7882 <br>
 **Office**: Andrews Hall 236 <br>
-**Department**: Physical Sciences
+**Department**: Physical Sciences <br>
+**VIMS Profile**: <a href='https://www.vims.edu/research/departments/physical/people/faculty/mazzini_plf.php'> VIMS Faculty </a>
 
 <p>Dr. Mazzini is an Assistant Professor at the Virginia Institute of Marine Science | William & Mary. He is a coastal physical oceanographer, and his research focuses on understanding how the coastal ocean responds to winds, waves, tides, freshwater input from rivers, and the exchange processes among estuaries, continental shelf, and the deep ocean. </p>
 
