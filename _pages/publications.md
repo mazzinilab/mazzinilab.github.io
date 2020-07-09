@@ -14,7 +14,7 @@ permalink: /publications/
 
 #### <b> PEER-REVIEWED PUBLICATIONS <b>
 
-  R. Chant, D. Ralston, N. Ganju, <b>C. Pianca</b>, A. Simonson and R. Cartwright ("submitted"). Sediment budget estimates for a highly impacted embayment with extensive wetland loss.  Submitted to <i>Estuaries and Coasts</i>.
+  R. Chant, D. Ralston, N. Ganju, <b>C. Pianca</b>, A. Simonson and R. Cartwright (2020). Sediment Budget Estimates for a Highly Impacted Embayment with Extensive Wetland Loss. <i>Estuaries and Coasts</i>. [[Estuaries and Coasts]](https://link.springer.com/article/10.1007/s12237-020-00784-3).
 
   <!--Ingman, K., Hines, E., <b>Mazzini, P.L.F.</b>, Rockwood, C., Nur, N., and J. Jahncke ("submitted"). Changes in seasonal abundance and timing of migration of baleen whales in Central California. Submitted to <i>PLOS One</i>.-->
 
