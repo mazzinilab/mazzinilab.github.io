@@ -53,7 +53,7 @@ The student will join the School of Marine Sciences at VIMS, and must meet eligi
 - The student will receive a four-year research assistantship stipend (including tuition and fees); funding in subsequent years could be through either research or teaching assistantships.
 
 **To Apply:**
-- Interested candidates should contact Dr. Piero Mazzini at [pmazzini@vims.edu](mailto:pmazzini@vims.edu) with the subject heading "VIMS PhD position inquiry". Send a one page letter of motivation, current CV and transcripts, no later than **November, 1st, 2020**.
+- Interested candidates should contact Dr. Piero Mazzini at [pmazzini@vims.edu](mailto:pmazzini@vims.edu) with the subject heading "VIMS PhD position inquiry". Send a one page letter of motivation, current CV and transcripts.
 
 **About Virginia Institute of Marine Science (VIMS) - William & Mary:**
 

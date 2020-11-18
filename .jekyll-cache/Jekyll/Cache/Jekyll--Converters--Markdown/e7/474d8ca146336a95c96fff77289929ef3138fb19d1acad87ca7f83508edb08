@@ -1,4 +1,4 @@
-I".<p><br /></p>
+I"�<p><br /></p>
 
 <h1 id="opportunities">Opportunities</h1>
 
@@ -6,23 +6,23 @@
 
   <h2 id="current-positions-available">Current Positions Available:</h2>
 
-  <hr />
-
-  <h3 id="undergraduate-students"><strong>UNDERGRADUATE STUDENTS</strong></h3>
+  <div style="text-align:left">
+    <h2 style="background-color:#00467f; color:#FFFFFF"> UNDERGRADUATE STUDENTS:</h2>
+  </div>
 
   <p>I do not have any opportunities at this time. For summer internships, please take a look at the <a href="https://www.vims.edu/education/college/summer_intern/about/index.php">VIMS Research Experience for Undergraduates (REU)</a>. The applications are generally due in February of each year.</p>
 
   <hr />
+  <div style="text-align:left">
+    <h2 style="background-color:#00467f; color:#FFFFFF"> GRADUATE STUDENTS:</h2>
+  </div>
 
-  <h3 id="graduate-students"><strong>GRADUATE STUDENTS</strong></h3>
-
-  <p><i> Posted: September 10, 2020 </i></p>
-
-  <h4 id="phd-position--coastal-physical-oceanography"><strong>PhD position – Coastal Physical Oceanography</strong></h4>
+  <h4> <strong>New PhD position – Coastal Physical Oceanography</strong>.</h4>
+  <p><i> Posted: September 11, 2020 </i></p>
 
   <p>PhD opportunity in coastal physical oceanography is available to work with Dr. Piero Mazzini at the Virginia Institute of Marine Science (VIMS) - William &amp; Mary. The PhD student will participate in the multi-institutional research project: <a href="http://localhost:4000/research/NSF-River-Plume/">“River Plume-Cape Interaction - Plume Separation from The Coastal Wall, Vorticity Generation And Fresh Water Retention. Funded by National Science Foundation (NSF)”</a>.</p>
 
-  <p>The student will join the School of Marine Sciences at VIMS, and must meet eligibility requirements for the school (the application deadline for the VIMS graduate program is January 6, 2021). More information at: &lt;\br&gt; <a href="https://www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php">www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php</a></p>
+  <p>The student will join the School of Marine Sciences at VIMS, and must meet eligibility requirements for the school (<strong>the application deadline for the VIMS graduate program is January 6, 2021</strong>). More information at: <br /> <a href="https://www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php">www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php</a></p>
 
   <p><strong>The position will ideally begin in the Fall 2021.</strong></p>
 
@@ -64,7 +64,9 @@
 
   <hr />
 
-  <h3 id="post-docs"><strong>POST-DOCS</strong></h3>
+  <div style="text-align:left">
+    <h2 style="background-color:#00467f; color:#FFFFFF"> POST-DOCS:</h2>
+  </div>
 
   <p>At this time, I do not have funding available for a post-doc.</p>
 
