@@ -31,7 +31,9 @@ PhD opportunity in coastal physical oceanography is available to work with Dr. P
 
 The student will join the School of Marine Sciences at VIMS, and must meet eligibility requirements for the school (**the application deadline for the VIMS graduate program is January 6, 2021**). More information at: <br> [www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php](https://www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php)
 
-**The position will ideally begin in the Fall 2021.**
+Interested candidates should contact Dr. Piero Mazzini at [pmazzini@vims.edu](mailto:pmazzini@vims.edu) with the subject heading "VIMS PhD position inquiry". Send a one page letter of motivation, current CV and transcripts.
+
+**The position will begin in the Fall 2021.**
 
 **Minimum Qualifications:**
 - Master of Science (M.S.) or equivalent degree in physical oceanography, atmospheric or climate sciences or a related field;
@@ -52,8 +54,6 @@ The student will join the School of Marine Sciences at VIMS, and must meet eligi
 **Funding:**
 - The student will receive a four-year research assistantship stipend (including tuition and fees); funding in subsequent years could be through either research or teaching assistantships.
 
-**To Apply:**
-- Interested candidates should contact Dr. Piero Mazzini at [pmazzini@vims.edu](mailto:pmazzini@vims.edu) with the subject heading "VIMS PhD position inquiry". Send a one page letter of motivation, current CV and transcripts.
 
 **About Virginia Institute of Marine Science (VIMS) - William & Mary:**
 
