@@ -18,7 +18,7 @@ permalink: /publications/
 
   Ingman, K., Hines, E., <b>Mazzini, P.L.F.</b>, Rockwood, R.C., Nur, N., and Jahncke, J. (2021). Modeling changes in baleen whale seasonal abundance, timing of migration, and environmental variables to explain the sudden rise in entanglements in California. <i>PLoS One</i>.[[PLoS ONE]](https://doi.org/10.1371/journal.pone.0248557)
 
-  R. Chant, D. Ralston, N. Ganju, <b>C. Pianca</b>, A. Simonson and R. Cartwright (2020). Sediment Budget Estimates for a Highly Impacted Embayment with Extensive Wetland Loss. <i>Estuaries and Coasts</i>. [[Estuaries and Coasts]](https://link.springer.com/article/10.1007/s12237-020-00784-3).
+  R. Chant, D. Ralston, N. Ganju, <b>C. Pianca</b>, A. Simonson and R. Cartwright (2021). Sediment Budget Estimates for a Highly Impacted Embayment with Extensive Wetland Loss. <i>Estuaries and Coasts</i>. [[Estuaries and Coasts]](https://link.springer.com/article/10.1007/s12237-020-00784-3).
 
   Gentemann, C.L., J.P. Scott, <b>P.L.F. Mazzini</b>, <b>C. Pianca</b>, S. Akella, P.J. Minnett, P. Cornillon, B. Fox-Kemper, I. Cetinić, T.M. Chin, J. Gomez-Valdes, J. Vazquez-Cuervo, V. Tsontos, L. Yu, R. Jenkins, S. De Halleux, D. Peacock, N. Cohen. Saildrone: adaptively sampling the marine environment. (2020). <i>Bulletin of the American Meteorological Society </i>. [[BAMS]](https://journals.ametsoc.org/doi/10.1175/BAMS-D-19-0015.1)
 
