@@ -10,7 +10,28 @@ permalink: /research/glider-point-arena/
 
 <div style="text-align:justify" markdown="1">
 
-### <b> Closing observational gaps in the California Current System: the Point Arena Underwater Glider Line </b>
+
+### <b> CeNCOOS Partnership: Ocean Information for Decision Makers. CeNCOOS Data Management Services </b>
+
+<div class="">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/logo-color.png" class="img-responsive" width="300px" height="auto" alt="WM" />
+</figure>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IOOS_logo.png" class="img-responsive" width="500px" height="auto" alt="WM" />
+</figure>
+</div>
+
+<br>
+
+Funded by **Integrated Ocean Observing System (IOOS - NOAA) <a href='https://ioos.noaa.gov/'> (IOOS) </a>**. <br>
+
+**LEAD-PI**: Dr. Henry Ruhl (MBARI) <br>
+**CO-PIs**: Dr. Piero Mazzini (VIMS)  and Dr. Karina Nielsen (SFSU). <br>
+
+Period: June, 2019 to May 31, 2020. <br>
+
+#### <b> Closing observational gaps in the California Current System: the Point Arena Underwater Glider Line </b>
 
 <p>A new underwater glider line has been implemented beginning in Dec-2019, located off Point Arena, northern California. This new line is part of the Central and Northern California Ocean Observing System - CeNCOOS ([https://www.cencoos.org](https://www.cencoos.org/)), and is being coordinated by Dr. Mazzini in collaboration with Dr. Dan Rudnick (UCSD SIO), Dr. Henry Ruhl (CeNCOOS/MBARI), Dr. John Largier (UC Davis), Dr. Jack Barth (OSU), Dr. Francisco Chaves (MBARI), and many others. This line will help monitor changes of the ocean physics and biochemistry, helping to advance our knowledge of the California Current System and improve ocean model forecast in the region.</p>
 

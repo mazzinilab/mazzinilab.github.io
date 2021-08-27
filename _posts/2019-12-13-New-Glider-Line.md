@@ -8,7 +8,7 @@ date: 2019-12-13
 
 <div style="text-align:justify" markdown="1">
 
-<p> Last Thursday (December 12), Dr. Piero Mazzini and student Rachel Jackson were at sea deploying an underwater glider off Bodega Bay. This glider will collect data around Point Arena (CA) and is part of the new [CeNCOOS](http://www.cencoos.org/) glider line coordinated by Dr. Mazzini. </p>
+> <p> Last Thursday (December 12), Dr. Piero Mazzini and student Rachel Jackson were at sea deploying an underwater glider off Bodega Bay. This glider will collect data around Point Arena (CA) and is part of the new [CeNCOOS](http://www.cencoos.org/) glider line coordinated by Dr. Mazzini. </p>
 
 <div class="container-fluid">
 <figure>

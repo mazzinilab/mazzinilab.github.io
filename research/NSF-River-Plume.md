@@ -12,6 +12,14 @@ permalink: /research/NSF-River-Plume/
 
 ### <b> River Plume-Cape Interaction - Plume Separation from The Coastal Wall, Vorticity Generation And Fresh Water Retention </b>
 
+<div class="">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/NSF_4-Color_bitmap_Logo.png" class="img-responsive" width="100px" height="auto" alt="WM" />
+</figure>
+</div>
+
+<br>
+
 Funded by **NATIONAL SCIENCE FOUNDATION <a href='https://www.nsf.gov/index.jsp'> (NSF) </a>**. <br>
 
 **LEAD-PI**: Dr. Piero Mazzini <br>
@@ -26,9 +34,5 @@ Period: June, 2020 to May 31, 2023. <br>
 <p>Complex coastal geometries, such as capes and submarine banks, can lead to significant hydrodynamic disturbances of buoyant coastal flows. Such plumes are key components of shelf circulation and coastal ocean biogeochemistry and marine ecosystems, so their dynamics and fate are critical to understand. This project will quantify the interaction between the San Francisco Bay Plume in the vicinity of Point Reyes, CA, under a range of wind and river discharge conditions, using shipboard, moored, and drifter field observations, combined with realistic and idealized numerical modeling studies. The main objectives are to: (1) obtain detailed measurements of plume hydrography, along- and cross-stream velocities and transports near a cape, under a range of river discharge and wind-forcing conditions, (2) identify the conditions for plume separation from the coast and eddy generation in the lee of a cape, (3) quantify the retention time scales downstream of the cape associated with the generated eddies, and (4) investigate the dominant momentum balances that control far-field dynamics as the plume interacts with a cape. Although plumes encompass a small area of the ocean surface, they are the boundary condition for larger scale shelf circulation, and thus their evolution is critical to understand and represent realistically in models. This project will result in better understanding of the fate and transport of pollutants, nutrients and water masses in the ocean, contribute observational datasets, models, and analysis tools to the science community, and will provide critical research capacity for two early career scientists.</p>
 
 <h4>**Data and Results will be available in the future.**</h4>
-
-<br>
-
-
 
 </div>

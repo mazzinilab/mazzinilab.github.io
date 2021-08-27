@@ -1,0 +1,55 @@
+I"ð<p><br /></p>
+
+<!-- <div style="text-align:justify" markdown="1">
+
+
+<!-- ##### The COLAB welcomes two new graduate students joining us this Fall:
+
+- Ph.D. Student Ben Smith and
+- Master Student Nathan Shunk
+
+#### Welcome to the team !! -->
+
+<!-- </div> -->
+
+<blockquote>
+  <p>The COLAB welcomes two new graduate students joining us this Fall:</p>
+  <ul>
+    <li>Ph.D. Student Ben Smith</li>
+    <li>Master Student Nathan Shunk</li>
+  </ul>
+
+  <p>Welcome to the team !!</p>
+</blockquote>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Page Title</title>
+    <style>
+      /* The . with the boxed represents that it is a class */
+      .boxed {
+        background: lightgrey;
+        color: black;
+        border: 3px solid black;
+        margin: 0px auto;
+        width: 456px;
+        padding: 10px;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="boxed">
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem quos esse
+      at. Eaque porro vel soluta vero labore. Eius possimus ipsum deleniti
+      perferendis quas perspiciatis reprehenderit adipisci fuga rerum velit.
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed minus
+      voluptatem consequatur fugiat excepturi reiciendis nulla! Modi dignissimos
+      molestiae perspiciatis commodi! Autem, deleniti neque aperiam excepturi
+      sunt corrupti ipsam voluptatum!
+    </div>
+  </body>
+</html>
+:ET

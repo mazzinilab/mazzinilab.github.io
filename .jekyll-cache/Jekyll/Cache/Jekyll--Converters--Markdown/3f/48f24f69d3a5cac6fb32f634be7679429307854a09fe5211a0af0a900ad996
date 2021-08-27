@@ -1,0 +1,47 @@
+I"<p><br /></p>
+
+<div style="text-align:justify">
+
+  <blockquote>
+    <p>The COLAB welcomes two new graduate students joining us this Fall:</p>
+    <ul>
+      <li>Ph.D. Student Ben Smith</li>
+      <li>Master Student Nathan Shunk</li>
+    </ul>
+
+    <p>Welcome to the team !!</p>
+  </blockquote>
+
+  <table>
+    <thead>
+      <tr>
+        <th> </th>
+        <th>Obs1</th>
+        <th>Obs2</th>
+        <th>Obs3</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Feat1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Feat2</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>Feat3</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+:ET

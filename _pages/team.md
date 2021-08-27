@@ -99,15 +99,59 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="70%" alt="Alyssa"/>
+</div>
+
+<div class="col-sm-9">
+### Ben Smith
+
+#### Ph.D. Student
+
+Office: Andrews Hall 234F and 201
+
+Department: Physical Sciences
+
+</div></div></div></div>
+
+---
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="70%" alt="Alyssa"/>
+</div>
+
+<div class="col-sm-9">
+### Nathan Shunk
+
+#### Master's Student
+
+Office: Andrews Hall 234F and 201
+
+Department: Physical Sciences
+
+</div></div></div></div>
+
+---
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="70%" alt="Alyssa"/>
 </div>
 
 <div class="col-sm-9">
 ### Alyssa Zimmer
 
-(finishing her M.Sc. at San Francisco State University). MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i>
+(finishing her M.Sc. at San Francisco State University).
+
+MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i>
 
 </div></div></div></div>
+
+---
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
@@ -116,10 +160,13 @@ Additional information on Dr. Pianca:
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="80%" alt="Nick"/>
 </div>
 
+
 <div class="col-sm-9">
 ### Nicholas Carver
 
-(finishing his M.Sc. at San Francisco State University). MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i>
+(finishing his M.Sc. at San Francisco State University).
+
+MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i>
 
 </div></div></div></div>
 

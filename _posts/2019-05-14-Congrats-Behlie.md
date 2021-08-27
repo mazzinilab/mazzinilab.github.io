@@ -8,13 +8,13 @@ date: 2019-05-14
 
 <div style="text-align:justify" markdown="1">
 
-On 5/14 **Behlie Langel** defended her B.S. thesis entitled: "Spatial Variability of Coastal Upwelling Along the Gulf of the Farallones".
-
-Congrats!
-
-<figure>
+> On 5/14 **Behlie Langel** defended her B.S. thesis entitled: "Spatial Variability of Coastal Upwelling Along the Gulf of the Farallones".
+>
+> Congrats!
+>
+> <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/behlie_defense.jpg" class="img-responsive" width="350px" height="auto" />
-</figure>
+> </figure>
 
 
 
