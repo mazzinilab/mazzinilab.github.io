@@ -33,7 +33,7 @@ Period: June, 2019 to May 31, 2020. <br>
 
 #### <b> Closing observational gaps in the California Current System: the Point Arena Underwater Glider Line </b>
 
-<p>A new underwater glider line has been implemented beginning in Dec-2019, located off Point Arena, northern California. This new line is part of the Central and Northern California Ocean Observing System - CeNCOOS ([https://www.cencoos.org](https://www.cencoos.org/)), and is being coordinated by Dr. Mazzini in collaboration with Dr. Dan Rudnick (UCSD SIO), Dr. Henry Ruhl (CeNCOOS/MBARI), Dr. John Largier (UC Davis), Dr. Jack Barth (OSU), Dr. Francisco Chaves (MBARI), and many others. This line will help monitor changes of the ocean physics and biochemistry, helping to advance our knowledge of the California Current System and improve ocean model forecast in the region.</p>
+<p>A new underwater glider line has been implemented beginning in Dec-2019, located off Point Arena, northern California. This new line is part of the Central and Northern California Ocean Observing System - CeNCOOS ([https://www.cencoos.org](https://www.cencoos.org/)), and is being coordinated by Dr. Mazzini and collaborators. This line will help monitor changes of the ocean physics and biochemistry, helping to advance our knowledge of the California Current System and improve ocean model forecast in the region.</p>
 
 <p> Real time data can be obtained at: [https://www.cencoos.org/data/gliders/line56_7](https://www.cencoos.org/data/gliders/line56_7) </p>
 
