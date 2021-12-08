@@ -99,8 +99,9 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="70%" alt="Alyssa"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ben.jpg" class="img-responsive" width="100%" alt="Ben"/>
 </div>
+
 
 <div class="col-sm-9">
 ### Ben Smith
@@ -111,6 +112,9 @@ Office: Andrews Hall 234F and 201
 
 Department: Physical Sciences
 
+**VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/smith_b.php'> VIMS Students </a>
+
+
 </div></div></div></div>
 
 ---
@@ -119,17 +123,21 @@ Department: Physical Sciences
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="70%" alt="Alyssa"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nathan.jpg" class="img-responsive" width="110%" alt="Nathan"/>
 </div>
 
 <div class="col-sm-9">
 ### Nathan Shunk
 
-#### Master's Student
+#### M.S. Student
 
 Office: Andrews Hall 234F and 201
 
 Department: Physical Sciences
+
+**VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/shunk_n.php'> VIMS Students </a>
+
+<p> Nathan is interested in the hydrodynamics that facilitate the transport of dissolved and suspended matter across estuaries and the coastal ocean. In the Coastal Oceanography Lab (COLAB) he will be studying spatial and temporal patterns of Marine Heatwaves in the Chesapeake Bay subsurface waters, and their impact in water quality. </p>
 
 </div></div></div></div>
 
@@ -139,13 +147,15 @@ Department: Physical Sciences
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="70%" alt="Alyssa"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="100%" alt="Alyssa"/>
 </div>
 
 <div class="col-sm-9">
 ### Alyssa Zimmer
 
-(finishing her M.Sc. at San Francisco State University).
+#### M.S. Student
+
+(finishing her M.S. at San Francisco State University).
 
 MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i>
 
@@ -157,14 +167,16 @@ MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the 
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="80%" alt="Nick"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="100%" alt="Nick"/>
 </div>
 
 
 <div class="col-sm-9">
 ### Nicholas Carver
 
-(finishing his M.Sc. at San Francisco State University).
+#### M.S. Student
+
+(finishing his M.S. at San Francisco State University).
 
 MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i>
 
@@ -180,7 +192,7 @@ MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" class="img-responsive" width="90%" alt="Misty"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" class="img-responsive" width="100%" alt="Misty"/>
 </div>
 
 <div class="col-sm-9">
@@ -204,7 +216,7 @@ MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="90%" alt="rachel"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="100%" alt="rachel"/>
 </div>
 
 <div class="col-sm-9">
