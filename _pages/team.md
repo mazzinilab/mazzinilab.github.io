@@ -99,7 +99,7 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ben.jpg" class="img-responsive" width="100%" alt="Ben"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ben.jpeg" class="img-responsive" width="110%" alt="Ben"/>
 </div>
 
 

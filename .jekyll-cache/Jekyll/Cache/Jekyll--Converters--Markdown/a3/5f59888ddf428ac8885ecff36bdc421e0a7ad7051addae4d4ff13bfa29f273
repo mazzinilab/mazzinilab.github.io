@@ -1,4 +1,4 @@
-I"Å%<p><br /></p>
+I"˛&<p><br /></p>
 
 <h1 id="lab-members">Lab members</h1>
 
@@ -102,7 +102,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-3">
-          <p><img src="/images/teampic/nophoto.png" class="img-responsive" width="90%" alt="Ben" /></p>
+          <p><img src="/images/teampic/ben.jpeg" class="img-responsive" width="110%" alt="Ben" /></p>
         </div>
 
         <div class="col-sm-9">
@@ -113,6 +113,8 @@
           <p>Office: Andrews Hall 234F and 201</p>
 
           <p>Department: Physical Sciences</p>
+
+          <p><strong>VIMS Profile</strong>: <a href="https://www.vims.edu/about/directory/students/smith_b.php"> VIMS Students </a></p>
 
         </div>
       </div>
@@ -125,19 +127,21 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-3">
-          <p><img src="/images/teampic/nathan.jpg" class="img-responsive" width="100%" alt="Nathan" /></p>
+          <p><img src="/images/teampic/nathan.jpg" class="img-responsive" width="110%" alt="Nathan" /></p>
         </div>
 
         <div class="col-sm-9">
           <h3 id="nathan-shunk">Nathan Shunk</h3>
 
-          <h4 id="masters-student">Master‚Äôs Student</h4>
+          <h4 id="ms-student">M.S. Student</h4>
 
           <p>Office: Andrews Hall 234F and 201</p>
 
           <p>Department: Physical Sciences</p>
 
-          <p> Nathan is interested in the hydrodynamics that facilitate the transport of dissolved or suspended matter across estuaries and the coastal ocean. In the Coastal Oceanography Lab (COLAB) he will be attempting to describe and quantify the patterns of Marine Heatwaves in the Chesapeake Bay below the surface layer. </p>
+          <p><strong>VIMS Profile</strong>: <a href="https://www.vims.edu/about/directory/students/shunk_n.php"> VIMS Students </a></p>
+
+          <p> Nathan is interested in the hydrodynamics that facilitate the transport of dissolved and suspended matter across estuaries and the coastal ocean. In the Coastal Oceanography Lab (COLAB) he will be studying spatial and temporal patterns of Marine Heatwaves in the Chesapeake Bay subsurface waters, and their impact in water quality. </p>
 
         </div>
       </div>
@@ -156,7 +160,9 @@
         <div class="col-sm-9">
           <h3 id="alyssa-zimmer">Alyssa Zimmer</h3>
 
-          <p>(finishing her M.Sc. at San Francisco State University).</p>
+          <h4 id="ms-student-1">M.S. Student</h4>
+
+          <p>(finishing her M.S. at San Francisco State University).</p>
 
           <p>MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i></p>
 
@@ -177,7 +183,9 @@
         <div class="col-sm-9">
           <h3 id="nicholas-carver">Nicholas Carver</h3>
 
-          <p>(finishing his M.Sc. at San Francisco State University).</p>
+          <h4 id="ms-student-2">M.S. Student</h4>
+
+          <p>(finishing his M.S. at San Francisco State University).</p>
 
           <p>MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i></p>
 

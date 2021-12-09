@@ -1,4 +1,4 @@
-I"™&<p><br /></p>
+I"þ&<p><br /></p>
 
 <h1 id="lab-members">Lab members</h1>
 
@@ -102,7 +102,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-3">
-          <p><img src="/images/teampic/ben.jpg" class="img-responsive" width="100%" alt="Ben" /></p>
+          <p><img src="/images/teampic/ben.jpeg" class="img-responsive" width="100%" alt="Ben" /></p>
         </div>
 
         <div class="col-sm-9">
@@ -160,7 +160,9 @@
         <div class="col-sm-9">
           <h3 id="alyssa-zimmer">Alyssa Zimmer</h3>
 
-          <p>(finishing her M.Sc. at San Francisco State University).</p>
+          <h4 id="ms-student-1">M.S. Student</h4>
+
+          <p>(finishing her M.S. at San Francisco State University).</p>
 
           <p>MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i></p>
 
@@ -181,7 +183,9 @@
         <div class="col-sm-9">
           <h3 id="nicholas-carver">Nicholas Carver</h3>
 
-          <p>(finishing his M.Sc. at San Francisco State University).</p>
+          <h4 id="ms-student-2">M.S. Student</h4>
+
+          <p>(finishing his M.S. at San Francisco State University).</p>
 
           <p>MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i></p>
 
