@@ -93,8 +93,6 @@ Additional information on Dr. Pianca:
 <h2 style="background-color:#00467f; color:#FFFFFF"> GRADUATE STUDENTS:</h2>
 </div>
 
----
-
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
@@ -163,25 +161,6 @@ MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the 
 
 ---
 
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="100%" alt="Nick"/>
-</div>
-
-
-<div class="col-sm-9">
-### Nicholas Carver
-
-#### M.S. Student
-
-(finishing his M.S. at San Francisco State University).
-
-MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i>
-
-</div></div></div></div>
-
 <br>
 
 <div style="text-align:left" markdown="1">
@@ -216,7 +195,7 @@ MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="100%" alt="rachel"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="50%" alt="rachel"/>
 </div>
 
 <div class="col-sm-9">
@@ -228,7 +207,26 @@ Rachel Jackson (San Francisco State University). Rachel was responsible for the 
 
 ---
 
-### Undergraduates Students
+### Graduate Students
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="50%" alt="Nick"/>
+</div>
+
+
+<div class="col-sm-9">
+### Nicholas Carver
+
+MS Thesis: <i> "Seasonal and Interannual Variability of Sea Surface Temperature around the Gulf of the Farallones, California".</i>
+
+</div></div></div></div>
+
+---
+
+### Undergraduate Students
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">

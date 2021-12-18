@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COLAB Welcomes Two New Graduate Students"
+title: "COLAB welcomes two new graduate students"
 date: 2021-08-27
 ---
 

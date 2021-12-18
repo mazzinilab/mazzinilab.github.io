@@ -1,4 +1,4 @@
-I"˛&<p><br /></p>
+I"€&<p><br /></p>
 
 <h1 id="lab-members">Lab members</h1>
 
@@ -102,7 +102,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-3">
-          <p><img src="/images/teampic/ben.jpeg" class="img-responsive" width="100%" alt="Ben" /></p>
+          <p><img src="/images/teampic/ben.jpeg" class="img-responsive" width="110%" alt="Ben" /></p>
         </div>
 
         <div class="col-sm-9">
@@ -173,27 +173,6 @@
 
   <hr />
 
-  <div style="text-align:justify">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-3">
-          <p><img src="/images/teampic/nick_carver.jpeg" class="img-responsive" width="100%" alt="Nick" /></p>
-        </div>
-
-        <div class="col-sm-9">
-          <h3 id="nicholas-carver">Nicholas Carver</h3>
-
-          <h4 id="ms-student-2">M.S. Student</h4>
-
-          <p>(finishing his M.S. at San Francisco State University).</p>
-
-          <p>MS Thesis: <i> Sea surface temperature variability in the Gulf of the Farallones and surrounding region.</i></p>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
   <p><br /></p>
 
   <div style="text-align:left">
@@ -231,13 +210,34 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-3">
-          <p><img src="/images/teampic/rachel.jpg" class="img-responsive" width="100%" alt="rachel" /></p>
+          <p><img src="/images/teampic/rachel.jpg" class="img-responsive" width="50%" alt="rachel" /></p>
         </div>
 
         <div class="col-sm-9">
           <h3 id="rachel-jackson">Rachel Jackson</h3>
 
           <p>Rachel Jackson (San Francisco State University). Rachel was responsible for the numerical modeling development (ROMS) and data analysis for the CSU-Council on Ocean Affairs, Science &amp; Technology (COAST) Award.</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr />
+
+  <h3 id="graduates-students">Graduates Students</h3>
+
+  <div style="text-align:justify">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3">
+          <p><img src="/images/teampic/nick_carver.jpeg" class="img-responsive" width="50%" alt="Nick" /></p>
+        </div>
+
+        <div class="col-sm-9">
+          <h3 id="nicholas-carver">Nicholas Carver</h3>
+
+          <p>MS Thesis: <i> ‚ÄúSeasonal and Interannual Variability of Sea Surface Temperature around the Gulf of the Farallones, California‚Äù.</i></p>
 
         </div>
       </div>
