@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published in the Geophysical Research Letters (GRL)"
+title: "Turbulent mixing in a far-field plume during the transition to upwelling conditions: microstructure observations from an AUV (New paper published)"
 date: 2018-09-04
 ---
 

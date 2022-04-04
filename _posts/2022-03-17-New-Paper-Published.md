@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Spatial patterns in aragonite saturation horizon over the northern California shelf (New paper published)"
+date: 2022-03-17
+---
+
+<br>
+
+<div style="text-align:justify" markdown="1">
+
+> <p>New paper published:</p>
+
+> R.J. Anderson, E. Hines, <b>P.L.F. Mazzini</b> , M. Elliott, J.L. Largier and J. Jahnckec. (2022). Spatial patterns in aragonite saturation horizon over the northern California shelf. <i> Regional Studies in Marine Science </i>. [[Regional Studies in Marine Science]](https://doi.org/10.1016/j.rsma.2022.102286)
+
+> <p>**Abstract**:
+Ocean acidification along the California Shelf is controlled by the upwelling of deep CO2 -rich waters.
+This coastal upwelling is driven by along-shore winds, which vary seasonally. We report aragonite
+undersaturation based on proxy values derived from temperature, salinity, and dissolved oxygen data
+and show the relationship between the spatial extent of low aragonite saturation state values and
+upwelling-favorable along-shore winds. Our data were collected on seasonal hydrographic surveys
+off northern California that span several years. Transect data show a persistent spatial pattern with
+shoaling of the aragonite saturation horizon over the shelf (during May and July surveys, mean depth
+of horizon is less than 20 m within ∼20 km of the coast), and surfacing of the saturation horizon
+during times of strong upwelling events. Our model shows that a higher proportion of the water
+column is undersaturated in aragonite when northerly winds are stronger. In addition, we found that
+pteropod abundance was positively correlated with aragonite saturation state, with lower densities
+associated with lower saturation values. If upwelling-favorable winds increase with global warming,
+as anticipated, more shelf water habitat will become undersaturated in aragonite, negatively impacting
+populations of calcifying organisms like pteropods.
+
+</div>

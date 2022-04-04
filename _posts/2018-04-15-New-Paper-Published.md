@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published in the Deep Sea Research Part I"
+title: " Annual phytoplankton blooming using satellite-derived chlorophyll-a data around the Vitória-Trindade Chain, Southeastern Brazil (New paper published)"
 date: 2018-04-15
 ---
 

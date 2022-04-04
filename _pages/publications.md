@@ -14,7 +14,11 @@ permalink: /publications/
 
 >#### <b> PEER-REVIEWED PUBLICATIONS <b>
 
->  <b>P.L.F. Mazzini</b> and <b>Pianca, C. </b> (Accepted in: 06 Dec 2021). Marine Heatwaves in the Chesapeake Bay. <i> Frontiers in Marine Science </i>. [https://www.frontiersin.org/articles/10.3389/fmars.2021.750265/abstract](https://www.frontiersin.org/articles/10.3389/fmars.2021.750265/abstract)
+> Walter, R.K., Huie, S.A., Abraham, J.C.P., Pasulka, A., Davis, K.A., Connolly, T.P., <b>Mazzini, P.L.F.</b> and I. Robbins. (<i> In review - 2022</i>). Seasonal controls on nearshore dissolved oxygen variability and hypoxia in a coastal embayment. <i> Estuarine, Coastal and Shelf Science </i>.
+
+> R.J. Anderson, E. Hines, <b>P.L.F. Mazzini</b> , M. Elliott, J.L. Largier and J. Jahnckec. (2022). Spatial patterns in aragonite saturation horizon over the northern California shelf. <i> Regional Studies in Marine Science </i>. [[Regional Studies in Marine Science]](https://doi.org/10.1016/j.rsma.2022.102286)
+
+>  <b>P.L.F. Mazzini</b> and <b>Pianca, C. </b> (2022). Marine Heatwaves in the Chesapeake Bay. <i> Frontiers in Marine Science </i>. [[Frontiers in Marine Science]](https://www.frontiersin.org/articles/10.3389/fmars.2021.750265/full)
 
 >  Ingman, K., Hines, E., <b>Mazzini, P.L.F.</b>, Rockwood, R.C., Nur, N., and Jahncke, J. (2021). Modeling changes in baleen whale seasonal abundance, timing of migration, and environmental variables to explain the sudden rise in entanglements in California. <i>PLoS One</i>.[[PLoS ONE]](https://doi.org/10.1371/journal.pone.0248557)
 

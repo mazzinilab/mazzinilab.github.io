@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper published in the Bulletin of the American Meteorological Society (BAMS)"
+title: "Saildrone: adaptively sampling the marine environment (New Paper published)"
 date: 2020-06-08
 ---
 

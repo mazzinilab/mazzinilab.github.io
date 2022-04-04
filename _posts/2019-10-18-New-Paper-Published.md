@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published in the Journal of Geophysical Research (JGR)"
+title: "The impact of wind-forcing on the thermal wind shear of a river plume (New paper published)"
 date: 2019-10-18
 ---
 

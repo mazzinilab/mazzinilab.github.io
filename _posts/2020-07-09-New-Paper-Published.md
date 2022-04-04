@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper published in the Estuaries and Coasts"
+title: "Sediment Budget Estimates for a Highly Impacted Embayment with Extensive Wetland Loss (New paper published)"
 date: 2020-07-09
 ---
 
@@ -9,7 +9,7 @@ date: 2020-07-09
 <div style="text-align:justify" markdown="1">
 
 > <p>New Paper published:</p>
-> 
+>
 > Robert J. Chant, David K. Ralston, Neil K. Ganju, <b>Cassia Pianca</b>, Amy E. Simonson and Richard A. Cartwright. [Sediment Budget Estimates for a Highly Impacted Embayment with Extensive Wetland Loss](https://doi.org/10.1007/s12237-020-00784-3). <i>Estuaries and Coasts (2020)</i>.
 >
 > **Abstract**:

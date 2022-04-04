@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Paper Published in the Regional Studies in Marine Science"
+title: "Seasonal variability of water masses and currents at the eastern Brazilian continental shelf (New paper published)"
 date: 2017-08-26
 ---
 
