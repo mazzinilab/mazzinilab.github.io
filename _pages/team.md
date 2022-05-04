@@ -93,6 +93,28 @@ Additional information on Dr. Pianca:
 <h2 style="background-color:#00467f; color:#FFFFFF"> GRADUATE STUDENTS:</h2>
 </div>
 
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ben.jpeg" class="img-responsive" width="110%" alt="Ben"/>
+</div>
+
+<div class="col-sm-9">
+### Ben Smith
+
+#### Ph.D. Student
+
+Office: Andrews Hall 234F and 201
+
+Department: Physical Sciences
+
+**VIMS Profile**: <a href='https://www.vims.edu/people/smith_b/index.php'> VIMS Students </a>
+
+</div></div></div></div>
+
+---
+
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
