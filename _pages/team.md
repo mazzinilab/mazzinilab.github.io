@@ -103,7 +103,7 @@ Additional information on Dr. Pianca:
 <div class="col-sm-9">
 ### Ben Smith
 
-#### Ph.D. Student
+#### PhD Student
 
 Office: Andrews Hall 234F and 201
 
