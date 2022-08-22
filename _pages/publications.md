@@ -16,6 +16,8 @@ permalink: /publications/
 
 > Walter, R.K., Huie, S.A., Abraham, J.C.P., Pasulka, A., Davis, K.A., Connolly, T.P., <b>Mazzini, P.L.F.</b> and I. Robbins. (<i> In review - 2022</i>). Seasonal controls on nearshore dissolved oxygen variability and hypoxia in a coastal embayment. <i> Estuarine, Coastal and Shelf Science </i>.
 
+> A.T. Lemos, A. Osadchiev, <b>P.L.F. Mazzini</b>, G.N. Mill, S.A.R. Fonseca, R.D. Ghisolfi. (2022). Spreading and accumulation of river-borne sediments in the coastal ocean after the environmental disaster at the Doce River in Brazil. <i> Ocean and Coastal Research </i>. [[Ocean and Coastal Research]](http://doi.org/10.1590/2675-2824070.21097atl)
+
 > R.J. Anderson, E. Hines, <b>P.L.F. Mazzini</b> , M. Elliott, J.L. Largier and J. Jahnckec. (2022). Spatial patterns in aragonite saturation horizon over the northern California shelf. <i> Regional Studies in Marine Science </i>. [[Regional Studies in Marine Science]](https://doi.org/10.1016/j.rsma.2022.102286)
 
 >  <b>P.L.F. Mazzini</b> and <b>Pianca, C. </b> (2022). Marine Heatwaves in the Chesapeake Bay. <i> Frontiers in Marine Science </i>. [[Frontiers in Marine Science]](https://www.frontiersin.org/articles/10.3389/fmars.2021.750265/full)
