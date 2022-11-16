@@ -14,7 +14,8 @@ permalink: /publications/
 
 >#### <b> PEER-REVIEWED PUBLICATIONS <b>
 
-> Walter, R.K., Huie, S.A., Abraham, J.C.P., Pasulka, A., Davis, K.A., Connolly, T.P., <b>Mazzini, P.L.F.</b> and I. Robbins. (<i> In review - 2022</i>). Seasonal controls on nearshore dissolved oxygen variability and hypoxia in a coastal embayment. <i> Estuarine, Coastal and Shelf Science </i>.
+> Walter, R.K., Huie, S.A., Abraham, J.C.P., Pasulka, A., Davis, K.A., Connolly, T.P., <b>Mazzini, P.L.F.</b> and I. Robbins. (2022). Seasonal controls on nearshore dissolved oxygen variability and hypoxia in a coastal embayment. <i> Estuarine, Coastal and Shelf Science </i>.
+[[Estuarine, Coastal and Shelf Science]](https://www.sciencedirect.com/science/article/pii/S027277142200381X)
 
 > A.T. Lemos, A. Osadchiev, <b>P.L.F. Mazzini</b>, G.N. Mill, S.A.R. Fonseca, R.D. Ghisolfi. (2022). Spreading and accumulation of river-borne sediments in the coastal ocean after the environmental disaster at the Doce River in Brazil. <i> Ocean and Coastal Research </i>. [[Ocean and Coastal Research]](http://doi.org/10.1590/2675-2824070.21097atl)
 

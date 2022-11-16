@@ -129,13 +129,33 @@ Department: Physical Sciences
 
 #### M.S. Student
 
-(finishing her M.S. at San Francisco State University).
+(finishing her M.S. at San Francisco State University)
 
 MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i>
 
 </div></div></div></div>
 
----
+<div style="text-align:left" markdown="1">
+<h2 style="background-color:#00467f; color:#FFFFFF"> UNDERGRADUATE STUDENTS:</h2>
+</div>
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="100%" alt="Alyssa"/>
+</div>
+
+<div class="col-sm-9">
+### Victoria Florian
+
+#### B.S. Student
+
+(University of Maryland)
+
+B.S. capstone project: TBD
+
+</div></div></div></div>
 
 <br>
 
@@ -170,15 +190,8 @@ MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="50%" alt="rachel"/>
-</div>
-
-<div class="col-sm-9">
-### Rachel Jackson
-
-Rachel Jackson (San Francisco State University). Rachel was responsible for the numerical modeling development (ROMS) and data analysis for the CSU-Council on Ocean Affairs, Science & Technology (COAST) Award.
-
+<div class="col-sm-12">
+- Rachel Jackson (San Francisco State University)
 </div></div></div></div>
 
 ---
@@ -188,16 +201,8 @@ Rachel Jackson (San Francisco State University). Rachel was responsible for the 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="50%" alt="Nick"/>
-</div>
-
-
-<div class="col-sm-9">
-### Nicholas Carver
-
-MS Thesis: <i> "Seasonal and Interannual Variability of Sea Surface Temperature around the Gulf of the Farallones, California".</i>
-
+<div class="col-sm-12">
+- Nicholas Carver (M.S. - San Francisco State University)
 </div></div></div></div>
 
 ---

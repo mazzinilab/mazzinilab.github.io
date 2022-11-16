@@ -18,24 +18,36 @@ permalink: /opportunities
 <h2 style="background-color:#00467f; color:#FFFFFF"> UNDERGRADUATE STUDENTS:</h2>
 </div>
 
-I do not have any opportunities at this time. For summer internships, please take a look at the [VIMS Research Experience for Undergraduates (REU)](https://www.vims.edu/education/college/summer_intern/about/index.php). The applications are generally due in February of each year.  
+> I do not have any opportunities at this time. For summer internships, please take a look at the [VIMS Research Experience for Undergraduates (REU)](https://www.vims.edu/education/college/summer_intern/about/index.php). The applications are generally due in February of each year.  
 
----
+
 <div style="text-align:left" markdown="1">
 <h2 style="background-color:#00467f; color:#FFFFFF"> GRADUATE STUDENTS:</h2>
 </div>
 
-I do not have any opportunities at this time.
+> <b> MS and PhD positions available at VIMS for Fall 2023 – Coastal Physical Oceanography </b>
 
----
+MS and PhD opportunities in coastal and estuarine physical oceanography are available to work with Dr. Piero Mazzini at [William & Mary's](https://www.wm.edu/) [Virginia Institute of Marine Science (VIMS)](https://www.vims.edu/).
+
+The student will join the School of Marine Sciences at VIMS, and must meet eligibility requirements for the school (<b>the application deadline for the VIMS graduate program is January 4, 2023</b>). More information at:
+
+<a href='https://www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php'> www.vims.edu/education/graduate/admissions/degree_options/m.s._ph.d_degrees/index.php </a>
+
+<b>The positions will begin in the Fall 2023.</b>
+
+<b>Qualifications:</b> At the time of appointment, the successful candidates will hold an earned Bachelor or Master of Science or equivalent degree in Physical Oceanography, Meteorology, Physics, Environmental Engineering or a related scientific discipline. A broad knowledge of physical oceanography and/or fluid dynamics is required. Strong quantitative and programming skills in Python and/or MATLAB and research background with strong writing ability are also required. Preference will be given to those candidates with experience in oceanographic data analysis or ocean numerical modeling.
+
+<b>Responsibilities:</b> The students will work with Dr. Piero Mazzini, and join research projects to investigate topics that may include: river plume dynamics, circulation and dynamics of coastal embayments and estuaries, Marine Heatwaves in coastal and estuarine regions, effect of complex topography in coastal ocean dynamics, and others.
+
+Interested candidates should contact Dr. Piero Mazzini at <pmazzini@vims.edu> with information on their research experiences and interests and a current resume/CV.
+
 
 <div style="text-align:left" markdown="1">
 <h2 style="background-color:#00467f; color:#FFFFFF"> POST-DOCS:</h2>
 </div>
 
-At this time, I do not have funding available for a post-doc.
+> At this time, I do not have funding available for a post-doc.
 
----
 
 <div class="container-fluid">
 <div class="row">
