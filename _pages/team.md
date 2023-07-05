@@ -55,7 +55,7 @@ Additional information on Dr. Mazzini:
 ---
 
 <div style="text-align:left" markdown="1">
-<h2 style="background-color:#00467f; color:#FFFFFF"> RESEARCH ASSOCIATE:</h2>
+<h2 style="background-color:#00467f; color:#FFFFFF"> LAB ASSOCIATE:</h2>
 </div>
 
 <div style="text-align:justify" markdown="1">
@@ -67,17 +67,16 @@ Additional information on Dr. Mazzini:
 <div class="col-sm-9">
 ### Dr. Cassia Pianca
 
-#### Researcher
+#### Research Associate
 
 <i class="glyphicon glyphicon-envelope"></i> <cpianca@vims.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
-**Office**: Andrews Hall 206 <br>
-**Department**: Physical Sciences
+**Office**: Wilson House <br>
+**Department**: <a href='https://www.vims.edu/cbnerr/'> Chesapeake Bay National Estuarine Research Reserve (CBNERR-VA)  </a>
 
-<p> Dr. Pianca is a coastal oceanographer and works on coastal and estuarine regions, conducting research on sediment transport and morphodynamics, measurements of waves and currents, and application of remote sensing, from video cameras to satellite ocean color. </p>
+
+<p> Dr. Pianca is a coastal oceanographer and data scientist working on coastal and estuarine regions. She works at the Chesapeake Bay National Estuarine Research Reserve (CBNERR -VA) at the Virginia Institute of Marine Science | William & Mary.  </p>
 
 Additional information on Dr. Pianca:
-
-* For my full CV, please email me at <cpianca@vims.edu>
 
 * [Professional Experience and Education]({{ site.url }}{{ site.baseurl }}/education-pianca)
 

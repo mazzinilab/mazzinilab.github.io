@@ -28,16 +28,18 @@ permalink: /education-pianca/
 
 # Professional Experience
 
-* 2020-present: Researcher at Virginia Institute of Marine Science - William & Mary, USA
+* 2023-present: Environmental Data Center Operations Specialist at Chesapeake Bay National Estuarine Research Reserve (CBNERR -VA) at Virginia Institute of Marine Science - William & Mary, US. 
 
-* 2017-2020: Research Associate at Estuary & Ocean Science Center - San Francisco State University, USA.
+* 2020-present: Research Associate (Coastal Oceanography Lab - COLAB) at Virginia Institute of Marine Science - William & Mary, US.
 
-* 2015-2017: Marine Scientist at Rutgers The State University of New Jersey, USA. Supervisor: Dr. Robert J. Chant. <br>
-Project: <em>“The Jamaica Bay Observing system: Process studies and Groundwork for Long-Term Ecosystem Studies and Resilience at Jamaica Bay, New York, USA”.</em>
+* 2017-2020: Research Associate (Coastal Oceanography Lab - COLAB) at Estuary & Ocean Science Center - San Francisco State University, US.
+
+* 2015-2017: Marine Scientist at Rutgers The State University of New Jersey, US. Supervisor: Dr. Robert J. Chant. <br>
+Project: <em>“The Jamaica Bay Observing system: Process studies and Groundwork for Long-Term Ecosystem Studies and Resilience at Jamaica Bay, New York, US”.</em>
 
 # Education
 
-* 2010-2014: Ph.D. in Oceanography from University of São Paulo and collaboration with Oregon State University, USA. Advisors: Dr. Rob Holman and Dr. Eduardo Siegle. <br>
+* 2010-2014: Ph.D. in Oceanography from University of São Paulo and collaboration with Oregon State University, US. Advisors: Dr. Rob Holman and Dr. Eduardo Siegle. <br>
 Dissertation: <em>“Space-time variability of coastal morphology: Results from video remote sensing”.</em>
 
 * 2008-2009: M.S. in Oceanography, University of São Paulo. <br>

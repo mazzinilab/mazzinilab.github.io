@@ -1,4 +1,4 @@
-I"<p><br /></p>
+I"�<p><br /></p>
 
 <ul>
   <li>For my full CV, please email me at <a href="mailto:cpianca@vims.edu">cpianca@vims.edu</a></li>
@@ -22,16 +22,25 @@
         <h1 id="professional-experience">Professional Experience</h1>
 
         <ul>
+          <li></li>
+          <li>
+            <table>
+              <tbody>
+                <tr>
+                  <td>2023-present: Environmental Data Center at the Chesapeake Bay National Estuarine Research Reserve (CBNERR -VA) at the Virginia Institute of Marine Science</td>
+                  <td>William &amp; Mary.</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
           <li>
             <p>2020-present: Researcher at Virginia Institute of Marine Science - William &amp; Mary, USA</p>
           </li>
           <li>
             <p>2017-2020: Research Associate at Estuary &amp; Ocean Science Center - San Francisco State University, USA.</p>
           </li>
-          <li>
-            <p>2015-2017: Marine Scientist at Rutgers The State University of New Jersey, USA. Supervisor: Dr. Robert J. Chant. <br />
-Project: <em>“The Jamaica Bay Observing system: Process studies and Groundwork for Long-Term Ecosystem Studies and Resilience at Jamaica Bay, New York, USA”.</em></p>
-          </li>
+          <li>2015-2017: Marine Scientist at Rutgers The State University of New Jersey, USA. Supervisor: Dr. Robert J. Chant. <br />
+Project: <em>“The Jamaica Bay Observing system: Process studies and Groundwork for Long-Term Ecosystem Studies and Resilience at Jamaica Bay, New York, USA”.</em></li>
         </ul>
 
         <h1 id="education">Education</h1>
