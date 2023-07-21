@@ -22,7 +22,7 @@ permalink: /team/
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Piero.jpg" class="img-responsive" width="100%" alt="Piero"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Piero.jpg" class="img-responsive" width="80%" alt="Piero"/>
 </div>
 <div class="col-sm-9" >
 
@@ -62,7 +62,7 @@ Additional information on Dr. Mazzini:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Cassia.jpg" class="img-responsive" width="100%" alt="Cassia"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Cassia.jpg" class="img-responsive" width="80%" alt="Cassia"/>
 </div>
 <div class="col-sm-9">
 ### Dr. Cassia Pianca
@@ -96,9 +96,8 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nathan.jpg" class="img-responsive" width="110%" alt="Nathan"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nathan.jpg" class="img-responsive" width="80%" alt="Nathan"/>
 </div>
-
 <div class="col-sm-9">
 ### Nathan Shunk
 
@@ -110,6 +109,8 @@ Department: Physical Sciences
 
 **VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/shunk_n.php'> VIMS Students </a>
 
+MS Thesis: <i> Subsurface Structure and Impacts of Marine Heatwaves in the Chesapeake Bay.</i>
+
 <p> Nathan is interested in the hydrodynamics that facilitate the transport of dissolved and suspended matter across estuaries and the coastal ocean. In the Coastal Oceanography Lab (COLAB) he will be studying spatial and temporal patterns of Marine Heatwaves in the Chesapeake Bay subsurface waters, and their impact in water quality. </p>
 
 </div></div></div></div>
@@ -120,9 +121,30 @@ Department: Physical Sciences
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="100%" alt="Alyssa"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="arian"/>
 </div>
+<div class="col-sm-9">
+### Arian Dialectaquiz Santos
 
+#### Ph.D. Student (co-advisor)
+
+Oceanographic Institute - University of Sao Paulo, Brazil (IO-USP)
+
+Ph.D. Dissertation: <i>Internal waves and their influence on the ocean thermodynamics in the Alcatrazes Archipelago.</i> Advisor: Dr. Marcelo Dottori (IO-USP)
+
+
+</div></div></div></div>
+
+
+
+---
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="80%" alt="Alyssa"/>
+</div>
 <div class="col-sm-9">
 ### Alyssa Zimmer
 
@@ -142,17 +164,15 @@ MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the 
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="100%" alt="Alyssa"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="Conor"/>
 </div>
 
 <div class="col-sm-9">
-### Victoria Florian
+### Conor Padmanabhan
 
-#### B.S. Student
+NSF - Research Experiences for Undergraduates (REU) Program. [VIMS Research Experience for Undergraduates (REU)](https://www.vims.edu/education/college/summer_intern/about/index.php)
 
-(University of Maryland)
-
-B.S. capstone project: TBD
+Reserach Project: <i>Characterizing Marine Heatwaves in the Chesapeake Bay with Multi–scale Ultra-High Resolution (MUR) Sea Surface Temperature Data</i>
 
 </div></div></div></div>
 
@@ -166,7 +186,7 @@ B.S. capstone project: TBD
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" class="img-responsive" width="100%" alt="Misty"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/misty_lab.jpg" class="img-responsive" width="80%" alt="Misty"/>
 </div>
 
 <div class="col-sm-9">
@@ -186,39 +206,81 @@ B.S. capstone project: TBD
 
 ### Research Assistant
 
-<div style="text-align:justify" markdown="1">
+
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-12">
-- Rachel Jackson (San Francisco State University)
-</div></div></div></div>
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="40%" alt="rachel"/>
+Rachel Jackson <br>
+(San Francisco State University)
+</div>
+</div>
+</div>
 
 ---
 
 ### Graduate Students
 
-<div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-12">
-- Nicholas Carver (M.S. - San Francisco State University)
-</div></div></div></div>
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="40%" alt="nick"/>
+2021 - Nicholas Carver <br>
+(M.S. - San Francisco State University)
+</div>
+</div>
+</div>
 
 ---
 
 ### Undergraduate Students
 
-<div style="text-align:justify" markdown="1">
 <div class="container-fluid">
 <div class="row">
-<div class="col-sm-12">
-- Alyssa Zimmer (San Francisco State University)
-- Amanda Young (San Francisco State University)
-- Rami Darraj (San Francisco State University)
-- Behlie Langel (San Francisco State University)
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="40%" alt="victorian"/>
+2023 - Victoria Florian <br>
+Capstone Project <br> 
+(University of Maryland) 
+
 </div>
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/behlie.jpg" class="img-responsive" width="40%" alt="nick"/>
+2019 - Behlie Langel <br>
+(San Francisco State University)
 </div>
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="40%" alt="rami"/>
+2019 - Rami Darraj <br>
+(San Francisco State University)
 </div>
+
+</div></div>
+
+<div class="container-fluid">
+<div class="row">
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="40%" alt="alyssa"/>
+2018 - Alyssa Zimmer <br>
+(San Francisco State University)
 </div>
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/amanda.jpg" class="img-responsive" width="40%" alt="amanda"/>
+2018 - Amanda Young <br>
+(San Francisco State University)
+</div>
+
+</div></div>
+
+
+
+
 
 ---

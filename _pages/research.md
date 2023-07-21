@@ -19,14 +19,14 @@ permalink: /research/
 
   <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/NSF-River-Plume/"> River Plume-Cape Interaction - Plume Separation from The Coastal Wall, Vorticity Generation And Fresh Water Retention.</a></h3></li> Funded by National Science Foundation (NSF)
 
-  <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/SF_Plume_from_space/"> Impact of the San Francisco Bay Plume in the California north central coast. </a></h3></li> Funded by NOAA California Sea Grant
-
-	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/continental-shelf-brazil/"> Dynamics of the continental shelf in the Tropical region off Brazil </a></h3></li>
-
 	<br>
 	<h3 style="color:Tomato"> Past Research: </h3>
 
- <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/glider-point-arena/"> Closing observational gaps in the California Current System: the Point Arena Underwater Glider Line. </a></h3></li> Funded by Integrated Ocean Observing System (IOOS - NOAA)
+    <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/SF_Plume_from_space/"> Impact of the San Francisco Bay Plume in the California north central coast. </a></h3></li> Funded by NOAA California Sea Grant
+
+	<li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/continental-shelf-brazil/"> Dynamics of the continental shelf in the Tropical region off Brazil </a></h3></li>
+
+    <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/glider-point-arena/"> Closing observational gaps in the California Current System: the Point Arena Underwater Glider Line. </a></h3></li> Funded by Integrated Ocean Observing System (IOOS - NOAA)
 
 	<li><h3> Exchange Processes between River Plume and the Continental Shelf Waters. Funded by CSU-Council on Ocean Affairs, Science & Technology (COAST).</h3> </li>
 
