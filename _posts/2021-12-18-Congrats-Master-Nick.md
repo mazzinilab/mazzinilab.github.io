@@ -8,12 +8,12 @@ date: 2021-12-18
 
 <div style="text-align:justify" markdown="1">
 
-> On 11/29/21 **Nicholas Carver** defended his Master's thesis entitled: <i>"Seasonal and Interannual Variability of Sea Surface Temperature around the Gulf of the Farallones, California"</i>.
+> On 11/29/21, **Nicholas Carver** defended his master's thesis entitled: <i>"Seasonal and Interannual Variability of Sea Surface Temperature around the Gulf of the Farallones, California"</i>.
 >
 > Congratulations Nick!
 >
 > <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="300px" height="auto" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="150px" height="auto" />
 > </figure>
 
 
