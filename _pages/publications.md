@@ -14,7 +14,7 @@ permalink: /publications/
 
 >#### <b> PEER-REVIEWED PUBLICATIONS <b>
 
-M. Dalsin, R. K. Walter and <b>P.L.F. Mazzini.</b> (2023). Effects of basin-scale climate modes and upwelling on nearshore marine heatwaves and cold spells in the California Current. <i> Nature - Scientific Reports </i>. Accepted.
+M. Dalsin, R. K. Walter and <b>P.L.F. Mazzini.</b> (2023). Effects of basin-scale climate modes and upwelling on nearshore marine heatwaves and cold spells in the California Current. <i> Nature - Scientific Reports </i>, 13, 12389. [[Nature]](https://www.nature.com/articles/s41598-023-39193-4) 
 
 Walter, R.K., Huie, S.A., Abraham, J.C.P., Pasulka, A., Davis, K.A., Connolly, T.P., <b>Mazzini, P.L.F.</b> and I. Robbins. (2022). Seasonal controls on nearshore dissolved oxygen variability and hypoxia in a coastal embayment. <i> Estuarine, Coastal and Shelf Science </i>.
 [[Estuarine, Coastal and Shelf Science]](https://www.sciencedirect.com/science/article/pii/S027277142200381X)

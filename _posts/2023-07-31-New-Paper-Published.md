@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Effects of basin-scale climate modes and upwelling on nearshore marine heatwaves and cold spells in the California Current (New paper Published)"
+date: 2023-07-31
+---
+
+<br>
+
+<div style="text-align:justify" markdown="1">
+
+> <p>New paper Published:</p>
+
+> M. Dalsin, R. K. Walter and <b>P.L.F. Mazzini.</b> (2023). Effects of basin-scale climate modes and upwelling on nearshore marine heatwaves and cold spells in the California Current. <i> Nature - Scientific Reports </i>, 13, 12389. [[Nature]](https://www.nature.com/articles/s41598-023-39193-4) 
+
+> <p>**Abstract**:</p>
+Marine heatwaves and cold spells (MHWs/MCSs) have been observed to be increasing globally in frequency and intensity based on satellite remote sensing and continue to pose a major threat to marine ecosystems worldwide. Despite this, there are limited in-situ based observational studies in the very shallow nearshore region, particularly in Eastern Boundary Current Upwelling Systems (EBUS). We analyzed a unique dataset collected in shallow waters along central California spanning more than four decades (1978–2020) and assessed links with basin-scale climate modes [Pacific Decadal Oscillation (PDO) and El Niño (MEI)] and regional-scale wind-driven upwelling. We found no significant increase/decrease in MHW/MCS frequency, duration, or intensity over the last four decades, but did observe considerable interannual variability linked with basin-scale climate modes. Additionally, there was a decrease in both MHW/MCS occurrence during the upwelling season, and the initiation of individual MHWs/MCSs coincided with anomalous upwelling. Most notably, the co-occurrence of warm (cold) phases of the PDO and MEI with negative (positive) upwelling anomalies strongly enhanced the relative frequency of positive (negative) temperature anomalies and MHW (MCS) days. Collectively, both basin-scale variability and upwelling forcing play a key role in predicting extreme events and shaping nearshore resilience in EBUS.
+
+</div>
