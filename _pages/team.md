@@ -103,7 +103,7 @@ Additional information on Dr. Pianca:
 
 #### Ph.D. Student
 
-**Office**: Andrews Hall 234F and 201
+**Office**: Andrews Hall 201
 
 **Section**: Coastal & Ocean Processes
 
@@ -183,7 +183,7 @@ Ph.D. Dissertation: <i>Internal waves and their influence on the ocean thermodyn
 
 #### M.S. Student
 
-(finishing her M.S. at San Francisco State University)
+(San Francisco State University)
 
 MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i>
 
