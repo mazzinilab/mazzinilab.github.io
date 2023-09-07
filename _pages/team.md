@@ -101,7 +101,7 @@ Additional information on Dr. Pianca:
 <div class="col-sm-9">
 ### Nathan Shunk
 
-#### Ph.D. Student
+#### Ph.D. Student - VIMS
 
 **Office**: Andrews Hall 201
 
@@ -122,7 +122,7 @@ Additional information on Dr. Pianca:
 <div class="col-sm-9">
 ### Julia Abrao Teixeira
 
-#### M.S. Student
+#### M.S. Student - VIMS
 
 **Office**: Andrews Hall 201
 
@@ -141,7 +141,7 @@ Additional information on Dr. Pianca:
 <div class="col-sm-9">
 ### Ricardo Utzig Nardi
 
-#### M.S. Student
+#### M.S. Student - VIMS
 
 **Office**: Andrews Hall 201
 
@@ -160,9 +160,7 @@ Additional information on Dr. Pianca:
 <div class="col-sm-9">
 ### Arian Dialectaquiz Santos
 
-#### Ph.D. Student (co-advisor)
-
-Oceanographic Institute - University of Sao Paulo, Brazil (IO-USP)
+#### Ph.D. Student (co-advisor) - University of Sao Paulo, Brazil (IO-USP)
 
 Ph.D. Dissertation: <i>Internal waves and their influence on the ocean thermodynamics in the Alcatrazes Archipelago.</i> Advisor: Dr. Marcelo Dottori (IO-USP)
 
@@ -181,9 +179,7 @@ Ph.D. Dissertation: <i>Internal waves and their influence on the ocean thermodyn
 <div class="col-sm-9">
 ### Alyssa Zimmer
 
-#### M.S. Student
-
-(San Francisco State University)
+#### M.S. Student - San Francisco State University
 
 MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i>
 
