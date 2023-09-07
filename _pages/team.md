@@ -33,7 +33,7 @@ permalink: /team/
 <i class="glyphicon glyphicon-envelope"></i> <pmazzini@vims.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/piero-mazzini-9a762535) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=YLs84F0AAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Piero_Mazzini)  <br>
 <span class="glyphicon glyphicon-phone-alt"></span> +1 (804) 684-7882 <br>
 **Office**: Andrews Hall 236 <br>
-**Department**: Physical Sciences <br>
+**Section**: Coastal & Ocean Processes <br>
 **VIMS Profile**: <a href='https://www.vims.edu/research/departments/physical/people/faculty/mazzini_plf.php'> VIMS Faculty </a>
 
 <p>Dr. Mazzini is an Assistant Professor at the Virginia Institute of Marine Science | William & Mary. He is a coastal physical oceanographer, and his research focuses on understanding how the coastal ocean responds to winds, waves, tides, freshwater input from rivers, and the exchange processes among estuaries, continental shelf, and the deep ocean. </p>
@@ -70,7 +70,7 @@ Additional information on Dr. Mazzini:
 #### Research Associate
 
 <i class="glyphicon glyphicon-envelope"></i> <cpianca@vims.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
-**Office**: Wilson House <br>
+**Office**: NERRS Water Quality Facility <br>
 **Department**: <a href='https://www.vims.edu/cbnerr/'> Chesapeake Bay National Estuarine Research Reserve (CBNERR-VA)  </a>
 
 
@@ -101,17 +101,51 @@ Additional information on Dr. Pianca:
 <div class="col-sm-9">
 ### Nathan Shunk
 
-#### M.S. Student
+#### Ph.D. Student
 
-Office: Andrews Hall 234F and 201
+**Office**: Andrews Hall 234F and 201
 
-Department: Physical Sciences
+**Section**: Coastal & Ocean Processes
 
 **VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/shunk_n.php'> VIMS Students </a>
 
-MS Thesis: <i> Subsurface Structure and Impacts of Marine Heatwaves in the Chesapeake Bay.</i>
+</div></div></div></div>
 
-<p> Nathan is interested in the hydrodynamics that facilitate the transport of dissolved and suspended matter across estuaries and the coastal ocean. In the Coastal Oceanography Lab (COLAB) he will be studying spatial and temporal patterns of Marine Heatwaves in the Chesapeake Bay subsurface waters, and their impact in water quality. </p>
+---
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="Julia"/>
+</div>
+<div class="col-sm-9">
+### Julia Abrao Teixeira
+
+#### M.S. Student
+
+**Office**: Andrews Hall 201
+
+**Section**: Coastal & Ocean Processes
+
+</div></div></div></div>
+
+---
+
+<div style="text-align:justify" markdown="1">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-3">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="Ricardo"/>
+</div>
+<div class="col-sm-9">
+### Ricardo Utzig Nardi
+
+#### M.S. Student
+
+**Office**: Andrews Hall 201
+
+**Section**: Coastal & Ocean Processes
 
 </div></div></div></div>
 
@@ -131,7 +165,6 @@ MS Thesis: <i> Subsurface Structure and Impacts of Marine Heatwaves in the Chesa
 Oceanographic Institute - University of Sao Paulo, Brazil (IO-USP)
 
 Ph.D. Dissertation: <i>Internal waves and their influence on the ocean thermodynamics in the Alcatrazes Archipelago.</i> Advisor: Dr. Marcelo Dottori (IO-USP)
-
 
 </div></div></div></div>
 
@@ -160,21 +193,6 @@ MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the 
 <h2 style="background-color:#00467f; color:#FFFFFF"> UNDERGRADUATE STUDENTS:</h2>
 </div>
 
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="Conor"/>
-</div>
-
-<div class="col-sm-9">
-### Conor Padmanabhan
-
-NSF - Research Experiences for Undergraduates (REU) Program. [VIMS Research Experience for Undergraduates (REU)](https://www.vims.edu/education/college/summer_intern/about/index.php)
-
-Reserach Project: <i>Characterizing Marine Heatwaves in the Chesapeake Bay with Multi–scale Ultra-High Resolution (MUR) Sea Surface Temperature Data</i>
-
-</div></div></div></div>
 
 <br>
 
@@ -226,12 +244,19 @@ Rachel Jackson <br>
 <div class="row">
 
 <div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nathan.jpg" class="img-responsive" width="40%" alt="nick"/>
+2023 - Nathan Shunk <br>
+(M.S. - Virginia Institute <br> of Marine Science)
+</div>
+
+
+<div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nick_carver.jpeg" class="img-responsive" width="40%" alt="nick"/>
 2021 - Nicholas Carver <br>
-(M.S. - San Francisco State University)
+(M.S. - San Francisco State <br> University)
 </div>
-</div>
-</div>
+
+</div></div>
 
 ---
 
@@ -240,12 +265,20 @@ Rachel Jackson <br>
 <div class="container-fluid">
 <div class="row">
 
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="40%" alt="conor"/>
+2023 - Conor Padmanabhan <br>
+NSF REU Program <br> 
+(Virginia Institute of Marine Science)
+</div>
+
+
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="40%" alt="victorian"/>
 2023 - Victoria Florian <br>
 Capstone Project <br> 
 (University of Maryland) 
-
 </div>
 
 <div class="col-sm-4">
@@ -254,16 +287,17 @@ Capstone Project <br>
 (San Francisco State University)
 </div>
 
+</div></div>
+
+<div class="container-fluid">
+<div class="row">
+
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rami.png" class="img-responsive" width="40%" alt="rami"/>
 2019 - Rami Darraj <br>
 (San Francisco State University)
 </div>
 
-</div></div>
-
-<div class="container-fluid">
-<div class="row">
 
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="40%" alt="alyssa"/>
