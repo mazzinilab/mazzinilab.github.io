@@ -20,7 +20,7 @@ permalink: /research/NSF-River-Plume/
 
 <br>
 
-Funded by **NATIONAL SCIENCE FOUNDATION <a href='https://www.nsf.gov/index.jsp'> (NSF) </a>**. <br>
+Funded by the **NATIONAL SCIENCE FOUNDATION <a href='https://www.nsf.gov/index.jsp'> (NSF) </a>**. <br>
 
 **LEAD-PI**: Dr. Piero Mazzini <br>
 **CO-PIs**: Dr. Kelly Cole (UMaine) and Dr. Robert Chant (Rutgers). <br>

@@ -16,8 +16,9 @@ permalink: /research/
 	<br>
 	<h3 style="color:Tomato">Ongoing Research:</h3>
 
+ <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/NSF-Submesoscale-Frontal-Dynamics/">  Submesoscale frontal dynamics and exchange at an upwelling bay</a></h3></li> Funded by The National Science Foundation (NSF)
 
-  <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/NSF-River-Plume/"> River Plume-Cape Interaction - Plume Separation from The Coastal Wall, Vorticity Generation And Fresh Water Retention.</a></h3></li> Funded by National Science Foundation (NSF)
+  <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/NSF-River-Plume/"> River Plume-Cape Interaction - Plume Separation From The Coastal Wall, Vorticity Generation And Fresh Water Retention.</a></h3></li> Funded by The National Science Foundation (NSF)
 
 	<br>
 	<h3 style="color:Tomato"> Past Research: </h3>
@@ -36,7 +37,7 @@ permalink: /research/
 
 	<li><h3> Circulation and mixing of river plumes</h3>
 	<div style="text-align:justify">
-	<p>During my postdoc at Rutgers University, I worked with Dr. Robert J. Chant and Dr. John Wilkin, doing in situ observations (moorings, hydrography, turbulence, Wirewalkers) and developing a high-resolution realistic numerical model using the Regional Ocean Modeling System (ROMS), as a member of Rutgers' Ocean Modeling Group. I worked in two different projects located off the coasts of New Jersey, and Virginia/North Carolina, focusing on advancing our understanding of the circulation and mixing of coastal trapped river plumes:</p></div>
+	<p>During my postdoc at Rutgers University, I worked with Dr. Robert J. Chant and Dr. John Wilkin, doing in situ observations (moorings, hydrography, turbulence, Wirewalkers) and developing a high-resolution realistic numerical model using the Regional Ocean Modeling System (ROMS), as a member of Rutgers' Ocean Modeling Group. I worked on two different projects located off the coasts of New Jersey, and Virginia/North Carolina, focusing on advancing our understanding of the circulation and mixing of coastal trapped river plumes:</p></div>
         <ul>
             <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/Coastally-Trapped-River-Plume/"> Chesapeake Bay Plume, Virginia/North Carolina</a></h3></li>
             <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/Hudson-River-Plume/"> Hudson River Plume, New York </a></h3> </li>
@@ -44,7 +45,7 @@ permalink: /research/
     </li>
 	<li><h3>Impact of river discharge and wind-forcing on the coastal ocean</h3>
 	<div style="text-align:justify">
-	<p>During my PhD at Oregon State University, I worked under the supervision of Dr. John A. Barth, as part of the Glider Research Group. I worked in different projects, investigating the role of river discharge and wind-forcing in the dynamics of the continental shelf:</p></div>
+	<p>During my PhD at Oregon State University, I worked under the supervision of Dr. John A. Barth, as part of the Glider Research Group. I worked on different projects, investigating the role of river discharge and wind-forcing in the dynamics of the continental shelf:</p></div>
        <ul>
             <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/Columbia-River-Plume/"> Influence of the Columbia River Plume on the Oregon Coast</a></h3></li>
             <li><h3><a href="{{ site.url }}{{ site.baseurl }}/research/Oregon-Coastal-Current/"> The Oregon Coastal Current</a></h3></li>

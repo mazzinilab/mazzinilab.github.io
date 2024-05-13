@@ -10,9 +10,12 @@ permalink: /publications/
 
 # Publications
 
+For a complete list and updated publications, go to: [Google Scholar - Piero Mazzini](https://scholar.google.com/citations?hl=en&user=YLs84F0AAAAJ&view_op=list_works&sortby=pubdate)
 <div style="text-align:justify" markdown="1">
 
 >#### <b> PEER-REVIEWED PUBLICATIONS <b>
+
+M.M. Cintra,  J.S. Silva-Cavalcanti, M.C. Araújo, **P.L.F. Mazzini**, M. Rollnic and D. Mendes. (2024). Sudden arrival of marine litter on the northeastern coast of Brazil: physical forcings and associated transport. *Regional Studies in Marine Science*, 103382. [Regional Studies in Marine Science](https://doi.org/10.1016/j.rsma.2024.103382)
 
 M. Dalsin, R. K. Walter and <b>P.L.F. Mazzini.</b> (2023). Effects of basin-scale climate modes and upwelling on nearshore marine heatwaves and cold spells in the California Current. <i> Nature - Scientific Reports </i>, 13, 12389. [[Nature]](https://www.nature.com/articles/s41598-023-39193-4) 
 

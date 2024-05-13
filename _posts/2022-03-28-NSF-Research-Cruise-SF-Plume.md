@@ -8,8 +8,8 @@ date: 2022-03-28
 
 <div style="text-align:justify" markdown="1">
 
-> <p> COLAB members and collaborators are doing fieldwork onboard the R/V Rachel Carson, collecting data for the NSF funded project: <i>River Plume-Cape Interaction - Plume Separation from The Coastal Wall, Vorticity Generation And Fresh Water Retention.</i>
-The study area is located on the West Coast, at the Gulf of the Farallones near San Francisco Bay, California. This project will examine the interaction of a stratified coastal plume with a cape, using a combined observational and modeling approaches. High-resolution shipboard surveys and moored instrumentation near Point Reyes, California, will measure the circulation and evolution of the San Francisco Bay Plume under a range of wind and river discharge conditions.
+> <p> COLAB members and collaborators are doing fieldwork onboard the R/V Rachel Carson, collecting data for the NSF-funded project: <i>River Plume-Cape Interaction - Plume Separation from The Coastal Wall, Vorticity Generation And Fresh Water Retention.</i>
+The study area is located on the West Coast, in the Gulf of the Farallones near San Francisco Bay, California. This project will examine the interaction of a stratified coastal plume with a cape, using combined observational and modeling approaches. High-resolution shipboard surveys and moored instrumentation near Point Reyes, California, will measure the circulation and evolution of the San Francisco Bay Plume under a range of wind and river discharge conditions.
 
 
 <div class="container-fluid">

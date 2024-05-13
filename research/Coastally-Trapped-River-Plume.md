@@ -45,7 +45,7 @@ permalink: /research/Coastally-Trapped-River-Plume/
 </figure>
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/IMG_7304.jpg" class="img-responsive" width="450px" height="auto" />
-<figcaption> Dr. Malcolm Scully attaching oceanographic sensor to the Wirewalker
+<figcaption> Dr. Malcolm Scully is attaching an oceanographic sensor to the Wirewalker
 </figcaption>
 </figure>
 <figure>

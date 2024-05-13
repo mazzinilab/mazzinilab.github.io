@@ -22,7 +22,7 @@ permalink: /team/
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Piero.jpg" class="img-responsive" width="80%" alt="Piero"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/mazzini_p_primary.png" class="img-responsive" width="80%" alt="Piero"/>
 </div>
 <div class="col-sm-9" >
 
@@ -32,9 +32,12 @@ permalink: /team/
 
 <i class="glyphicon glyphicon-envelope"></i> <pmazzini@vims.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/piero-mazzini-9a762535) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=YLs84F0AAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Piero_Mazzini)  <br>
 <span class="glyphicon glyphicon-phone-alt"></span> +1 (804) 684-7882 <br>
+
 **Office**: Andrews Hall 236 <br>
+
 **Section**: Coastal & Ocean Processes <br>
-**VIMS Profile**: <a href='https://www.vims.edu/research/departments/physical/people/faculty/mazzini_plf.php'> VIMS Faculty </a>
+
+**VIMS Profile**: <a href='https://www.vims.edu/about/directory/faculty/mazzini_plf.php'> VIMS Faculty </a>
 
 <p>Dr. Mazzini is an Assistant Professor at the Virginia Institute of Marine Science | William & Mary. He is a coastal physical oceanographer, and his research focuses on understanding how the coastal ocean responds to winds, waves, tides, freshwater input from rivers, and the exchange processes among estuaries, continental shelf, and the deep ocean. </p>
 
@@ -70,8 +73,13 @@ Additional information on Dr. Mazzini:
 #### Research Associate
 
 <i class="glyphicon glyphicon-envelope"></i> <cpianca@vims.edu> ; [<i class="fa fa-linkedin-square" aria-hidden="true"></i>](https://www.linkedin.com/in/cassia-pianca-960a5013a) [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com/citations?user=lLSmsOwAAAAJ&hl=en) [<i class="ai ai-researchgate-square"></i>](https://www.researchgate.net/profile/Cassia_Pianca)  <br>
+
 **Office**: NERRS Water Quality Facility <br>
-**Department**: <a href='https://www.vims.edu/cbnerr/'> Chesapeake Bay National Estuarine Research Reserve (CBNERR-VA)  </a>
+
+**Department**: <a href='https://www.vims.edu/cbnerr/'> Chesapeake Bay National Estuarine 
+Research Reserve (CBNERR-VA)  </a>
+
+**VIMS Profile**:<a href='https://www.vims.edu/cbnerr/about/people/pianca_c.php'> VIMS - CBNERR-VA - Our Team  </a>
 
 
 <p> Dr. Pianca is a coastal oceanographer and data scientist working on coastal and estuarine regions. She works at the Chesapeake Bay National Estuarine Research Reserve (CBNERR -VA) at the Virginia Institute of Marine Science | William & Mary.  </p>
@@ -117,7 +125,7 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="Julia"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/abrao_j_primary.png" class="img-responsive" width="80%" alt="Julia"/>
 </div>
 <div class="col-sm-9">
 ### Julia Abrao Teixeira
@@ -128,6 +136,8 @@ Additional information on Dr. Pianca:
 
 **Section**: Coastal & Ocean Processes
 
+**VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/abrao_j.php'> VIMS Students </a>
+
 </div></div></div></div>
 
 ---
@@ -136,7 +146,7 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="Ricardo"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nardi_r_primary.png" class="img-responsive" width="80%" alt="Ricardo"/>
 </div>
 <div class="col-sm-9">
 ### Ricardo Utzig Nardi
@@ -146,6 +156,8 @@ Additional information on Dr. Pianca:
 **Office**: Andrews Hall 201
 
 **Section**: Coastal & Ocean Processes
+
+**VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/utzig_nardi_r.php'> VIMS Students </a>
 
 </div></div></div></div>
 

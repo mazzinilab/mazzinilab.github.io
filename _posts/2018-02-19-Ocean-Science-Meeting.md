@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "COLAB was at 2018 Ocean Sciences Meeting"
+title: "COLAB was at the 2018 Ocean Sciences Meeting"
 date: 2018-02-19
 ---
 <br>

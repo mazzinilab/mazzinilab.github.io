@@ -10,7 +10,7 @@ permalink: /research/SF_Plume_from_space/
 
 <div style="text-align:justify" markdown="1">
 
-### <b> Impact of the San Francisco Bay Plume in the California north central coast </b>
+### <b> Impact of the San Francisco Bay Plume on the California north central coast </b>
 
 <div class="">
 <figure>

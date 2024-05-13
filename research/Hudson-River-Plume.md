@@ -13,18 +13,18 @@ permalink: /research/Hudson-River-Plume/
 
 ### <b> Circulation and Mixing of the Hudson River Plume </b>
 
-<p>In this work, we used data from the Lagrangian Transport and Transformation Experiment (LaTTE) conducted between 2004-2006, which focused on the discharge from the Hudson River onto the Mid Atlantic Bight shelf. This data set captured in high-resolution the passage of the “nose” or leading edge of the Hudson River plume by a mooring array, which provided us detailed two-dimensional information about the circulation within the plume.</p>
+<p>In this work, we used data from the Lagrangian Transport and Transformation Experiment (LaTTE) conducted between 2004-2006, which focused on the discharge from the Hudson River onto the Mid-Atlantic Bight shelf. This data set captured in high-resolution the passage of the “nose” or leading edge of the Hudson River plume by a mooring array, which provided us with detailed two-dimensional information about the circulation within the plume.</p>
 <p>The plume outflow was characterized by a two-layer bulge-like feature but became continuously stratified and vertically sheared in the far field, where Richardson numbers are generally below 0.5.
 High-frequency velocity and backscatter data from a moored ADCP revealed strong vertical and horizontal oscillatory motions at the front with a wavelength approximately 7–8 times the plume thickness, consistent with Kelvin-Helmholtz instabilities. These motions quickly died out after 2–3 cycles.</p>
 <p>The combination of vertical shear and stratification in the plume leads to a buoyancy flux toward the nose of the plume, which competes with mixing. However, the continued salinity increase of the plume as it propagated downshelf indicates that mixing overcomes this delivery of freshwater to the plume front.
-Based on those observations we developed a simple 2D model which relates the time rate-of-change of the plume salinity to: (1) salt entrainment due to vertical mixing, and (2) freshwater flux and salt removal due to the vertical shear of the stratified plume.</p>
+Based on those observations we developed a simple 2D model that relates the time rate-of-change of the plume salinity to (1) salt entrainment due to vertical mixing, and (2) freshwater flux and salt removal due to the vertical shear of the stratified plume.</p>
 <p>Estimates of an entrainment coefficient from this model are consistent with previous estimates from the near field of a river outflow. A scaling of the plume width is obtained by assuming that vertical shears are controlled by both thermal wind and a critical Richardson number. This scaling yields plume widths that are consistent with previous laboratory studies.</p>
 </div>
 
 <figure class="figure">
 <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/fig1_revision2.jpg" width="100%" class="img-responsive">
 <figcaption class="figure-caption; center-block">
-<p> (left) Study area overlayed by a satellite image from MODIS/Terra from 9 April 2005, showing the 555 nm wavelength remote sensing reflectance, an effective tracer of turbidity and colored dissolved organic matter in the water column, hence indicative of river plumes. The Hudson river plume is apparent along the New Jersey coast by regions of warm colors. A dashed line separates the near-field (bulge) and far-field (coastal current) regions of the plume (right) Zoom in the region indicated by box on left plot, with surface salinity and velocity vectors along the ship track from 10 April 2005.</p>
+<p> (left) Study area overlayed by a satellite image from MODIS/Terra from 9 April 2005, showing the 555 nm wavelength remote sensing reflectance, an effective tracer of turbidity and colored dissolved organic matter in the water column, hence indicative of river plumes. The Hudson River plume is apparent along the New Jersey coast by regions of warm colors. A dashed line separates the near-field (bulge) and far-field (coastal current) regions of the plume (right) Zoom in the region indicated by the box on the left plot, with surface salinity and velocity vectors along the ship track from 10 April 2005.</p>
 </figcaption>
 </figure>
 
