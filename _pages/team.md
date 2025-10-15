@@ -125,48 +125,6 @@ Additional information on Dr. Pianca:
 <div class="container-fluid">
 <div class="row">
 <div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/abrao_j_primary.png" class="img-responsive" width="80%" alt="Julia"/>
-</div>
-<div class="col-sm-9">
-### Julia Abrao Teixeira
-
-#### M.S. Student - VIMS
-
-**Office**: Andrews Hall 201
-
-**Section**: Coastal & Ocean Processes
-
-**VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/abrao_j.php'> VIMS Students </a>
-
-</div></div></div></div>
-
----
-
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nardi_r_primary.png" class="img-responsive" width="80%" alt="Ricardo"/>
-</div>
-<div class="col-sm-9">
-### Ricardo Utzig Nardi
-
-#### M.S. Student - VIMS
-
-**Office**: Andrews Hall 201
-
-**Section**: Coastal & Ocean Processes
-
-**VIMS Profile**: <a href='https://www.vims.edu/about/directory/students/utzig_nardi_r.php'> VIMS Students </a>
-
-</div></div></div></div>
-
----
-
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nophoto.png" class="img-responsive" width="80%" alt="arian"/>
 </div>
 <div class="col-sm-9">
@@ -179,34 +137,26 @@ Ph.D. Dissertation: <i>Internal waves and their influence on the ocean thermodyn
 </div></div></div></div>
 
 
-
----
-
-<div style="text-align:justify" markdown="1">
-<div class="container-fluid">
-<div class="row">
-<div class="col-sm-3">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/alyssa.jpg" class="img-responsive" width="80%" alt="Alyssa"/>
-</div>
-<div class="col-sm-9">
-### Alyssa Zimmer
-
-#### M.S. Student - San Francisco State University
-
-MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the Gulf of the Farallones.</i>
-
-</div></div></div></div>
-
-<div style="text-align:left" markdown="1">
-<h2 style="background-color:#00467f; color:#FFFFFF"> UNDERGRADUATE STUDENTS:</h2>
-</div>
-
-
 <br>
 
 <div style="text-align:left" markdown="1">
 <h2 style="background-color:#00467f; color:#FFFFFF"> LAB ASSISTANT:</h2>
 </div>
+
+### Research Assistant
+
+<div class="container-fluid">
+<div class="row">
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nardi_r_primary.png" class="img-responsive" width="40%" alt="Ricardo"/>
+2025 - Ricardo Utzig Nardi <br>
+(Virginia Institute <br> of Marine Science)
+</div>
+</div>
+</div>
+
+---
 
 <div style="text-align:justify" markdown="1">
 <div class="container-fluid">
@@ -238,7 +188,7 @@ MS Thesis: <i> Co-variability of Marine Heat Waves in San Francisco Bay and the 
 
 <div class="col-sm-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rachel.jpg" class="img-responsive" width="40%" alt="rachel"/>
-Rachel Jackson <br>
+2018/2019 - Rachel Jackson <br>
 (San Francisco State University)
 </div>
 </div>
@@ -252,7 +202,19 @@ Rachel Jackson <br>
 <div class="row">
 
 <div class="col-sm-4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nathan.jpg" class="img-responsive" width="40%" alt="nick"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/abrao_j_primary.png" class="img-responsive" width="40%" alt="Julia"/>
+2025 - Julia Abrao Teixeira <br>
+(M.S. - Virginia Institute <br> of Marine Science)
+</div>
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nardi_r_primary.png" class="img-responsive" width="40%" alt="Ricardo"/>  
+2025 - Ricardo Utzig Nardi <br>
+(M.S. - Virginia Institute <br> of Marine Science)
+</div>
+
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/nathan.jpg" class="img-responsive" width="40%" alt="Nathan"/>
 2023 - Nathan Shunk <br>
 (M.S. - Virginia Institute <br> of Marine Science)
 </div>
